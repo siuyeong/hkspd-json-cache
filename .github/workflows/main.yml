@@ -26,6 +26,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main # 拉取最新更改並重置基準
           git add data.json
           git commit -m "Update JSON file"
           git push https://x-access-token:${PAT}@github.com/${{ github.repository }}.git
