@@ -1,0 +1,1 @@
+# hkspd-json-cache
