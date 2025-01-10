@@ -1,0 +1,26 @@
+name: Fetch Data Hourly (2) for api
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小時運行一次
+  workflow_dispatch:  # 允許手動觸發
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch data from URL
+        run: |
+          curl -L -o api.json "https://script.google.com/macros/s/AKfycbzhonJLTBbNmwApISi4-1j1iwAdFu56Gfxawnuzt1vovmu3TOReFCgQLel9GzfZNxVyVA/exec"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add api.json
+          git commit -m "Update api.json" || echo "No changes to commit"
+          git push
