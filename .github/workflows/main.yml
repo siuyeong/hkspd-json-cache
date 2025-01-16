@@ -13,9 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Fetch data from URL
+      - name: Fetch data from URL with retries
         run: |
-          curl -L -o data.json "https://script.google.com/macros/s/AKfycby_ssZQyVKzA57TBvApvqEsHrRMMx0JH3W3tcAIAIPLRLI-9t29U1NVoLU-ve3EgbDB/exec"
+          for i in {1..5}; do
+            curl -L -o data.json "https://script.google.com/macros/s/AKfycby_ssZQyVKzA57TBvApvqEsHrRMMx0JH3W3tcAIAIPLRLI-9t29U1NVoLU-ve3EgbDB/exec" && break || echo "Attempt $i failed! Retrying..."
+            sleep 5  # 等待 5 秒再重試
+          done
+        continue-on-error: true
 
       - name: Commit and push changes
         run: |
