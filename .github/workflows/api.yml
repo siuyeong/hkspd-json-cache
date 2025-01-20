@@ -13,13 +13,34 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Fetch data from URL with retries
+      - name: Fetch CSV data from URL with retries
         run: |
           for i in {1..5}; do
-            curl -L -o api.json "https://script.google.com/macros/s/AKfycbzhonJLTBbNmwApISi4-1j1iwAdFu56Gfxawnuzt1vovmu3TOReFCgQLel9GzfZNxVyVA/exec" && break || echo "Attempt $i failed! Retrying..."
+            curl -L -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRD2puRQ8YkfFKdJsH5Y4oEFLQKh-8YAre52k9wtYn1_rmBl_HxwU2i5maYF-i0nI2ZZD1012MhMX-Y/pub?gid=0&single=true&output=csv" && break || echo "Attempt $i failed! Retrying..."
             sleep 5  # 等待 5 秒再重試
           done
         continue-on-error: true
+
+      - name: Convert CSV to JSON with UTC+0 date adjustment and filter empty values
+        run: |
+          if [ -f data.csv ]; then
+            # 安裝必要的工具
+            sudo apt-get install -y jq
+            npm install -g csvtojson
+
+            # 將 CSV 轉換為 JSON，並調整日期為 UTC+0，忽略空值
+            csvtojson data.csv | jq 'map(
+              if .date then
+                .date |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . + 0 | todate)  # 調整為 UTC+0
+              else 
+                . 
+              end | 
+              with_entries(select(.value != ""))  # 過濾空值
+            )' > api.json
+          else
+            echo "data.csv not found!"
+            exit 1
+          fi
 
       - name: Commit and push changes
         run: |
