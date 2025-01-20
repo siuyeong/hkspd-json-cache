@@ -21,20 +21,21 @@ jobs:
           done
         continue-on-error: true
 
-      - name: Convert CSV to JSON with UTC-8 date adjustment
+      - name: Convert CSV to JSON with UTC+0 date adjustment and filter empty values
         run: |
           if [ -f data.csv ]; then
             # 安裝必要的工具
             sudo apt-get install -y jq
             npm install -g csvtojson
 
-            # 將 CSV 轉換為 JSON，並調整日期為 UTC-8，忽略空值
+            # 將 CSV 轉換為 JSON，並調整日期為 UTC+0，忽略空值
             csvtojson data.csv | jq 'map(
               if .date then
-                .date |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . - 28800 | todate) 
+                .date |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . + 0 | todate)  # 調整為 UTC+0
               else 
                 . 
-              end | del(.[] | select(. == null))
+              end | 
+              with_entries(select(.value != ""))  # 過濾空值
             )' > data.json
           else
             echo "data.csv not found!"
