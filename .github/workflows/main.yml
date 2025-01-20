@@ -23,7 +23,7 @@ jobs:
 
       - name: Convert CSV to JSON
         run: |
-          if [ -f data.csv ]; then
+          if -f data.csv; then
             # 使用 jq 將 CSV 轉換為 JSON
             # 需要安裝 jq
             sudo apt-get install jq
