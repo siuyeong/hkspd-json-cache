@@ -23,13 +23,11 @@ jobs:
 
       - name: Convert CSV to JSON
         run: |
-          if -f data.csv; then
-            # 使用 jq 將 CSV 轉換為 JSON
-            # 需要安裝 jq
-            sudo apt-get install jq
-            # 使用 csvtojson 工具
+          if [ -f data.csv ]; then
+            # 使用 jq 將 CSV 轉換為 JSON，並去掉方括號
+            sudo apt-get install -y jq
             npm install -g csvtojson
-            csvtojson data.csv > data.json
+            csvtojson data.csv | jq 'map(del(.[0])) | from_entries' > data.json
           else
             echo "data.csv not found!"
             exit 1
