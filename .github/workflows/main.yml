@@ -31,7 +31,7 @@ jobs:
             # 將 CSV 轉換為 JSON，並調整日期為 UTC-8，忽略空值
             csvtojson data.csv | jq 'map(
               if .date then
-                .date = (strptime("%Y-%m-%d %H:%M:%S") | mktime | . - 28800 | todate) 
+                .date |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . - 28800 | todate) 
               else 
                 . 
               end | del(.[] | select(. == null))
