@@ -25,6 +25,7 @@ jobs:
         run: |
           if [ -f data.csv ]; then
             # 安裝必要的工具
+            sudo apt-get update  # 更新包列表
             sudo apt-get install -y jq
             npm install -g csvtojson
 
@@ -47,5 +48,10 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add data.json
-          git commit -m "Update data.json" || echo "No changes to commit"
+          
+          # 使用 --allow-empty 參數來允許空提交
+          git commit -m "Update data.json" --allow-empty || echo "No changes to commit"
+          
+          # 確保推送之前拉取最新的更改
+          git pull --rebase || echo "No changes to pull"
           git push
