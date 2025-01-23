@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-01-23T22:37:00Z",
+    "latitude": "22.4468402310847",
+    "longitude": "114.178090085290",
+    "tuned_address": "大埔元洲仔公園對開海面",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202501232237",
+    "gender": "女",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-23T10:52:00Z",
     "latitude": "22.4601371763532",
     "longitude": "114.172562910124",
