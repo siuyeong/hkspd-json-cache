@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-01-23T08:57:00Z",
+    "latitude": "22.2828597989260",
+    "longitude": "114.212679798547",
+    "tuned_address": "港島鰂魚涌街太成樓",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202501230857",
+    "gender": "女",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-21T09:50:00Z",
     "latitude": "22.5000386841371",
     "longitude": "114.126510122124",
