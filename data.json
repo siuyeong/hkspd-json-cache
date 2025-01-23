@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-01-23T10:52:00Z",
+    "latitude": "22.4601371763532",
+    "longitude": "114.172562910124",
+    "tuned_address": "大埔富亨邨亨榮樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501231052",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-23T08:57:00Z",
     "latitude": "22.2828597989260",
     "longitude": "114.212679798547",
@@ -75632,8 +75647,8 @@
   },
   {
     "date": "2020-07-17T07:28:00Z",
-    "latitude": "22.4601600000000",
-    "longitude": "114.172563000000",
+    "latitude": "22.4601371763532",
+    "longitude": "114.172562910124",
     "tuned_address": "大埔富亨邨亨榮樓",
     "tuned_profile": "51歲楊姓女子",
     "tuned_state": "自殺身亡",
