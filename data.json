@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-01-24T11:32:00Z",
+    "latitude": "22.3153361113463",
+    "longitude": "114.220608334303",
+    "tuned_address": "牛頭角玉蓮臺3座",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501241132",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
+    "date": "2025-01-24T11:10:00Z",
+    "latitude": "22.3500221786929",
+    "longitude": "114.126368842840",
+    "tuned_address": "葵涌荔景邨明景樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501241110",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-24T07:20:00Z",
     "latitude": "22.4714938556924",
     "longitude": "114.001111518696",
