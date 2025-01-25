@@ -16,6 +16,21 @@
     "age_group": "30 – 34"
   },
   {
+    "date": "2025-01-24T12:31:00Z",
+    "latitude": "22.3481676949086",
+    "longitude": "114.203827776980",
+    "tuned_address": "慈雲山慈民邨民裕樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202501251231",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-24T11:32:00Z",
     "latitude": "22.3153361113463",
     "longitude": "114.220608334303",
@@ -90324,8 +90339,8 @@
   },
   {
     "date": "2019-08-16T13:36:00Z",
-    "latitude": "22.3481620000000",
-    "longitude": "114.203825000000",
+    "latitude": "22.3481676949086",
+    "longitude": "114.203827776980",
     "tuned_address": "慈雲山慈民邨民裕樓",
     "tuned_profile": "92歲曾姓男子",
     "tuned_state": "自殺身亡",
