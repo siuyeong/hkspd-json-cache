@@ -1,5 +1,20 @@
 [
   {
+    "date": "2025-01-26T15:23:00Z",
+    "latitude": "22.3564385023479",
+    "longitude": "114.109401865978",
+    "tuned_address": "新界青衣運動場對開海面",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501261523",
+    "gender": "女",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-26T00:00:00Z",
     "latitude": "22.4922676333976",
     "longitude": "114.141369567390",
