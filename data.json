@@ -33,6 +33,21 @@
     "age_group": "75 – 79"
   },
   {
+    "date": "2025-01-26T15:00:00Z",
+    "latitude": "22.3200532086072",
+    "longitude": "114.036599624610",
+    "tuned_address": "大嶼山迪欣湖活動中心附近樹下",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501261500",
+    "gender": "男",
+    "method_1": "自焚",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "1",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-01-26T00:00:00Z",
     "latitude": "22.4922676333976",
     "longitude": "114.141369567390",
