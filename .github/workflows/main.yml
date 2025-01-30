@@ -35,12 +35,7 @@ jobs:
                 .date |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . + 0 | todate)  # 調整為 UTC+0
               else 
                 . 
-              end |
-              if .date_2 then
-                .date_2 |= (strptime("%Y-%m-%d %H:%M:%S") | mktime | . + 0 | todate)  # 調整為 UTC+0
-              else 
-                . 
-              end |
+              end | 
               with_entries(select(.value != ""))  # 過濾空值
             )' > data.json
           else
