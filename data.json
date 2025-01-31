@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-01-31T03:25:00Z",
+    "latitude": "22.3448781698221",
+    "longitude": "114.201214328938",
+    "tuned_address": "鑽石山鳳德邨碧鳳樓",
+    "tuned_profile": "92歲呂姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501311125",
+    "gender": "男",
+    "age": "92",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "1",
+    "age_group": "≧ 85"
+  },
+  {
     "date": "2025-01-30T06:22:00Z",
     "latitude": "22.2853765862616",
     "longitude": "114.134413894380",
@@ -12772,8 +12788,8 @@
   },
   {
     "date": "2024-04-28T00:56:00Z",
-    "latitude": "22.3343894090268",
-    "longitude": "22.335210305978",
+    "latitude": "22.3358669225725",
+    "longitude": "114.161835447760",
     "tuned_address": "李鄭屋樂年花園一單位",
     "tuned_profile": "60歲女子",
     "tuned_state": "自殺身亡",
@@ -67764,8 +67780,8 @@
   },
   {
     "date": "2021-01-15T09:00:00Z",
-    "latitude": "22.3448920000000",
-    "longitude": "114.201197000000",
+    "latitude": "22.3448781698221",
+    "longitude": "114.201214328938",
     "tuned_address": "鑽石山鳳德邨碧鳳樓",
     "tuned_profile": "63歲何姓男子",
     "tuned_state": "自殺身亡",
