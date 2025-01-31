@@ -1,5 +1,21 @@
 [
   {
+    "date": "2025-01-31T07:00:00Z",
+    "latitude": "22.3132471437694",
+    "longitude": "114.239319720897",
+    "tuned_address": "藍田興田邨彩田樓",
+    "tuned_profile": "22歲張姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202501311500",
+    "gender": "男",
+    "age": "22",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "1",
+    "age_group": "20 – 24"
+  },
+  {
     "date": "2025-01-31T03:25:00Z",
     "latitude": "22.3448781698221",
     "longitude": "114.201214328938",
