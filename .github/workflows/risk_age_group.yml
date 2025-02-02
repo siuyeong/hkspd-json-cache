@@ -1,8 +1,9 @@
-name: risk_age_group - Fetch Google Sheets Data
+name: Fetch Google Sheets Data
 
 on:
   schedule:
     - cron: '0 * * * *'  # 每小時運行一次
+  workflow_dispatch:  # 添加手動觸發功能
 
 jobs:
   fetch-data:
