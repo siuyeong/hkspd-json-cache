@@ -1,0 +1,16 @@
+[
+{"risk_level":"極高","risk_value":"10","hex_background":"#980000","hex_text":"#ffffff"}
+,
+{"risk_level":"甚高","risk_value":"7","hex_background":"#ff0000","hex_text":"#ffffff"}
+,
+{"risk_level":"高","risk_value":"5","hex_background":"#ff9900","hex_text":"#000000"}
+,
+{"risk_level":"中高","risk_value":"3.5","hex_background":"#ffff00","hex_text":"#000000"}
+,
+{"risk_level":"中","risk_value":"2","hex_background":"#00ff00","hex_text":"#000000"}
+,
+{"risk_level":"中低","risk_value":"1","hex_background":"#00ffff","hex_text":"#000000"}
+,
+{"risk_level":"低","risk_value":"0","hex_background":"#4a86e8","hex_text":"#ffffff"}
+
+]
