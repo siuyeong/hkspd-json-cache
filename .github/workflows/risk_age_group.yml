@@ -1,0 +1,56 @@
+name: risk_age_group.json - Fetch Google Spreadsheet Data
+
+on:
+  schedule:
+    - cron: "0 * * * *" # 每小時運行一次
+  workflow_dispatch: # 支持手動觸發
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # Install required Python libraries
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+
+      # Fetch data and convert to risk_age_group.json
+      - name: Fetch Google Spreadsheet and convert to JSON
+        run: |
+          curl -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ-iEq5K4CUbqtA6N21WDY8r_Fqk3Kvnw2Ks9l0jr0g31tQxEj_p1g9a23ambhG9qBtRbh_GepgiI2/pub?gid=0&single=true&output=csv&range=A9:D16"
+          python -c "
+import pandas as pd
+import json
+
+# 讀取 CSV 文件
+csv_file = 'data.csv'
+data = pd.read_csv(csv_file)
+
+# 轉換為 JSON
+json_data = data.to_json(orient='records')
+
+# 將 JSON 保存到 risk_age_group.json
+with open('risk_age_group.json', 'w') as f:
+    f.write(json_data)
+
+print('Data successfully written to risk_age_group.json')
+          "
+
+      # Save JSON as an artifact (optional)
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: risk-age-group-json
+          path: risk_age_group.json
