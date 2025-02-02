@@ -30,7 +30,7 @@ jobs:
       - name: Fetch Google Spreadsheet and convert to JSON
         run: |
           curl -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ-iEq5K4CUbqtA6N21WDY8r_Fqk3Kvnw2Ks9l0jr0g31tQxEj_p1g9a23ambhG9qBtRbh_GepgiI2/pub?gid=0&single=true&output=csv&range=A9:D16"
-          python -c "
+          python - <<EOF
 import pandas as pd
 import json
 
@@ -46,7 +46,7 @@ with open('risk_age_group.json', 'w') as f:
     f.write(json_data)
 
 print('Data successfully written to risk_age_group.json')
-          "
+EOF
 
       # Save JSON as an artifact (optional)
       - name: Upload JSON artifact
