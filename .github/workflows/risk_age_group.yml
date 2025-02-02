@@ -26,13 +26,15 @@ jobs:
       - name: Fetch data from Google Sheets
         run: |
           curl -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ-iEq5K4CUbqtA6N21WDY8r_Fqk3Kvnw2Ks9l0jr0g31tQxEj_p1g9a23ambhG9qBtRbh_GepgiI2/pub?gid=0&single=true&output=csv&range=A9:D16"
-          # 將 CSV 轉換為 JSON
+
+      - name: Convert CSV to JSON
+        run: |
           python -c "
 import pandas as pd
 data = pd.read_csv('data.csv')
 data.to_json('risk_age_group.json', orient='records', lines=True)
 "
-      
+
       - name: Upload JSON file
         uses: actions/upload-artifact@v2
         with:
