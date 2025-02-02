@@ -1,0 +1,50 @@
+name: risk_index.json - Fetch Google Spreadsheet Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch CSV data from URL with retries
+        run: |
+          for i in {1..5}; do
+            curl -L -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vRJ-iEq5K4CUbqtA6N21WDY8r_Fqk3Kvnw2Ks9l0jr0g31tQxEj_p1g9a23ambhG9qBtRbh_GepgiI2/pub?gid=0&single=true&output=csv&range=G21:J28" && break || echo "Attempt $i failed! Retrying..."
+            sleep 5  # 等待 5 秒再重试
+          done
+        continue-on-error: true
+
+      - name: Convert CSV to JSON
+        run: |
+          if [ -f data.csv ]; then
+            # 安装必要的工具
+            sudo apt-get update  # 更新包列表
+            sudo apt-get install -y jq
+            npm install -g csvtojson
+
+            # 将 CSV 转换为 JSON
+            csvtojson data.csv > risk_index.json
+          else
+            echo "data.csv not found!"
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "actions@github.com"
+          git add risk_index.json
+          
+          # 使用 --allow-empty 参数来允许空提交
+          git commit -m "Update risk_index.json" --allow-empty || echo "No changes to commit"
+          
+          # 确保推送之前拉取最新的更改
+          git pull --rebase || echo "No changes to pull"
+          git push
