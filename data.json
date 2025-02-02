@@ -15,6 +15,23 @@
     "age_group": "不詳"
   },
   {
+    "date": "2025-02-01T08:34:00Z",
+    "latitude": "22.3383569373576",
+    "longitude": "114.223783124473",
+    "tuned_address": "清水灣自殺崖高處",
+    "tuned_profile": "47歲溫姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502011634",
+    "gender": "男",
+    "age": "47",
+    "method_1": "跳落",
+    "reason_1": "家庭",
+    "reason_2": "健康",
+    "districts": "西貢區",
+    "month": "2",
+    "age_group": "45 – 49"
+  },
+  {
     "date": "2025-01-31T07:00:00Z",
     "latitude": "22.3132471437694",
     "longitude": "114.239319720897",
@@ -65279,8 +65296,8 @@
   },
   {
     "date": "2021-03-11T04:00:00Z",
-    "latitude": "22.3381331042045",
-    "longitude": "114.223813571165",
+    "latitude": "22.3383569373576",
+    "longitude": "114.223783124473",
     "tuned_address": "清水灣自殺崖高處",
     "tuned_profile": "31歲溫姓男子",
     "tuned_state": "自殺身亡",
@@ -65408,8 +65425,8 @@
   },
   {
     "date": "2021-03-10T05:00:00Z",
-    "latitude": "22.3381331042045",
-    "longitude": "114.223813571165",
+    "latitude": "22.3383569373576",
+    "longitude": "114.223783124473",
     "tuned_address": "清水灣自殺崖高處",
     "tuned_profile": "58歲余姓男子",
     "tuned_state": "自殺身亡",
