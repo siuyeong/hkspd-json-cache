@@ -20,30 +20,34 @@
     "latitude": "22.5153973214502",
     "longitude": "114.172869593673",
     "tuned_address": "坪輋簡頭村天佑居一單位",
-    "tuned_profile": "李姓男子",
+    "tuned_profile": "75歲李姓男子",
     "tuned_state": "企圖自殺",
     "source": "https://siuyeo.ng/hkspd202502051235",
     "gender": "男",
+    "age": "75",
     "method_1": "藥品",
     "reason_1": "家庭",
+    "reason_2": "財政",
     "districts": "北區",
     "month": "2",
-    "age_group": "不詳"
+    "age_group": "75 – 79"
   },
   {
     "date": "2025-02-05T04:35:00Z",
     "latitude": "22.5153973214502",
     "longitude": "114.172869593673",
     "tuned_address": "坪輋簡頭村天佑居一單位",
-    "tuned_profile": "李姓女子",
+    "tuned_profile": "71歲陳姓女子",
     "tuned_state": "企圖自殺",
     "source": "https://siuyeo.ng/hkspd202502051235",
     "gender": "女",
+    "age": "71",
     "method_1": "藥品",
     "reason_1": "家庭",
+    "reason_2": "財政",
     "districts": "北區",
     "month": "2",
-    "age_group": "不詳"
+    "age_group": "70 – 74"
   },
   {
     "date": "2025-02-03T05:04:00Z",
