@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-02-08T00:01:00Z",
+    "latitude": "22.2928623001813",
+    "longitude": "114.202844190112",
+    "tuned_address": "七姊妹渣華道現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202502080801",
+    "gender": "男",
+    "method_1": "藥品",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "2",
+    "age_group": "不詳"
+  },
+  {
+    "date": "2025-02-07T23:53:00Z",
+    "latitude": "22.5093428870378",
+    "longitude": "114.125552791421",
+    "tuned_address": "上水大元村一單位高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502080753",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "北區",
+    "month": "2",
+    "age_group": "不詳"
+  },
+  {
     "date": "2025-02-07T03:23:00Z",
     "latitude": "22.3300737219569",
     "longitude": "114.160183188893",
