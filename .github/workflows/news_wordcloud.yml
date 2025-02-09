@@ -16,7 +16,7 @@ jobs:
       - name: Fetch CSV data from URL with retries
         run: |
           for i in {1..5}; do
-            curl -L -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTS00y7Jq3v1gKztMJlClkZu3sTy1BhFxeFcJZ9h0OO1D_3rDM_QhL_TlUC3c6g6PPqPPPinIUnNOln/pub?gid=0&single=true&output=csv&range=D1:E11" && break || echo "Attempt $i failed! Retrying..."
+            curl -L -o data.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTS00y7Jq3v1gKztMJlClkZu3sTy1BhFxeFcJZ9h0OO1D_3rDM_QhL_TlUC3c6g6PPqPPPinIUnNOln/pub?gid=0&single=true&output=csv&range=D1:E101" && break || echo "Attempt $i failed! Retrying..."
             sleep 5  # 等待 5 秒再重试
           done
         continue-on-error: true
