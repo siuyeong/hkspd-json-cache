@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-02-14T00:48:00Z",
+    "latitude": "22.3409863733053",
+    "longitude": "114.186045086214",
+    "tuned_address": "九龍橫頭磡邨宏偉樓",
+    "tuned_profile": "64歲梁姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502140848",
+    "gender": "男",
+    "age": "64",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "2",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-02-13T01:22:00Z",
     "latitude": "22.2928626456411",
     "longitude": "114.169575134987",
