@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-02-14T08:10:00Z",
+    "latitude": "22.4995318754347",
+    "longitude": "114.128191140790",
+    "tuned_address": "上水旭埔苑一單位",
+    "tuned_profile": "67歲郭姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502141610",
+    "gender": "男",
+    "age": "67",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "北區",
+    "month": "2",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-02-14T06:44:00Z",
     "latitude": "22.3713984980005",
     "longitude": "114.132315338165",
