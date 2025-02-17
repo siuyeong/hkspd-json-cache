@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-02-16T12:00:00Z",
+    "latitude": "22.3028844792949",
+    "longitude": "114.186708635109",
+    "tuned_address": "紅磡海濱南岸一單位",
+    "tuned_profile": "33歲吳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502162000",
+    "gender": "男",
+    "age": "33",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "2",
+    "age_group": "30 – 34",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-02-16T07:31:00Z",
     "latitude": "22.3837239387339",
     "longitude": "113.971788275141",
