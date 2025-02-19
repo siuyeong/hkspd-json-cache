@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-02-19T03:40:00Z",
+    "latitude": "22.2887100793016",
+    "longitude": "114.034999365258",
+    "tuned_address": "坪洲坪利路對開海面",
+    "tuned_profile": "73歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502191140",
+    "gender": "男",
+    "age": "73",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "2",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-02-18T16:00:00Z",
     "latitude": "22.4416196313373",
     "longitude": "114.165857161212",
@@ -12786,8 +12805,8 @@
   },
   {
     "date": "2024-06-25T21:48:00Z",
-    "latitude": "22.4411012467199",
-    "longitude": "114.166167690535",
+    "latitude": "22.4411543089205",
+    "longitude": "114.165569702096",
     "tuned_address": "大埔曉運路2號一停車場一汽車",
     "tuned_profile": "39歲李姓男子",
     "tuned_state": "企圖自殺",
@@ -44233,8 +44252,8 @@
   },
   {
     "date": "2023-01-02T00:48:00Z",
-    "latitude": "22.4416261771393",
-    "longitude": "114.165845904313",
+    "latitude": "22.4412187655245",
+    "longitude": "114.166090051369",
     "tuned_address": "大埔運頭塘邨運亨樓對開垃圾站",
     "tuned_profile": "63歲鍾姓男子",
     "tuned_state": "自殺身亡",
@@ -117689,8 +117708,8 @@
   },
   {
     "date": "2019-03-13T04:47:00Z",
-    "latitude": "22.4408000000000",
-    "longitude": "114.166100000000",
+    "latitude": "22.4408369851211",
+    "longitude": "114.165803055100",
     "tuned_address": "大埔德雅苑一單位",
     "tuned_profile": "85歲林姓男子",
     "tuned_state": "自殺身亡",
