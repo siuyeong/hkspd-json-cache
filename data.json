@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-02-26T16:00:00Z",
+    "latitude": "22.3368628844287",
+    "longitude": "114.263152159261",
+    "tuned_address": "清水灣香港科技大學一洗手間",
+    "tuned_profile": "20歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202502270000",
+    "gender": "男",
+    "age": "20",
+    "method_1": "窒息",
+    "reason_1": "生活",
+    "districts": "西貢區",
+    "month": "2",
+    "age_group": "20 – 24",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-02-26T12:00:00Z",
     "latitude": "22.4522153659729",
     "longitude": "114.005396993840",
