@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-02T04:00:00Z",
+    "latitude": "22.5035033463013",
+    "longitude": "114.160507992936",
+    "tuned_address": "粉嶺山麗苑一單位",
+    "tuned_profile": "63歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503021200",
+    "gender": "男",
+    "age": "63",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "北區",
+    "month": "3",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-01T17:38:00Z",
     "latitude": "22.4409875552049",
     "longitude": "114.025446792489",
