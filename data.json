@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-02T08:00:00Z",
+    "latitude": "22.3899255026019",
+    "longitude": "114.202212824267",
+    "tuned_address": "沙田大涌橋路對開城門河",
+    "tuned_profile": "68歲蘇姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503021600",
+    "gender": "男",
+    "age": "68",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "沙田區",
+    "month": "3",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-02T04:00:00Z",
     "latitude": "22.5035033463013",
     "longitude": "114.160507992936",
