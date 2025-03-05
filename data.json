@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-05T09:17:00Z",
+    "latitude": "22.3635851475654",
+    "longitude": "114.134971912595",
+    "tuned_address": "葵涌華星工業大廈一單位",
+    "tuned_profile": "76歲鍾姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503051717",
+    "gender": "男",
+    "age": "76",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "3",
+    "age_group": "75 – 79",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-05T07:31:00Z",
     "latitude": "22.3092254772641",
     "longitude": "114.235196739924",
