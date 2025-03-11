@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-03-10T23:07:00Z",
+    "latitude": "22.4044320632644",
+    "longitude": "114.220536372605",
+    "tuned_address": "馬鞍山亞公角街一工地一貨櫃",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503110707",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "沙田區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-09T10:10:00Z",
     "latitude": "22.3741221788426",
     "longitude": "113.965040182199",
