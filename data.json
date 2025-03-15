@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-03-15T00:13:00Z",
+    "latitude": "22.2944620220011",
+    "longitude": "114.167678124187",
+    "tuned_address": "尖沙咀海運大廈對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503150813",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-14T03:51:00Z",
     "latitude": "22.4574589879565",
     "longitude": "113.997784193763",
