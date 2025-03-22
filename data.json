@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-22T05:24:00Z",
+    "latitude": "22.3443188088204",
+    "longitude": "114.197338812054",
+    "tuned_address": "竹園鳴鳳街鳳凰大樓",
+    "tuned_profile": "34歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503221324",
+    "gender": "男",
+    "age": "34",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "3",
+    "age_group": "30 – 34",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-22T05:18:00Z",
     "latitude": "22.3336018027372",
     "longitude": "114.165248599591",
