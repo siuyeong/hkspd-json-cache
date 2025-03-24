@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-24T10:00:00Z",
+    "latitude": "22.5000386841371",
+    "longitude": "114.126510122124",
+    "tuned_address": "上水彩園邨彩華樓",
+    "tuned_profile": "58歲黎姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503241800",
+    "gender": "男",
+    "age": "58",
+    "method_1": "跳落",
+    "reason_1": "生活",
+    "districts": "北區",
+    "month": "3",
+    "age_group": "55 – 59",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-24T01:51:00Z",
     "latitude": "22.3318334551852",
     "longitude": "114.167416941171",
