@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-03-24T01:51:00Z",
+    "latitude": "22.3318334551852",
+    "longitude": "114.167416941171",
+    "tuned_address": "深水埗石硤尾邨美禧樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202503240951",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "感情",
+    "reason_2": "財政",
+    "districts": "深水埗區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-23T12:00:00Z",
     "latitude": "22.4422581069146",
     "longitude": "114.168222025343",
