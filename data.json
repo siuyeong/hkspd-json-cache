@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-03-25T13:00:00Z",
+    "latitude": "22.4713138105484",
+    "longitude": "114.054569033621",
+    "tuned_address": "潭尾錦綉花園大道2號一汽車",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202503252100",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-25T07:00:00Z",
     "latitude": "22.2624848232693",
     "longitude": "114.235622421579",
