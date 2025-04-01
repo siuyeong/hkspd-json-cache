@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-01T04:36:00Z",
+    "latitude": "22.3167365039584",
+    "longitude": "114.159417519940",
+    "tuned_address": "大角咀海輝道遊樂空間附近海旁石壆",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202504011236",
+    "gender": "男",
+    "method_1": "窒息",
+    "reason_1": "財政",
+    "reason_2": "健康",
+    "districts": "油尖旺區",
+    "month": "4",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-03-31T15:49:00Z",
     "latitude": "22.3948449941937",
     "longitude": "114.108162543955",
