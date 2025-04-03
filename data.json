@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-03T04:35:00Z",
+    "latitude": "22.5243795492158",
+    "longitude": "114.209136642788",
+    "tuned_address": "船灣南涌公廁對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202504031235",
+    "gender": "男",
+    "method_1": "淹溺",
+    "method_2": "交通",
+    "reason_1": "不詳",
+    "districts": "北區",
+    "month": "4",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-03T01:16:00Z",
     "latitude": "22.3067478104724",
     "longitude": "114.252348061779",
