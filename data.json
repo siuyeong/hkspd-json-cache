@@ -1,23 +1,5 @@
 [
   {
-    "date": "2025-04-03T22:00:00Z",
-    "latitude": "22.3637673779177",
-    "longitude": "114.080336935998",
-    "tuned_address": "青衣汀九橋對開海面",
-    "tuned_profile": "一名男子",
-    "tuned_state": "自殺身亡",
-    "source": "https://siuyeo.ng/hkspd202504040600",
-    "gender": "男",
-    "method_1": "淹溺",
-    "reason_1": "不詳",
-    "districts": "葵青區",
-    "month": "4",
-    "age_group": "不詳",
-    "area": "新界",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
-  },
-  {
     "date": "2025-04-03T04:35:00Z",
     "latitude": "22.5243795492158",
     "longitude": "114.209136642788",
