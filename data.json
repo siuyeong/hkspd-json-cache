@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-05T07:22:00Z",
+    "latitude": "22.3621539385169",
+    "longitude": "114.126629798222",
+    "tuned_address": "葵涌葵聯邨聯悅樓",
+    "tuned_profile": "25歲黃姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504051522",
+    "gender": "男",
+    "age": "25",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "葵青區",
+    "month": "4",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-04T20:00:00Z",
     "latitude": "22.3106064190081",
     "longitude": "114.240494447535",
