@@ -20,6 +20,25 @@
     "emotional_illness": "有"
   },
   {
+    "date": "2025-04-10T01:00:00Z",
+    "latitude": "22.4042499063536",
+    "longitude": "113.971840564644",
+    "tuned_address": "屯門大興邨興平樓",
+    "tuned_profile": "33歲賴姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202504100900",
+    "gender": "男",
+    "age": "33",
+    "method_1": "氣體",
+    "reason_1": "財政",
+    "districts": "屯門區",
+    "month": "4",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-09T22:57:00Z",
     "latitude": "22.3869153321831",
     "longitude": "113.978103067152",
