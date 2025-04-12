@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-12T04:03:00Z",
+    "latitude": "22.3371676159132",
+    "longitude": "114.143633097029",
+    "tuned_address": "九龍荔枝角收押所一洗手間",
+    "tuned_profile": "38歲男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202504121203",
+    "gender": "男",
+    "age": "38",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "4",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-11T11:00:00Z",
     "latitude": "22.3891099250993",
     "longitude": "114.196146955276",
