@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-04-14T07:29:00Z",
+    "latitude": "22.3725768088552",
+    "longitude": "114.118772180388",
+    "tuned_address": "新界荃灣多層停車場高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504141529",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "4",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-14T00:49:00Z",
     "latitude": "22.2484348055158",
     "longitude": "114.151736961759",
