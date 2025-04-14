@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-14T19:40:00Z",
+    "latitude": "22.4980106144301",
+    "longitude": "114.126725876446",
+    "tuned_address": "上水太平邨平靜樓",
+    "tuned_profile": "29歲王姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504150340",
+    "gender": "男",
+    "age": "29",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "北區",
+    "month": "4",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-14T08:00:00Z",
     "latitude": "22.4542258448588",
     "longitude": "114.003214224774",
