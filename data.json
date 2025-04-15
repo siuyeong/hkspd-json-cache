@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-15T10:00:00Z",
+    "latitude": "22.3081524976132",
+    "longitude": "114.239081943532",
+    "tuned_address": "藍田德田邨德康樓",
+    "tuned_profile": "51歲張姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504151800",
+    "gender": "男",
+    "age": "51",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "4",
+    "age_group": "50 – 54",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-15T05:30:00Z",
     "latitude": "22.3096664218607",
     "longitude": "114.227968266855",
@@ -98061,8 +98080,8 @@
   },
   {
     "date": "2020-05-11T04:12:00Z",
-    "latitude": "22.3081740000000",
-    "longitude": "114.239100000000",
+    "latitude": "22.3081524976132",
+    "longitude": "114.239081943532",
     "tuned_address": "藍田德田邨德康樓",
     "tuned_profile": "46歲廖姓女子",
     "tuned_state": "自殺身亡",
