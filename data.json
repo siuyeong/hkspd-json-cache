@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-16T08:58:00Z",
+    "latitude": "22.3447206019438",
+    "longitude": "114.194674693799",
+    "tuned_address": "九龍竹園南邨雅園樓",
+    "tuned_profile": "56歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504161658",
+    "gender": "男",
+    "age": "56",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "黃大仙區",
+    "month": "4",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-15T10:00:00Z",
     "latitude": "22.3081524976132",
     "longitude": "114.239081943532",
