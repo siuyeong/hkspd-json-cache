@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-04-20T01:36:00Z",
+    "latitude": "22.4978975513488",
+    "longitude": "114.135782500285",
+    "tuned_address": "新界粉嶺北圍一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504200936",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "感情",
+    "districts": "北區",
+    "month": "4",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-19T11:30:00Z",
     "latitude": "22.3300566729950",
     "longitude": "114.206728682035",
