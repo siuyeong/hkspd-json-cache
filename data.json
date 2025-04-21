@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-21T11:10:00Z",
+    "latitude": "22.4643500312409",
+    "longitude": "114.004783734128",
+    "tuned_address": "天水圍天晴邨晴滿樓",
+    "tuned_profile": "16歲少年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504211910",
+    "gender": "男",
+    "age": "16",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "4",
+    "age_group": "15 – 19",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-21T06:30:00Z",
     "latitude": "22.3034751603026",
     "longitude": "114.260898784853",
@@ -102557,8 +102576,8 @@
   },
   {
     "date": "2020-02-18T22:30:00Z",
-    "latitude": "22.4643470000000",
-    "longitude": "114.004804000000",
+    "latitude": "22.4643500312409",
+    "longitude": "114.004783734128",
     "tuned_address": "天水圍天晴邨晴滿樓",
     "tuned_profile": "74歲陸姓老翁",
     "tuned_state": "自殺身亡",
