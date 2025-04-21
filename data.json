@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-04-21T06:30:00Z",
+    "latitude": "22.3034751603026",
+    "longitude": "114.260898784853",
+    "tuned_address": "將軍澳海天晉一單位",
+    "tuned_profile": "29歲王姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504211430",
+    "gender": "男",
+    "age": "29",
+    "method_1": "窒息",
+    "method_2": "氣體",
+    "reason_1": "健康",
+    "districts": "西貢區",
+    "month": "4",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-04-21T04:20:00Z",
     "latitude": "22.4035780794586",
     "longitude": "114.225594342309",
