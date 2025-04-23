@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-22T11:00:00Z",
+    "latitude": "22.3768156859416",
+    "longitude": "114.110165066880",
+    "tuned_address": "新界荃灣警署現場",
+    "tuned_profile": "27歲劉姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202504221900",
+    "gender": "男",
+    "age": "27",
+    "method_1": "出血",
+    "reason_1": "感情",
+    "districts": "荃灣區",
+    "month": "4",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-22T02:36:00Z",
     "latitude": "22.3663454160153",
     "longitude": "114.130617237882",
