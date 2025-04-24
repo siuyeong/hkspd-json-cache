@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-23T23:38:00Z",
+    "latitude": "22.3616417828919",
+    "longitude": "114.103831304092",
+    "tuned_address": "青衣長發邨敬發樓",
+    "tuned_profile": "92歲錢姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504240738",
+    "gender": "男",
+    "age": "92",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "4",
+    "age_group": "≧ 85",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-23T22:30:00Z",
     "latitude": "22.3114473617984",
     "longitude": "114.255498161981",
