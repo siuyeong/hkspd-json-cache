@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-24T11:00:00Z",
+    "latitude": "22.3798914472431",
+    "longitude": "114.136289624878",
+    "tuned_address": "荃灣梨木樹邨葵樹樓",
+    "tuned_profile": "50歲馮姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504241900",
+    "gender": "女",
+    "age": "50",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "4",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-23T23:38:00Z",
     "latitude": "22.3619128879956",
     "longitude": "114.103922154322",
