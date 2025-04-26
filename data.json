@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-26T02:08:00Z",
+    "latitude": "22.2807935952748",
+    "longitude": "114.183905249305",
+    "tuned_address": "銅鑼灣駱克道517號",
+    "tuned_profile": "57歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504261008",
+    "gender": "男",
+    "age": "57",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "灣仔區",
+    "month": "4",
+    "age_group": "55 – 59",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-25T09:00:00Z",
     "latitude": "22.4111683468955",
     "longitude": "113.972267400638",
