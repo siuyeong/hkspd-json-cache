@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-04-28T12:00:00Z",
+    "latitude": "22.2795007016010",
+    "longitude": "114.180322602214",
+    "tuned_address": "灣仔駱克道樂中樓",
+    "tuned_profile": "61歲黃姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202504282000",
+    "gender": "女",
+    "age": "61",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "灣仔區",
+    "month": "4",
+    "age_group": "60 – 64",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-04-27T16:00:00Z",
     "latitude": "22.3843683609887",
     "longitude": "113.975453338841",
