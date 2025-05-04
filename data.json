@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-05-04T01:27:00Z",
+    "latitude": "22.3358950641832",
+    "longitude": "114.156348765872",
+    "tuned_address": "長沙灣元州邨元禧樓",
+    "tuned_profile": "38歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505040927",
+    "gender": "男",
+    "age": "38",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "5",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-03T23:35:00Z",
     "latitude": "22.3130803065730",
     "longitude": "114.170147590497",
