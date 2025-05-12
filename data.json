@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-05-12T03:37:00Z",
+    "latitude": "22.3309390891704",
+    "longitude": "114.208762069736",
+    "tuned_address": "九龍灣觀塘道50號一地盤現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505121137",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "5",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-11T22:07:00Z",
     "latitude": "22.3722352408796",
     "longitude": "113.969378190550",
