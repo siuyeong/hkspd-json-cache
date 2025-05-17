@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-05-17T10:00:00Z",
+    "latitude": "22.4391290069068",
+    "longitude": "113.991634420272",
+    "tuned_address": "廈村田廈路一汽車",
+    "tuned_profile": "44歲楊姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505171800",
+    "gender": "男",
+    "age": "44",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "元朗區",
+    "month": "5",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-16T20:10:00Z",
     "latitude": "22.4241607938904",
     "longitude": "114.231595375056",
