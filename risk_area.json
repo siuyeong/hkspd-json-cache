@@ -11,9 +11,9 @@
 ,
 {"rank":"6","area":"北區","risk_level":"低","risk_value":"0.43"}
 ,
-{"rank":"7","area":"離島區","risk_level":"低","risk_value":"0.43"}
+{"rank":"7","area":"沙田區","risk_level":"低","risk_value":"0.43"}
 ,
-{"rank":"8","area":"沙田區","risk_level":"低","risk_value":"0.43"}
+{"rank":"8","area":"離島區","risk_level":"低","risk_value":"0.43"}
 ,
 {"rank":"9","area":"中西區","risk_level":"低","risk_value":"0.43"}
 ,
@@ -21,9 +21,9 @@
 ,
 {"rank":"11","area":"大埔區","risk_level":"低","risk_value":"0.22"}
 ,
-{"rank":"12","area":"葵青區","risk_level":"低","risk_value":"0.22"}
+{"rank":"12","area":"荃灣區","risk_level":"低","risk_value":"0.22"}
 ,
-{"rank":"13","area":"荃灣區","risk_level":"低","risk_value":"0.22"}
+{"rank":"13","area":"葵青區","risk_level":"低","risk_value":"0.22"}
 ,
 {"rank":"14","area":"東區","risk_level":"低","risk_value":"0.09"}
 ,
