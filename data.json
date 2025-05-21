@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-05-20T14:00:00Z",
+    "latitude": "22.2253222583103",
+    "longitude": "114.198605415327",
+    "tuned_address": "淺水灣南灣泳灘一汽車",
+    "tuned_profile": "51歲胡姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505202200",
+    "gender": "男",
+    "age": "51",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "reason_2": "感情",
+    "districts": "南區",
+    "month": "5",
+    "age_group": "50 – 54",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-20T06:55:00Z",
     "latitude": "22.3836912714566",
     "longitude": "114.215173968111",
