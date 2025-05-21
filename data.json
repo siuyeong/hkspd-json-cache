@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-05-21T04:49:00Z",
+    "latitude": "22.3203409281619",
+    "longitude": "114.261786385400",
+    "tuned_address": "魷魚灣景林邨景櫚樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505211249",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "西貢區",
+    "month": "5",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-20T14:00:00Z",
     "latitude": "22.2253222583103",
     "longitude": "114.198605415327",
@@ -92604,8 +92622,8 @@
   },
   {
     "date": "2020-09-14T09:00:00Z",
-    "latitude": "22.3203410000000",
-    "longitude": "114.261788000000",
+    "latitude": "22.3203409281619",
+    "longitude": "114.261786385400",
     "tuned_address": "魷魚灣景林邨景櫚樓",
     "tuned_profile": "31歲吳姓男子",
     "tuned_state": "自殺身亡",
