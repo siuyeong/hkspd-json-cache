@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-05-30T18:12:00Z",
+    "latitude": "22.3300191692661",
+    "longitude": "114.209360366139",
+    "tuned_address": "九龍灣啟業邨啟祥樓",
+    "tuned_profile": "23歲張姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202505310212",
+    "gender": "男",
+    "age": "23",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "5",
+    "age_group": "20 – 24",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-30T03:35:00Z",
     "latitude": "22.3327487999989",
     "longitude": "114.167238928827",
@@ -85734,8 +85753,8 @@
   },
   {
     "date": "2021-02-02T08:00:00Z",
-    "latitude": "22.3291260000000",
-    "longitude": "114.208969000000",
+    "latitude": "22.3291223347852",
+    "longitude": "114.208942703458",
     "tuned_address": "九龍灣啟業邨啟賢樓",
     "tuned_profile": "54歲陳姓男子",
     "tuned_state": "自殺身亡",
@@ -108902,8 +108921,8 @@
   },
   {
     "date": "2019-11-17T00:58:00Z",
-    "latitude": "22.3285410000000",
-    "longitude": "114.209353000000",
+    "latitude": "22.3283897646221",
+    "longitude": "114.209403648980",
     "tuned_address": "九龍灣啟業邨啟樂樓",
     "tuned_profile": "68歲林姓男子",
     "tuned_state": "自殺身亡",
@@ -117340,8 +117359,8 @@
   },
   {
     "date": "2019-06-11T18:00:00Z",
-    "latitude": "22.3285410000000",
-    "longitude": "114.209353000000",
+    "latitude": "22.3283897646221",
+    "longitude": "114.209403648980",
     "tuned_address": "九龍灣啟業邨啟樂樓",
     "tuned_profile": "60歲鄭姓男子",
     "tuned_state": "自殺身亡",
