@@ -1,9 +1,9 @@
 [
   {
     "date": "2025-05-31T08:00:00Z",
-    "latitude": "22.2810137121808",
-    "longitude": "114.228770279961",
-    "tuned_address": "愛秩序灣愛蝶灣一單位",
+    "latitude": "22.2810070907996",
+    "longitude": "114.229041694605",
+    "tuned_address": "愛秩序灣愛蝶灣5座",
     "tuned_profile": "51歲莊姓男子",
     "tuned_state": "自殺身亡",
     "source": "https://siuyeo.ng/hkspd202505311600_2",
@@ -29,13 +29,14 @@
     "gender": "男",
     "age": "42",
     "method_1": "跳落",
-    "reason_1": "不詳",
+    "reason_1": "工作",
+    "reason_2": "健康",
     "districts": "南區",
     "month": "5",
     "age_group": "40 – 44",
     "area": "港島",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有"
+    "emotional_illness": "有"
   },
   {
     "date": "2025-05-30T18:12:00Z",
