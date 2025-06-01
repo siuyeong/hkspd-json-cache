@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-01T04:47:00Z",
+    "latitude": "22.3234105339103",
+    "longitude": "114.167493237425",
+    "tuned_address": "九龍旺角維景酒店一房間",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506011247",
+    "gender": "女",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-05-31T16:00:00Z",
     "latitude": "22.2931468268960",
     "longitude": "114.168253119365",
