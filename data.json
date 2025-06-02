@@ -1,6 +1,25 @@
 [
   {
-    "date": "2025-06-02T04:47:00Z",
+    "date": "2025-06-02T01:33:00Z",
+    "latitude": "22.3445605850293",
+    "longitude": "114.199968701411",
+    "tuned_address": "鑽石山鳳德邨雪鳳樓",
+    "tuned_profile": "66歲馮姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506020933",
+    "gender": "男",
+    "age": "66",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "6",
+    "age_group": "65 – 69",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
+    "date": "2025-06-01T16:00:00Z",
     "latitude": "22.4444027175995",
     "longitude": "114.017423761761",
     "tuned_address": "元朗朗庭園3座",
@@ -19,7 +38,7 @@
     "emotional_illness": "有"
   },
   {
-    "date": "2025-06-02T04:47:00Z",
+    "date": "2025-06-01T16:00:00Z",
     "latitude": "22.4444027175995",
     "longitude": "114.017423761761",
     "tuned_address": "元朗朗庭園3座",
@@ -36,24 +55,6 @@
     "area": "新界",
     "mental_illness": "沒有",
     "emotional_illness": "有"
-  },
-  {
-    "date": "2025-06-02T01:33:00Z",
-    "latitude": "22.3445605850293",
-    "longitude": "114.199968701411",
-    "tuned_address": "鑽石山鳳德邨雪鳳樓",
-    "tuned_profile": "一名男子",
-    "tuned_state": "自殺身亡",
-    "source": "https://siuyeo.ng/hkspd202506020933",
-    "gender": "男",
-    "method_1": "跳落",
-    "reason_1": "不詳",
-    "districts": "黃大仙區",
-    "month": "6",
-    "age_group": "不詳",
-    "area": "九龍",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
   },
   {
     "date": "2025-06-01T04:47:00Z",
