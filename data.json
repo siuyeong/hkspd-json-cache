@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-04T02:27:00Z",
+    "latitude": "22.3306056157762",
+    "longitude": "114.226282328505",
+    "tuned_address": "茶寮坳順利邨利康樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506041027",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-03T12:00:00Z",
     "latitude": "22.3368262679388",
     "longitude": "114.205949635566",
@@ -125391,8 +125409,8 @@
   },
   {
     "date": "2019-02-07T00:03:00Z",
-    "latitude": "22.3301050000000",
-    "longitude": "114.225697000000",
+    "latitude": "22.3300928144405",
+    "longitude": "114.225693926886",
     "tuned_address": "茶寮坳順利邨公園附近山坡",
     "tuned_profile": "50歲男子",
     "tuned_state": "自殺身亡",
@@ -127138,8 +127156,8 @@
   },
   {
     "date": "2019-01-04T02:25:00Z",
-    "latitude": "22.3329790000000",
-    "longitude": "114.225082000000",
+    "latitude": "22.3329740733859",
+    "longitude": "114.225085635508",
     "tuned_address": "茶寮坳順利邨利祥樓",
     "tuned_profile": "66歲張姓男子",
     "tuned_state": "自殺身亡",
@@ -127288,8 +127306,8 @@
   },
   {
     "date": "2018-12-31T22:00:00Z",
-    "latitude": "22.3320510000000",
-    "longitude": "114.224816000000",
+    "latitude": "22.3320423162752",
+    "longitude": "114.224809294493",
     "tuned_address": "茶寮坳順利邨利明樓",
     "tuned_profile": "25歲李姓女青年",
     "tuned_state": "自殺身亡",
