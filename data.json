@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-03T12:00:00Z",
+    "latitude": "22.3368262679388",
+    "longitude": "114.205949635566",
+    "tuned_address": "牛池灣彩虹邨紅萼樓",
+    "tuned_profile": "55歲鄧姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506032000",
+    "gender": "男",
+    "age": "55",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "6",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-03T04:58:00Z",
     "latitude": "22.3213300122775",
     "longitude": "114.231390917701",
