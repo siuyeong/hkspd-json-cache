@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-05T03:23:00Z",
+    "latitude": "22.4516951226907",
+    "longitude": "114.161445233916",
+    "tuned_address": "大埔太和邨喜和樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202506051123",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-04T21:28:00Z",
     "latitude": "22.3286878791524",
     "longitude": "114.215925233724",
