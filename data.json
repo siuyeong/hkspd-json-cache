@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-05T08:00:00Z",
+    "latitude": "22.2991128728871",
+    "longitude": "114.237457100185",
+    "tuned_address": "油塘油麗邨仁麗樓對開行人路",
+    "tuned_profile": "43歲黃姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202506051600",
+    "gender": "男",
+    "age": "43",
+    "method_1": "出血",
+    "reason_1": "畏罪",
+    "districts": "觀塘區",
+    "month": "6",
+    "age_group": "40 – 44",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-05T03:23:00Z",
     "latitude": "22.4516951226907",
     "longitude": "114.161445233916",
