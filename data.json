@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-09T03:22:00Z",
+    "latitude": "22.4997474530258",
+    "longitude": "114.142953298234",
+    "tuned_address": "粉嶺聯昌街聯昌大樓",
+    "tuned_profile": "47歲鄧姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506091122",
+    "gender": "女",
+    "age": "47",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "北區",
+    "month": "6",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-09T01:44:00Z",
     "latitude": "22.3817478794462",
     "longitude": "114.188594284062",
