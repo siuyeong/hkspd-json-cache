@@ -1,5 +1,6 @@
 [
-{"date":"2025-06-11","caseCount":"3","7DayAverage":"3.14","60DayAverage":"2.98","risk_index":"7.40"},
+{"date":"2025-06-12","caseCount":"0","7DayAverage":"3.43","60DayAverage":"3.02","risk_index":"2.46"},
+{"date":"2025-06-11","caseCount":"3","7DayAverage":"3.14","60DayAverage":"2.98","risk_index":"6.96"},
 {"date":"2025-06-10","caseCount":"4","7DayAverage":"2.86","60DayAverage":"3.00","risk_index":"7.44"},
 {"date":"2025-06-09","caseCount":"3","7DayAverage":"3.14","60DayAverage":"3.00","risk_index":"6.32"},
 {"date":"2025-06-08","caseCount":"3","7DayAverage":"3.00","60DayAverage":"2.98","risk_index":"6.15"},
@@ -362,6 +363,5 @@
 {"date":"2024-06-16","caseCount":"2","7DayAverage":"2.29","60DayAverage":"2.67","risk_index":"2.29"},
 {"date":"2024-06-15","caseCount":"0","7DayAverage":"2.86","60DayAverage":"2.70","risk_index":"1.46"},
 {"date":"2024-06-14","caseCount":"2","7DayAverage":"3.29","60DayAverage":"2.72","risk_index":"4.20"},
-{"date":"2024-06-13","caseCount":"5","7DayAverage":"2.86","60DayAverage":"2.63","risk_index":"5.98"},
-{"date":"2024-06-12","caseCount":"1","7DayAverage":"3.14","60DayAverage":"2.67","risk_index":"2.69"}
+{"date":"2024-06-13","caseCount":"5","7DayAverage":"2.86","60DayAverage":"2.63","risk_index":"5.98"}
 ]
