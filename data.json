@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-12T05:52:00Z",
+    "latitude": "22.4277130735204",
+    "longitude": "114.086942818486",
+    "tuned_address": "石崗蓮花地一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202506121352",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-11T09:00:00Z",
     "latitude": "22.2780354094860",
     "longitude": "114.227656244306",
