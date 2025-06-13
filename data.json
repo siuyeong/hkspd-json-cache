@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-13T13:00:00Z",
+    "latitude": "22.3282206780087",
+    "longitude": "114.217145150613",
+    "tuned_address": "平山彩福邨彩善樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202506132100",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "感情",
+    "districts": "觀塘區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-13T03:28:00Z",
     "latitude": "22.3201865993820",
     "longitude": "114.229829315585",
