@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-18T03:00:00Z",
+    "latitude": "22.3385516786099",
+    "longitude": "114.150738328565",
+    "tuned_address": "長沙灣香港紗廠工業大廈5期高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506181100",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-17T05:30:00Z",
     "latitude": "22.4161232799866",
     "longitude": "114.229401564377",
