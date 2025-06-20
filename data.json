@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-19T21:43:00Z",
+    "latitude": "22.3806263877683",
+    "longitude": "114.213977279137",
+    "tuned_address": "小瀝源廣源邨廣楊樓",
+    "tuned_profile": "83歲老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506200543",
+    "gender": "男",
+    "age": "83",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "沙田區",
+    "month": "6",
+    "age_group": "80 – 84",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-19T19:44:00Z",
     "latitude": "22.3395348761324",
     "longitude": "114.195282802855",
