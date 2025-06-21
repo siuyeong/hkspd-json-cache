@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-21T11:04:00Z",
+    "latitude": "22.3329619328589",
+    "longitude": "114.209742834372",
+    "tuned_address": "牛頭角坪石邨藍石樓",
+    "tuned_profile": "39歲徐姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506211904",
+    "gender": "男",
+    "age": "39",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "6",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-20T21:00:00Z",
     "latitude": "22.3362769188269",
     "longitude": "114.194958421961",
