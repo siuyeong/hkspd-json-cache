@@ -57,6 +57,25 @@
     "emotional_illness": "有"
   },
   {
+    "date": "2025-06-21T15:40:00Z",
+    "latitude": "22.3700174630942",
+    "longitude": "114.119441359261",
+    "tuned_address": "荃灣仁濟醫院一病房",
+    "tuned_profile": "79歲老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506212340",
+    "gender": "男",
+    "age": "79",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "6",
+    "age_group": "75 – 79",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-21T11:04:00Z",
     "latitude": "22.3329619328589",
     "longitude": "114.209742834372",
