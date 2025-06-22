@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-06-22T14:00:00Z",
+    "latitude": "22.2645988995561",
+    "longitude": "114.242712768258",
+    "tuned_address": "港島柴灣邨灣映樓",
+    "tuned_profile": "27歲李姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506222200",
+    "gender": "女",
+    "age": "27",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "6",
+    "age_group": "25 – 29",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-22T03:44:00Z",
     "latitude": "22.2524898419797",
     "longitude": "114.135276047345",
