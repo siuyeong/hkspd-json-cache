@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-23T09:00:00Z",
+    "latitude": "22.3031745281103",
+    "longitude": "114.173359952404",
+    "tuned_address": "尖沙咀柯士甸道帝寶樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506231700",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-23T05:07:00Z",
     "latitude": "22.3022381555245",
     "longitude": "114.253958233252",
