@@ -10,12 +10,12 @@
     "gender": "男",
     "age": "72",
     "method_1": "燒炭",
-    "reason_1": "不詳",
+    "reason_1": "健康",
     "districts": "西貢區",
     "month": "6",
     "age_group": "70 – 74",
     "area": "新界",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有"
   },
   {
@@ -29,12 +29,12 @@
     "gender": "女",
     "age": "66",
     "method_1": "燒炭",
-    "reason_1": "不詳",
+    "reason_1": "健康",
     "districts": "西貢區",
     "month": "6",
     "age_group": "65 – 69",
     "area": "新界",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有"
   },
   {
