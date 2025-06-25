@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-25T04:00:00Z",
+    "latitude": "22.2690826664822",
+    "longitude": "114.236800996079",
+    "tuned_address": "西灣山東區醫院分科大樓後山",
+    "tuned_profile": "一名陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506251200",
+    "gender": "男",
+    "method_1": "不詳",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-24T18:07:00Z",
     "latitude": "22.2801861080613",
     "longitude": "114.127976175702",
