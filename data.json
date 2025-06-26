@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-26T00:01:00Z",
+    "latitude": "22.3074006032171",
+    "longitude": "114.234492627651",
+    "tuned_address": "藍田康田苑一大廈高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506260801",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-25T14:00:00Z",
     "latitude": "22.3333349270470",
     "longitude": "114.208679208443",
@@ -54,6 +72,25 @@
     "age_group": "65 – 69",
     "area": "新界",
     "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
+    "date": "2025-06-25T08:36:00Z",
+    "latitude": "22.3568432272387",
+    "longitude": "114.129447529671",
+    "tuned_address": "新界葵涌警署羈留室",
+    "tuned_profile": "34歲王姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506251636",
+    "gender": "男",
+    "age": "34",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "6",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
     "emotional_illness": "沒有"
   },
   {
