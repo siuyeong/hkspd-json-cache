@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-26T23:54:00Z",
+    "latitude": "22.3193289934923",
+    "longitude": "114.267895465875",
+    "tuned_address": "坑口富寧花園一大廈高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202506270754",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "西貢區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-26T15:40:00Z",
     "latitude": "22.2447475815913",
     "longitude": "114.147437894014",
