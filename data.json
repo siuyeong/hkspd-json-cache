@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-06-27T01:44:00Z",
+    "latitude": "22.2876633552861",
+    "longitude": "114.159579033151",
+    "tuned_address": "港島中環5號渡輪碼頭對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202506270944",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "中西區",
+    "month": "6",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-06-26T23:54:00Z",
     "latitude": "22.3193289934923",
     "longitude": "114.267895465875",
