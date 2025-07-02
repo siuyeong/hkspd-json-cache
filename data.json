@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-02T19:00:00Z",
+    "latitude": "22.4442878425352",
+    "longitude": "114.026126714903",
+    "tuned_address": "元朗青山公路元朗大廈",
+    "tuned_profile": "47歲何姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202507030300",
+    "gender": "男",
+    "age": "47",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "7",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-02T04:13:00Z",
     "latitude": "22.2842589247576",
     "longitude": "114.211985957798",
