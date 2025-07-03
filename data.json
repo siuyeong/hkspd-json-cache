@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-03T10:30:00Z",
+    "latitude": "22.3660024166087",
+    "longitude": "114.122625474785",
+    "tuned_address": "葵涌大窩口邨富泰樓",
+    "tuned_profile": "70歲林姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507031830",
+    "gender": "男",
+    "age": "70",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "葵青區",
+    "month": "7",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-03T07:53:00Z",
     "latitude": "22.3084942264339",
     "longitude": "114.260088578876",
@@ -97708,8 +97727,8 @@
   },
   {
     "date": "2020-07-28T21:00:00Z",
-    "latitude": "22.3659700000000",
-    "longitude": "114.122610000000",
+    "latitude": "22.3660024166087",
+    "longitude": "114.122625474785",
     "tuned_address": "葵涌大窩口邨富泰樓",
     "tuned_profile": "一名男子",
     "tuned_state": "企圖自殺",
