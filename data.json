@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-06T08:29:00Z",
+    "latitude": "22.3191483708914",
+    "longitude": "114.233839849812",
+    "tuned_address": "九龍秀茂坪邨秀程樓",
+    "tuned_profile": "28歲梁姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507061629",
+    "gender": "男",
+    "age": "28",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "觀塘區",
+    "month": "7",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-05T05:40:00Z",
     "latitude": "22.3228227156495",
     "longitude": "114.162750812529",
