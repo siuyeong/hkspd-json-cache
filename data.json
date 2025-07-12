@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-12T06:11:00Z",
+    "latitude": "22.3789888139024",
+    "longitude": "114.107343086952",
+    "tuned_address": "新界荃灣中心太原樓",
+    "tuned_profile": "24歲郭姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507121411",
+    "gender": "男",
+    "age": "24",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "荃灣區",
+    "month": "7",
+    "age_group": "20 – 24",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-07-12T05:16:00Z",
     "latitude": "22.3237123337443",
     "longitude": "114.169300534276",
