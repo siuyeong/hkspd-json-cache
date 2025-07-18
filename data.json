@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-18T10:30:00Z",
+    "latitude": "22.2669734783218",
+    "longitude": "114.242091573416",
+    "tuned_address": "柴灣漁灣邨漁進樓",
+    "tuned_profile": "30歲鄺姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507181830",
+    "gender": "男",
+    "age": "30",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "東區",
+    "month": "7",
+    "age_group": "30 – 34",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-07-18T01:55:00Z",
     "latitude": "22.3121586044402",
     "longitude": "114.219654341056",
