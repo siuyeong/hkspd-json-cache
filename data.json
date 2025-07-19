@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-19T10:30:00Z",
+    "latitude": "22.4479738612337",
+    "longitude": "114.174717476617",
+    "tuned_address": "大埔廣福邨廣祐樓",
+    "tuned_profile": "26歲杜姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507191830",
+    "gender": "男",
+    "age": "26",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "大埔區",
+    "month": "7",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-07-18T10:30:00Z",
     "latitude": "22.2669734783218",
     "longitude": "114.242091573416",
@@ -124769,8 +124788,8 @@
   },
   {
     "date": "2019-04-01T14:00:00Z",
-    "latitude": "22.4479740000000",
-    "longitude": "114.174709000000",
+    "latitude": "22.4479738612337",
+    "longitude": "114.174717476617",
     "tuned_address": "大埔廣福邨廣祐樓",
     "tuned_profile": "30歲王姓男子",
     "tuned_state": "自殺身亡",
