@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-22T08:19:00Z",
+    "latitude": "22.3308631483910",
+    "longitude": "114.201755556481",
+    "tuned_address": "啟德煥然壹居一大廈高處",
+    "tuned_profile": "39歲鄺姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507221619",
+    "gender": "男",
+    "age": "39",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "九龍城區",
+    "month": "7",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-22T00:23:00Z",
     "latitude": "22.3670427387991",
     "longitude": "114.110129425159",
