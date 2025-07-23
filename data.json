@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-23T05:44:00Z",
+    "latitude": "22.2501279188794",
+    "longitude": "114.140258627184",
+    "tuned_address": "雞籠灣華貴邨華孝樓",
+    "tuned_profile": "75歲張姓老翁",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202507231344",
+    "gender": "男",
+    "age": "75",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "南區",
+    "month": "7",
+    "age_group": "75 – 79",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-23T01:31:00Z",
     "latitude": "22.3154195228268",
     "longitude": "114.223361690643",
