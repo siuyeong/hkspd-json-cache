@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-24T06:00:00Z",
+    "latitude": "22.4456666128674",
+    "longitude": "114.020968545912",
+    "tuned_address": "元朗水邊圍邨湖水樓",
+    "tuned_profile": "74歲許姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507241400",
+    "gender": "男",
+    "age": "74",
+    "method_1": "跳落",
+    "reason_1": "生活",
+    "districts": "元朗區",
+    "month": "7",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-24T03:11:00Z",
     "latitude": "22.3050201090471",
     "longitude": "114.166692483447",
