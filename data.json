@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-07-24T19:31:00Z",
+    "latitude": "22.3169127975010",
+    "longitude": "114.175092666505",
+    "tuned_address": "九龍何文田街龍文大廈",
+    "tuned_profile": "36歲盧姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507250331",
+    "gender": "男",
+    "age": "36",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "7",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-24T16:00:00Z",
     "latitude": "22.2771634628541",
     "longitude": "114.180686511865",
