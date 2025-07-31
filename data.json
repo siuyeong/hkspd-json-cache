@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-07-31T00:39:00Z",
+    "latitude": "22.4444143934364",
+    "longitude": "114.010712325797",
+    "tuned_address": "屏山達德學校舊址現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202507310839",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "7",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-07-30T21:13:00Z",
     "latitude": "22.3629787671802",
     "longitude": "114.132403762232",
