@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-04T23:00:00Z",
+    "latitude": "22.2748338831485",
+    "longitude": "114.168725758390",
+    "tuned_address": "灣仔堅尼地道9號高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508050700",
+    "gender": "男",
+    "method_1": "不詳",
+    "reason_1": "不詳",
+    "districts": "灣仔區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-04T13:00:00Z",
     "latitude": "22.3292644249580",
     "longitude": "114.163008673847",
