@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-07T04:30:00Z",
+    "latitude": "22.2484033926043",
+    "longitude": "114.146263448640",
+    "tuned_address": "田灣興偉工業中心一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202508071230",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-06T20:48:00Z",
     "latitude": "22.3085824929339",
     "longitude": "114.261586872550",
