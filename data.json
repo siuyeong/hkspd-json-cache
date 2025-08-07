@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-08-07T11:53:00Z",
+    "latitude": "22.3630275522071",
+    "longitude": "114.098259511999",
+    "tuned_address": "新界青衣東北公園對開海面",
+    "tuned_profile": "72歲范姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508071953",
+    "gender": "男",
+    "age": "72",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "葵青區",
+    "month": "8",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-07T04:30:00Z",
     "latitude": "22.2484033926043",
     "longitude": "114.146263448640",
