@@ -1,24 +1,5 @@
 [
   {
-    "date": "2025-08-09T19:00:00Z",
-    "latitude": "22.2884422859537",
-    "longitude": "114.157845871629",
-    "tuned_address": "港島中環3號渡輪碼頭對開海面",
-    "tuned_profile": "17歲少年",
-    "tuned_state": "企圖自殺",
-    "source": "https://siuyeo.ng/hkspd202508100300",
-    "gender": "男",
-    "age": "17",
-    "method_1": "淹溺",
-    "reason_1": "酒精",
-    "districts": "中西區",
-    "month": "8",
-    "age_group": "15 – 19",
-    "area": "港島",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
-  },
-  {
     "date": "2025-08-09T05:11:00Z",
     "latitude": "22.4534938584512",
     "longitude": "114.170459206669",
