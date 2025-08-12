@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-12T03:38:00Z",
+    "latitude": "22.3172581295216",
+    "longitude": "114.188077960393",
+    "tuned_address": "九龍土瓜灣公共圖書館現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202508121138",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "工作",
+    "districts": "九龍城區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-11T21:45:00Z",
     "latitude": "22.3343163908204",
     "longitude": "114.192055746914",
