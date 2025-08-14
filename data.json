@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-08-14T08:31:00Z",
+    "latitude": "22.3180071684226",
+    "longitude": "114.264962979733",
+    "tuned_address": "坑口厚德邨德志樓",
+    "tuned_profile": "41歲男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202508141631",
+    "gender": "男",
+    "age": "41",
+    "method_1": "藥品",
+    "reason_1": "不詳",
+    "districts": "西貢區",
+    "month": "8",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-14T01:22:00Z",
     "latitude": "22.4245192914517",
     "longitude": "114.226209589324",
