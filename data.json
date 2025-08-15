@@ -19,6 +19,26 @@
     "emotional_illness": "有"
   },
   {
+    "date": "2025-08-14T23:53:00Z",
+    "latitude": "22.3809569673195",
+    "longitude": "114.275784214113",
+    "tuned_address": "新界西貢碼頭對開海面",
+    "tuned_profile": "38歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508150753",
+    "gender": "男",
+    "age": "38",
+    "method_1": "淹溺",
+    "reason_1": "財政",
+    "reason_2": "工作",
+    "districts": "西貢區",
+    "month": "8",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-14T22:00:00Z",
     "latitude": "22.3145445375576",
     "longitude": "114.192651192491",
