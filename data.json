@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-08-23T10:15:00Z",
+    "latitude": "22.3174329198043",
+    "longitude": "114.229539220508",
+    "tuned_address": "觀塘翠屏北邨翠楣樓",
+    "tuned_profile": "42歲歐姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508231815",
+    "gender": "男",
+    "age": "42",
+    "method_1": "跳落",
+    "reason_1": "生活",
+    "districts": "觀塘區",
+    "month": "8",
+    "age_group": "40 – 44",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-22T23:44:00Z",
     "latitude": "22.4498064687362",
     "longitude": "114.002869385403",
