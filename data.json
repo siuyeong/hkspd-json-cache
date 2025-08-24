@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-24T04:59:00Z",
+    "latitude": "22.3218659531523",
+    "longitude": "114.179129423428",
+    "tuned_address": "何文田翠華大廈一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508241259",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-24T03:40:00Z",
     "latitude": "22.4487576298686",
     "longitude": "114.175998712777",
