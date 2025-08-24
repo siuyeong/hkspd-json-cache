@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-24T03:40:00Z",
+    "latitude": "22.4487576298686",
+    "longitude": "114.175998712777",
+    "tuned_address": "大埔廣福邨廣義樓",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202508241140",
+    "gender": "女",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-23T22:49:00Z",
     "latitude": "22.2630378251133",
     "longitude": "114.251052035897",
