@@ -37,7 +37,7 @@ jobs:
                 . 
               end | 
               with_entries(select(.value != ""))  # 過濾空值
-            )' | awk 'BEGIN { ORS="," } { print }' | sed 's/,$//' > data.json
+            )' > data.json
           else
             echo "data.csv not found!"
             exit 1
