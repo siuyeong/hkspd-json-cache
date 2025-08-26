@@ -23,7 +23,7 @@ jobs:
 
       - name: Convert CSV to JSON with UTC+0 date adjustment and filter empty values
         run: |
-          if [ -f data.csv ]; then
+          if  -f data.csv ; then
             # 安裝必要的工具
             sudo apt-get update  # 更新包列表
             sudo apt-get install -y jq
