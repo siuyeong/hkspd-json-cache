@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-08-28T07:00:00Z",
+    "latitude": "22.2806017609142",
+    "longitude": "114.165462179985",
+    "tuned_address": "金鐘政府總部高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202508281500",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "灣仔區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-08-27T10:45:00Z",
     "latitude": "22.3306583281130",
     "longitude": "114.164933467086",
