@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-09-08T19:23:00Z",
+    "latitude": "22.3217789741689",
+    "longitude": "114.168622212079",
+    "tuned_address": "旺角彌敦道金輪大廈",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509090323",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-08T16:58:00Z",
     "latitude": "22.2520146083207",
     "longitude": "114.150512926983",
