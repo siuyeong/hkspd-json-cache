@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-09-09T00:48:00Z",
+    "latitude": "22.2840578866201",
+    "longitude": "114.157154457629",
+    "tuned_address": "中環干諾道中近砵甸乍街行人天橋",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202509090848",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "中西區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-08T19:23:00Z",
     "latitude": "22.3217789741689",
     "longitude": "114.168622212079",
@@ -107569,8 +107587,8 @@
   },
   {
     "date": "2020-05-05T04:37:00Z",
-    "latitude": "22.2840480000000",
-    "longitude": "114.157133000000",
+    "latitude": "22.2840578866201",
+    "longitude": "114.157154457629",
     "tuned_address": "中環干諾道中近砵甸乍街行人天橋",
     "tuned_profile": "一名男子",
     "tuned_state": "企圖自殺",
