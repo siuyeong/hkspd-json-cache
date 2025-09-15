@@ -1,23 +1,5 @@
 [
   {
-    "date": "2025-09-15T01:32:00Z",
-    "latitude": "22.3120593893688",
-    "longitude": "114.187996827844",
-    "tuned_address": "鶴園馬頭圍道啟岸",
-    "tuned_profile": "一名女子",
-    "tuned_state": "企圖自殺",
-    "source": "https://siuyeo.ng/hkspd202509150932",
-    "gender": "女",
-    "method_1": "跳落",
-    "reason_1": "不詳",
-    "districts": "九龍城區",
-    "month": "9",
-    "age_group": "不詳",
-    "area": "九龍",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
-  },
-  {
     "date": "2025-09-13T22:43:00Z",
     "latitude": "22.3007174496589",
     "longitude": "114.190591239094",
