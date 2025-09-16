@@ -19,6 +19,24 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-09-15T21:32:00Z",
+    "latitude": "22.3721130207343",
+    "longitude": "114.108693116778",
+    "tuned_address": "柴灣角順豐工業中心高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509160532",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-15T21:12:00Z",
     "latitude": "22.2933631393875",
     "longitude": "114.261048880551",
@@ -27,7 +45,7 @@
     "tuned_state": "企圖自殺",
     "source": "https://siuyeo.ng/hkspd202509160512",
     "gender": "男",
-    "method_1": "不詳",
+    "method_1": "淹溺",
     "reason_1": "不詳",
     "districts": "西貢區",
     "month": "9",
