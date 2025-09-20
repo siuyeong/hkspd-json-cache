@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-09-20T10:50:00Z",
+    "latitude": "22.3278424869953",
+    "longitude": "114.199974651367",
+    "tuned_address": "啟德沐泰街對開啟德河",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202509201850",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-20T03:06:00Z",
     "latitude": "22.3485524180377",
     "longitude": "114.101454275596",
