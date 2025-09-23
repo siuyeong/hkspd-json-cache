@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-09-23T12:30:00Z",
+    "latitude": "22.3085928553961",
+    "longitude": "114.189742546360",
+    "tuned_address": "大環紅磡邨紅曜樓",
+    "tuned_profile": "55歲吳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509232030",
+    "gender": "男",
+    "age": "55",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "九龍城區",
+    "month": "9",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-23T06:10:00Z",
     "latitude": "22.3257443866225",
     "longitude": "114.254735426308",
