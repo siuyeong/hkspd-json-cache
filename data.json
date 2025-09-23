@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-09-23T06:10:00Z",
+    "latitude": "22.3257443866225",
+    "longitude": "114.254735426308",
+    "tuned_address": "魷魚灣寶林邨寶寧樓",
+    "tuned_profile": "31歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509231410",
+    "gender": "男",
+    "age": "31",
+    "method_1": "自縊",
+    "reason_1": "生活",
+    "districts": "西貢區",
+    "month": "9",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-22T15:42:00Z",
     "latitude": "22.3793826723364",
     "longitude": "114.174610580252",
