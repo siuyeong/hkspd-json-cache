@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-09-28T08:19:00Z",
+    "latitude": "22.3342882836525",
+    "longitude": "114.156583610659",
+    "tuned_address": "九龍長沙灣邨長泰樓",
+    "tuned_profile": "60歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509281619",
+    "gender": "男",
+    "age": "60",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "深水埗區",
+    "month": "9",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-27T17:40:00Z",
     "latitude": "22.5170463253412",
     "longitude": "114.111479332911",
@@ -113952,8 +113971,8 @@
   },
   {
     "date": "2020-01-14T01:00:00Z",
-    "latitude": "22.3343170000000",
-    "longitude": "114.156570000000",
+    "latitude": "22.3342882836525",
+    "longitude": "114.156583610659",
     "tuned_address": "九龍長沙灣邨長泰樓",
     "tuned_profile": "80歲唐姓老翁",
     "tuned_state": "自殺身亡",
