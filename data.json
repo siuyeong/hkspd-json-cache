@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-09-29T02:00:00Z",
+    "latitude": "22.3132689201707",
+    "longitude": "114.222315000069",
+    "tuned_address": "觀塘毅力工業中心高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509291000",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-28T08:19:00Z",
     "latitude": "22.3342882836525",
     "longitude": "114.156583610659",
