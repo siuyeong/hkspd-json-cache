@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-09-29T04:49:00Z",
+    "latitude": "22.3055353062770",
+    "longitude": "114.236352363581",
+    "tuned_address": "藍田平田邨平旺樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202509291249",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-09-29T02:00:00Z",
     "latitude": "22.3132689201707",
     "longitude": "114.222315000069",
