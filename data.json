@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-01T09:45:00Z",
+    "latitude": "22.3280980992986",
+    "longitude": "114.159814912275",
+    "tuned_address": "深水埗醫局街嘉寶大廈",
+    "tuned_profile": "58歲吳姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202510011745",
+    "gender": "男",
+    "age": "58",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "深水埗區",
+    "month": "10",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-09-30T22:39:00Z",
     "latitude": "22.3327089446559",
     "longitude": "114.161506911697",
