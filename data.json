@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-02T21:39:00Z",
+    "latitude": "22.3061163040056",
+    "longitude": "114.191312509492",
+    "tuned_address": "紅磡黃埔花園銀竹苑3座",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510030539",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-02T10:58:00Z",
     "latitude": "22.3077938276184",
     "longitude": "114.183929126041",
