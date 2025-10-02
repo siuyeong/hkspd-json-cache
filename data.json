@@ -39,6 +39,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-10-01T10:00:00Z",
+    "latitude": "22.3832390501174",
+    "longitude": "114.202146052924",
+    "tuned_address": "沙田愉田苑愉和閣",
+    "tuned_profile": "20歲莊姓女青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510011800",
+    "gender": "女",
+    "age": "20",
+    "method_1": "不詳",
+    "reason_1": "健康",
+    "districts": "沙田區",
+    "month": "10",
+    "age_group": "20 – 24",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-10-01T09:45:00Z",
     "latitude": "22.3280980992986",
     "longitude": "114.159814912275",
