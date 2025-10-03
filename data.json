@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-03T06:00:00Z",
+    "latitude": "22.3314243745839",
+    "longitude": "114.184232844548",
+    "tuned_address": "九龍九龍仔公園一洗手間",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510031400",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-02T21:39:00Z",
     "latitude": "22.3048970778018",
     "longitude": "114.189366072634",
@@ -82,7 +100,7 @@
     "date": "2025-10-01T23:00:00Z",
     "latitude": "22.3794318968592",
     "longitude": "114.148447111089",
-    "tuned_address": "荃灣城門水塘現場",
+    "tuned_address": "大帽山大城石澗現場",
     "tuned_profile": "17歲少年",
     "tuned_state": "企圖自殺",
     "source": "https://siuyeo.ng/hkspd202510020700",
