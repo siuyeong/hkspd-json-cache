@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-07T04:42:00Z",
+    "latitude": "22.3105721807748",
+    "longitude": "114.257576557723",
+    "tuned_address": "將軍澳尚德邨尚信樓",
+    "tuned_profile": "40歲黎姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510071242",
+    "gender": "男",
+    "age": "40",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "西貢區",
+    "month": "10",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-06T15:06:00Z",
     "latitude": "22.5070810386558",
     "longitude": "114.126925573167",
