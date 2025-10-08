@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-08T04:30:00Z",
+    "latitude": "22.3269829106415",
+    "longitude": "114.214484852983",
+    "tuned_address": "佐敦谷得寶花園一單位",
+    "tuned_profile": "61歲霍姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510081230",
+    "gender": "男",
+    "age": "61",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "觀塘區",
+    "month": "10",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-08T03:52:00Z",
     "latitude": "22.3274553293813",
     "longitude": "114.162680598161",
