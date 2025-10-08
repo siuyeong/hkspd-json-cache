@@ -37,6 +37,26 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-10-07T21:00:00Z",
+    "latitude": "22.4566041078503",
+    "longitude": "114.002477933295",
+    "tuned_address": "新界天水圍公園現場",
+    "tuned_profile": "53歲梁姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510080500",
+    "gender": "女",
+    "age": "53",
+    "method_1": "出血",
+    "reason_1": "生活",
+    "reason_2": "健康",
+    "districts": "元朗區",
+    "month": "10",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-10-07T04:42:00Z",
     "latitude": "22.3105721807748",
     "longitude": "114.257576557723",
