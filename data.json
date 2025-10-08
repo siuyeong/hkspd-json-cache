@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-08T03:52:00Z",
+    "latitude": "22.3274788539297",
+    "longitude": "114.162646418046",
+    "tuned_address": "深水埗大南街205號",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510081152",
+    "gender": "男",
+    "method_1": "窒息",
+    "method_2": "氣體",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-08T02:16:00Z",
     "latitude": "22.3768278741693",
     "longitude": "114.195844719185",
