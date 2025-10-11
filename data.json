@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-11T02:43:00Z",
+    "latitude": "22.3193117417282",
+    "longitude": "114.221122931494",
+    "tuned_address": "觀塘功樂道金龍園",
+    "tuned_profile": "91歲張姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510111043",
+    "gender": "女",
+    "age": "91",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "10",
+    "age_group": "≧ 85",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-11T01:27:00Z",
     "latitude": "22.3218629343433",
     "longitude": "114.212568884430",
