@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-13T08:00:00Z",
+    "latitude": "22.2480055115604",
+    "longitude": "114.177762478013",
+    "tuned_address": "深水灣壽山花園一單位",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510131600",
+    "gender": "女",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-13T06:20:00Z",
     "latitude": "22.3186658982937",
     "longitude": "114.177798355008",
