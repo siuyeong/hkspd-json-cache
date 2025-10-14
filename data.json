@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-14T01:46:00Z",
+    "latitude": "22.3315416890420",
+    "longitude": "114.217349469197",
+    "tuned_address": "牛頭角樂屋一單位",
+    "tuned_profile": "27歲鄭姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510140946",
+    "gender": "女",
+    "age": "27",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "10",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-13T10:14:00Z",
     "latitude": "22.3395431696196",
     "longitude": "114.158936358901",
