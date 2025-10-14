@@ -38,6 +38,26 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-10-13T19:00:00Z",
+    "latitude": "22.3667741658372",
+    "longitude": "114.116278603178",
+    "tuned_address": "荃灣爵悅庭東爵軒",
+    "tuned_profile": "42歲女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202510140300",
+    "gender": "女",
+    "age": "42",
+    "method_1": "出血",
+    "method_2": "液體",
+    "reason_1": "健康",
+    "districts": "荃灣區",
+    "month": "10",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-13T10:14:00Z",
     "latitude": "22.3395431696196",
     "longitude": "114.158936358901",
