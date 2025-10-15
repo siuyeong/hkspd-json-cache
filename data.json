@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-14T23:00:00Z",
+    "latitude": "22.3227703968666",
+    "longitude": "114.272403832835",
+    "tuned_address": "清水灣銀線灣泳灘對開海面",
+    "tuned_profile": "59歲林姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510150700",
+    "gender": "女",
+    "age": "59",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "10",
+    "age_group": "55 – 59",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-14T16:00:00Z",
     "latitude": "22.2801861080613",
     "longitude": "114.127976175702",
