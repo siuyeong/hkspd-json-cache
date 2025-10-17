@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-16T23:01:00Z",
+    "latitude": "22.3024856886891",
+    "longitude": "114.236162770712",
+    "tuned_address": "油塘油麗邨雅麗樓",
+    "tuned_profile": "24歲尹姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510170701",
+    "gender": "男",
+    "age": "24",
+    "method_1": "跳落",
+    "reason_1": "工作",
+    "districts": "觀塘區",
+    "month": "10",
+    "age_group": "20 – 24",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-16T10:48:00Z",
     "latitude": "22.3193663035887",
     "longitude": "114.222491448359",
