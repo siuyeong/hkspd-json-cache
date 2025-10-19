@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-19T14:11:00Z",
+    "latitude": "22.3788033482308",
+    "longitude": "114.193836861464",
+    "tuned_address": "沙田沙角邨銀鷗樓",
+    "tuned_profile": "31歲蔡姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510192211",
+    "gender": "男",
+    "age": "31",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "沙田區",
+    "month": "10",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-19T12:00:00Z",
     "latitude": "22.2885739597170",
     "longitude": "114.151341017407",
@@ -104683,8 +104702,8 @@
   },
   {
     "date": "2020-07-29T09:00:00Z",
-    "latitude": "22.3788120000000",
-    "longitude": "114.193842000000",
+    "latitude": "22.3788033482308",
+    "longitude": "114.193836861464",
     "tuned_address": "沙田沙角邨銀鷗樓",
     "tuned_profile": "28歲曹姓男子",
     "tuned_state": "自殺身亡",
