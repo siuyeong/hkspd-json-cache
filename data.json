@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-19T01:42:00Z",
+    "latitude": "22.3152036884386",
+    "longitude": "114.164691546899",
+    "tuned_address": "旺角海富苑海裕閣",
+    "tuned_profile": "94歲鄺姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510190942",
+    "gender": "女",
+    "age": "94",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "10",
+    "age_group": "≧ 85",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-19T01:30:00Z",
     "latitude": "22.3260086253573",
     "longitude": "114.229809185771",
