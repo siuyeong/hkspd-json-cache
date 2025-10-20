@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-20T09:00:00Z",
+    "latitude": "22.4111478374311",
+    "longitude": "113.972921197727",
+    "tuned_address": "屯門菁田邨菁喜樓",
+    "tuned_profile": "11歲男童",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510201700",
+    "gender": "男",
+    "age": "11",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "屯門區",
+    "month": "10",
+    "age_group": "10 – 14",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-20T07:30:00Z",
     "latitude": "22.4522076816350",
     "longitude": "114.007311599565",
