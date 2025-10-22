@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-22T04:11:00Z",
+    "latitude": "22.2909912530963",
+    "longitude": "114.201522752000",
+    "tuned_address": "北角七姊妹道一賓館一房間",
+    "tuned_profile": "43歲鄭姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510221211",
+    "gender": "男",
+    "age": "43",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "10",
+    "age_group": "40 – 44",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-21T17:59:00Z",
     "latitude": "22.3111773721446",
     "longitude": "114.179499606865",
