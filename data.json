@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-23T10:24:00Z",
+    "latitude": "22.3647904557631",
+    "longitude": "114.131959810827",
+    "tuned_address": "葵涌葵俊苑葵裕閣",
+    "tuned_profile": "26歲黃姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510231824",
+    "gender": "男",
+    "age": "26",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "10",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-23T02:07:00Z",
     "latitude": "22.3187436660449",
     "longitude": "114.216161064414",
