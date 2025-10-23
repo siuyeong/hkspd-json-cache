@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-23T00:56:00Z",
+    "latitude": "22.3205803773463",
+    "longitude": "114.266890000555",
+    "tuned_address": "將軍澳坑口村一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510230856",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "西貢區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-22T20:16:00Z",
     "latitude": "22.3507533742817",
     "longitude": "114.199006831860",
