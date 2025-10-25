@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-24T15:00:00Z",
+    "latitude": "22.3835020198850",
+    "longitude": "114.213420802438",
+    "tuned_address": "小瀝源綠怡雅苑一大廈高處",
+    "tuned_profile": "63歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510242300",
+    "gender": "男",
+    "age": "63",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "沙田區",
+    "month": "10",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-24T03:44:00Z",
     "latitude": "22.3469340869212",
     "longitude": "114.126156297960",
