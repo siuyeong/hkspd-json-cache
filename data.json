@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-10-25T03:21:00Z",
+    "latitude": "22.3717004649388",
+    "longitude": "114.112206025226",
+    "tuned_address": "荃灣享和街都城大樓",
+    "tuned_profile": "32歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510251121",
+    "gender": "男",
+    "age": "32",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "10",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-24T15:00:00Z",
     "latitude": "22.3835020198850",
     "longitude": "114.213420802438",
