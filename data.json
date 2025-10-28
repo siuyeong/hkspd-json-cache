@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-28T01:35:00Z",
+    "latitude": "22.3909310024846",
+    "longitude": "114.193391566255",
+    "tuned_address": "火炭穗禾苑慶安閣",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510280935",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "沙田區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-27T15:44:00Z",
     "latitude": "22.3669106046847",
     "longitude": "114.128547054409",
