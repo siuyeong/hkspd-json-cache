@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-29T06:29:00Z",
+    "latitude": "22.3565645311913",
+    "longitude": "114.097882040805",
+    "tuned_address": "青衣長亨邨多層停車場高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202510291429",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-29T04:29:00Z",
     "latitude": "22.3689961376441",
     "longitude": "114.118428327859",
