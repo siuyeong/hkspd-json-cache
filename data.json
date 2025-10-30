@@ -66,12 +66,13 @@
     "gender": "男",
     "age": "82",
     "method_1": "跳落",
-    "reason_1": "不詳",
+    "reason_1": "感情",
+    "reason_2": "健康",
     "districts": "葵青區",
     "month": "10",
     "age_group": "80 – 84",
     "area": "新界",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有"
   },
   {
