@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-10-31T04:14:00Z",
+    "latitude": "22.3203356474026",
+    "longitude": "114.164477653743",
+    "tuned_address": "大角咀槐樹街健理樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202510311214",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-10-30T03:51:00Z",
     "latitude": "22.3671673981723",
     "longitude": "114.179404346828",
