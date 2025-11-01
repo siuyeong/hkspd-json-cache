@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-11-01T12:00:00Z",
+    "latitude": "22.3091202152933",
+    "longitude": "114.226388559905",
+    "tuned_address": "觀塘利維大廈一單位",
+    "tuned_profile": "29歲馮姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511012000",
+    "gender": "女",
+    "age": "29",
+    "method_1": "窒息",
+    "method_2": "氣體",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "11",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-01T10:01:00Z",
     "latitude": "22.3246993410698",
     "longitude": "114.247893798269",
