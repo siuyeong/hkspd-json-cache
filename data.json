@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-02T04:38:00Z",
+    "latitude": "22.4520391122074",
+    "longitude": "114.000420907591",
+    "tuned_address": "天水圍嘉湖山莊樂湖居一單位",
+    "tuned_profile": "54歲劉姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511021238",
+    "gender": "男",
+    "age": "54",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "元朗區",
+    "month": "11",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-01T22:57:00Z",
     "latitude": "22.3773901947827",
     "longitude": "114.193817086346",
