@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-08T02:50:00Z",
+    "latitude": "22.3074419102414",
+    "longitude": "114.182100414097",
+    "tuned_address": "紅磡溫思勞街榮豐大樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511081050",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "九龍城區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-07T23:02:00Z",
     "latitude": "22.2935587662054",
     "longitude": "114.168317473087",
