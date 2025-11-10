@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-09T23:00:00Z",
+    "latitude": "22.2458481878530",
+    "longitude": "114.159667926995",
+    "tuned_address": "港島鴨脷洲大橋對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511100700",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-09T01:54:00Z",
     "latitude": "22.2985893442286",
     "longitude": "114.176602053936",
