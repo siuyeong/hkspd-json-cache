@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-12T06:11:00Z",
+    "latitude": "22.2972291581102",
+    "longitude": "114.179337883853",
+    "tuned_address": "尖東麼地道68號對開海面",
+    "tuned_profile": "56歲趙姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511121411",
+    "gender": "男",
+    "age": "56",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "油尖旺區",
+    "month": "11",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-11-11T13:49:00Z",
     "latitude": "22.2043126587966",
     "longitude": "114.028396595438",
