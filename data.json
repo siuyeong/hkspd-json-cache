@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-14T06:17:00Z",
+    "latitude": "22.4575468825016",
+    "longitude": "113.995199972329",
+    "tuned_address": "天水圍天影徑附近樹上",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511141417",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-14T02:21:00Z",
     "latitude": "22.3862597163990",
     "longitude": "114.198364032096",
