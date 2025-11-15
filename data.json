@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-14T23:13:00Z",
+    "latitude": "22.3473568905535",
+    "longitude": "114.199606413886",
+    "tuned_address": "慈雲山慈樂邨一護老院一房間",
+    "tuned_profile": "81歲黃姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511150713",
+    "gender": "男",
+    "age": "81",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "11",
+    "age_group": "80 – 84",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-14T06:17:00Z",
     "latitude": "22.4575468825016",
     "longitude": "113.995199972329",
