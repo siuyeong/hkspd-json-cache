@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-17T10:42:00Z",
+    "latitude": "22.3668281298238",
+    "longitude": "114.116793596532",
+    "tuned_address": "荃灣爵悅庭一大廈高處",
+    "tuned_profile": "59歲杜姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511171842",
+    "gender": "男",
+    "age": "59",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "荃灣區",
+    "month": "11",
+    "age_group": "55 – 59",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-17T07:13:00Z",
     "latitude": "22.3403597505826",
     "longitude": "114.186640103543",
