@@ -7,11 +7,11 @@
 ,
 {"rank":"4","area":"油尖旺區","risk_level":"中","risk_value":"2.43"}
 ,
-{"rank":"5","area":"屯門區","risk_level":"中低","risk_value":"1.34"}
+{"rank":"5","area":"東區","risk_level":"中低","risk_value":"1.67"}
 ,
-{"rank":"6","area":"大埔區","risk_level":"低","risk_value":"0.71"}
+{"rank":"6","area":"屯門區","risk_level":"中低","risk_value":"1.34"}
 ,
-{"rank":"7","area":"東區","risk_level":"低","risk_value":"0.64"}
+{"rank":"7","area":"大埔區","risk_level":"低","risk_value":"0.71"}
 ,
 {"rank":"8","area":"深水埗區","risk_level":"低","risk_value":"0.43"}
 ,
