@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-17T05:51:00Z",
+    "latitude": "22.2773049587192",
+    "longitude": "114.227886664564",
+    "tuned_address": "港島筲箕灣道愛秩序樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511171351",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-16T15:05:00Z",
     "latitude": "22.3433774395775",
     "longitude": "114.200031591304",
