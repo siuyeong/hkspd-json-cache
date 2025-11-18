@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-18T06:00:00Z",
+    "latitude": "22.3197143486072",
+    "longitude": "114.167368013470",
+    "tuned_address": "旺角新填地街451號",
+    "tuned_profile": "52歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511181400",
+    "gender": "男",
+    "age": "52",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "11",
+    "age_group": "50 – 54",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-17T22:58:00Z",
     "latitude": "22.5011820047902",
     "longitude": "114.139120024145",
