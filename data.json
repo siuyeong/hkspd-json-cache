@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-19T02:53:00Z",
+    "latitude": "22.2934012510477",
+    "longitude": "114.261004786342",
+    "tuned_address": "新界將軍澳跨灣大橋對開海面",
+    "tuned_profile": "16歲少年",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511191053",
+    "gender": "男",
+    "age": "16",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "西貢區",
+    "month": "11",
+    "age_group": "15 – 19",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-18T23:06:00Z",
     "latitude": "22.3489384782247",
     "longitude": "114.199386253342",
