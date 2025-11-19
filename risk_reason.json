@@ -13,14 +13,14 @@
 ,
 {"rank":"7","reason":"感情","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"8","reason":"工作","risk_level":"低","risk_value":"0.00"}
+{"rank":"8","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"9","reason":"藥品","risk_level":"低","risk_value":"0.00"}
+{"rank":"9","reason":"要脅","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"10","reason":"酒精","risk_level":"低","risk_value":"0.00"}
+{"rank":"10","reason":"藥品","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"11","reason":"要脅","risk_level":"低","risk_value":"0.00"}
+{"rank":"11","reason":"工作","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"12","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
+{"rank":"12","reason":"酒精","risk_level":"低","risk_value":"0.00"}
 
 ]
