@@ -5,11 +5,11 @@
 ,
 {"rank":"3","age_group":"60 – 74 歲","risk_level":"低","risk_value":"0.14"}
 ,
+{"rank":"","age_group":"年齡不詳","risk_level":"低","risk_value":"0.14"}
+,
 {"rank":"4","age_group":"30 – 44 歲","risk_level":"低","risk_value":"0.12"}
 ,
 {"rank":"5","age_group":"15 – 29 歲","risk_level":"低","risk_value":"0.03"}
-,
-{"rank":"","age_group":"年齡不詳","risk_level":"低","risk_value":"0.00"}
 ,
 {"rank":"6","age_group":"0 – 14 歲","risk_level":"低","risk_value":"0.00"}
 
