@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-19T23:56:00Z",
+    "latitude": "22.3335503430264",
+    "longitude": "114.168372366861",
+    "tuned_address": "深水埗石硤尾邨美如樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511200756",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-19T23:14:00Z",
     "latitude": "22.2841206244183",
     "longitude": "114.125654872503",
