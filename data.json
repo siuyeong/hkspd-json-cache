@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-21T02:59:00Z",
+    "latitude": "22.4500166317675",
+    "longitude": "114.003670744369",
+    "tuned_address": "天水圍天耀(一)邨耀民樓",
+    "tuned_profile": "70歲徐姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511211059",
+    "gender": "男",
+    "age": "70",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "11",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-20T18:24:00Z",
     "latitude": "22.4058980632786",
     "longitude": "113.971436774660",
