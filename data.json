@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-21T06:00:00Z",
+    "latitude": "22.5014915026930",
+    "longitude": "114.145328201816",
+    "tuned_address": "粉嶺綠悠軒一大廈高處",
+    "tuned_profile": "32歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511211400",
+    "gender": "男",
+    "age": "32",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "北區",
+    "month": "11",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-21T02:59:00Z",
     "latitude": "22.4500166317675",
     "longitude": "114.003670744369",
@@ -98060,8 +98079,8 @@
   },
   {
     "date": "2021-01-01T03:12:00Z",
-    "latitude": "22.5013830000000",
-    "longitude": "114.145198000000",
+    "latitude": "22.5014915026930",
+    "longitude": "114.145328201816",
     "tuned_address": "粉嶺綠悠軒一大廈高處",
     "tuned_profile": "一名男子",
     "tuned_state": "自殺身亡",
