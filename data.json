@@ -19,6 +19,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-11-21T21:19:00Z",
+    "latitude": "22.2120777143750",
+    "longitude": "114.219490226230",
+    "tuned_address": "港島赤柱監獄一囚室",
+    "tuned_profile": "24歲青年",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511220519",
+    "gender": "男",
+    "age": "24",
+    "method_1": "自焚",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "11",
+    "age_group": "20 – 24",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-21T16:00:00Z",
     "latitude": "22.3143927711168",
     "longitude": "114.192515769688",
