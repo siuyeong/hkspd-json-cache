@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-22T11:47:00Z",
+    "latitude": "22.3502899036277",
+    "longitude": "114.070803223958",
+    "tuned_address": "青衣青馬大橋現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511221947",
+    "gender": "男",
+    "method_1": "淹溺",
+    "method_2": "交通",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-22T05:00:00Z",
     "latitude": "22.3370292940785",
     "longitude": "114.168872976686",
