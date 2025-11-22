@@ -10,12 +10,14 @@
     "gender": "男",
     "method_1": "淹溺",
     "method_2": "交通",
-    "reason_1": "不詳",
+    "reason_1": "健康",
+    "reason_2": "家庭",
+    "reason_3": "酒精",
     "districts": "荃灣區",
     "month": "11",
     "age_group": "不詳",
     "area": "新界",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有"
   },
   {
