@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-21T22:57:00Z",
+    "latitude": "22.2900196168335",
+    "longitude": "114.199910622061",
+    "tuned_address": "北角錦屏街幸福大樓",
+    "tuned_profile": "66歲鍾姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511220657",
+    "gender": "男",
+    "age": "66",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "11",
+    "age_group": "65 – 69",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-21T16:00:00Z",
     "latitude": "22.3143927711168",
     "longitude": "114.192515769688",
