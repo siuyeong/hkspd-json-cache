@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-23T13:49:00Z",
+    "latitude": "22.3438828681078",
+    "longitude": "114.202103001464",
+    "tuned_address": "鑽石山鳳德邨黛鳳樓",
+    "tuned_profile": "48歲黃姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202511242119",
+    "gender": "男",
+    "age": "48",
+    "method_1": "液體",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "11",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-23T10:21:00Z",
     "latitude": "22.3796681149934",
     "longitude": "114.205324828819",
