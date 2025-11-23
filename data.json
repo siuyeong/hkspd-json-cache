@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-11-23T10:21:00Z",
+    "latitude": "22.3796681149934",
+    "longitude": "114.205324828819",
+    "tuned_address": "沙田愉翠苑愉能閣",
+    "tuned_profile": "45歲呂姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511231821",
+    "gender": "男",
+    "age": "45",
+    "method_1": "跳落",
+    "reason_1": "工作",
+    "districts": "沙田區",
+    "month": "11",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-22T11:47:00Z",
     "latitude": "22.3502899036277",
     "longitude": "114.070803223958",
