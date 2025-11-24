@@ -7,9 +7,9 @@
 ,
 {"rank":"4","reason":"生活","risk_level":"中低","risk_value":"1.22"}
 ,
-{"rank":"5","reason":"工作","risk_level":"低","risk_value":"0.90"}
+{"rank":"5","reason":"家庭","risk_level":"低","risk_value":"0.90"}
 ,
-{"rank":"6","reason":"家庭","risk_level":"低","risk_value":"0.90"}
+{"rank":"6","reason":"工作","risk_level":"低","risk_value":"0.90"}
 ,
 {"rank":"7","reason":"學業","risk_level":"低","risk_value":"0.71"}
 ,
@@ -19,8 +19,8 @@
 ,
 {"rank":"10","reason":"藥品","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"11","reason":"要脅","risk_level":"低","risk_value":"0.00"}
+{"rank":"11","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"12","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
+{"rank":"12","reason":"要脅","risk_level":"低","risk_value":"0.00"}
 
 ]
