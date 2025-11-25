@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-11-25T04:00:00Z",
+    "latitude": "22.3063488713412",
+    "longitude": "114.169589523364",
+    "tuned_address": "油麻地上海街124號",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202511251200",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-11-24T06:34:00Z",
     "latitude": "22.2835255393719",
     "longitude": "114.226951694655",
@@ -7668,8 +7686,8 @@
   },
   {
     "date": "2025-07-28T00:53:00Z",
-    "latitude": "22.2828191221966",
-    "longitude": "114.226907317319",
+    "latitude": "22.2821911550399",
+    "longitude": "114.227111143929",
     "tuned_address": "愛秩序灣東旭苑一大廈高處",
     "tuned_profile": "65歲梁姓男子",
     "tuned_state": "自殺身亡",
