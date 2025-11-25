@@ -9,7 +9,7 @@
 ,
 {"rank":"5","reason":"學業","risk_level":"低","risk_value":"0.71"}
 ,
-{"rank":"6","reason":"不詳","risk_level":"低","risk_value":"0.31"}
+{"rank":"6","reason":"不詳","risk_level":"低","risk_value":"0.48"}
 ,
 {"rank":"7","reason":"生活","risk_level":"低","risk_value":"0.24"}
 ,
@@ -17,9 +17,9 @@
 ,
 {"rank":"9","reason":"財政","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"10","reason":"要脅","risk_level":"低","risk_value":"0.00"}
+{"rank":"10","reason":"藥品","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"11","reason":"藥品","risk_level":"低","risk_value":"0.00"}
+{"rank":"11","reason":"要脅","risk_level":"低","risk_value":"0.00"}
 ,
 {"rank":"12","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
 
