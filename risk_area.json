@@ -1,9 +1,9 @@
 [
 {"rank":"1","area":"東區","risk_level":"中","risk_value":"2.97"}
 ,
-{"rank":"2","area":"大埔區","risk_level":"中低","risk_value":"1.14"}
+{"rank":"2","area":"南區","risk_level":"中低","risk_value":"1.14"}
 ,
-{"rank":"3","area":"南區","risk_level":"中低","risk_value":"1.14"}
+{"rank":"3","area":"大埔區","risk_level":"中低","risk_value":"1.14"}
 ,
 {"rank":"4","area":"深水埗區","risk_level":"低","risk_value":"0.98"}
 ,
