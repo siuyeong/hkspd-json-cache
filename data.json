@@ -1,23 +1,5 @@
 [
   {
-    "date": "2025-11-30T04:20:00Z",
-    "latitude": "22.3508771043142",
-    "longitude": "114.075882700991",
-    "tuned_address": "青衣青馬大橋對開海面",
-    "tuned_profile": "一名男子",
-    "tuned_state": "自殺身亡",
-    "source": "https://siuyeo.ng/hkspd202511301220",
-    "gender": "男",
-    "method_1": "淹溺",
-    "reason_1": "不詳",
-    "districts": "葵青區",
-    "month": "11",
-    "age_group": "不詳",
-    "area": "新界",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
-  },
-  {
     "date": "2025-11-29T14:00:00Z",
     "latitude": "22.2965330504425",
     "longitude": "114.177940693162",
@@ -215,7 +197,7 @@
     "longitude": "114.070803223958",
     "tuned_address": "馬灣青馬大橋現場",
     "tuned_profile": "48歲董姓男子",
-    "tuned_state": "企圖自殺",
+    "tuned_state": "自殺身亡",
     "source": "https://siuyeo.ng/hkspd202511221947",
     "gender": "男",
     "age": "48",
