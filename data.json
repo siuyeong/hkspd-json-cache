@@ -19,6 +19,25 @@
     "emotional_illness": "有"
   },
   {
+    "date": "2025-12-01T10:03:00Z",
+    "latitude": "22.3128732060594",
+    "longitude": "114.177319306094",
+    "tuned_address": "十二號山愛民邨敦民樓",
+    "tuned_profile": "66歲鄒姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512011803",
+    "gender": "男",
+    "age": "66",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "九龍城區",
+    "month": "12",
+    "age_group": "65 – 69",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-01T07:16:00Z",
     "latitude": "22.3185550258013",
     "longitude": "114.232431996310",
