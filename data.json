@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-01T07:16:00Z",
+    "latitude": "22.3185550258013",
+    "longitude": "114.232431996310",
+    "tuned_address": "九龍秀茂坪邨秀華樓",
+    "tuned_profile": "83歲杜姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512011516",
+    "gender": "男",
+    "age": "83",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "12",
+    "age_group": "80 – 84",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-01T02:13:00Z",
     "latitude": "22.2505543011362",
     "longitude": "114.158031785945",
