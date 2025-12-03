@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-03T00:56:00Z",
+    "latitude": "22.3187650233019",
+    "longitude": "114.264252888952",
+    "tuned_address": "坑口厚德邨德富樓",
+    "tuned_profile": "63歲葉姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512030856",
+    "gender": "女",
+    "age": "63",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "西貢區",
+    "month": "12",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-02T17:04:00Z",
     "latitude": "22.3413670861350",
     "longitude": "114.155999294180",
