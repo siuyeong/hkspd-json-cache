@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-05T09:58:00Z",
+    "latitude": "22.4527930069396",
+    "longitude": "114.004186570045",
+    "tuned_address": "天水圍天耀(二)邨耀澤樓",
+    "tuned_profile": "55歲張姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512051158",
+    "gender": "男",
+    "age": "55",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "元朗區",
+    "month": "12",
+    "age_group": "55 – 59",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-03T22:00:00Z",
     "latitude": "22.4229639159786",
     "longitude": "114.232599308708",
