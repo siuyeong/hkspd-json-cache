@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-08T14:59:00Z",
+    "latitude": "22.3085836445978",
+    "longitude": "114.221798546162",
+    "tuned_address": "觀塘基業里一公廁",
+    "tuned_profile": "49歲鄧姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512082259",
+    "gender": "男",
+    "age": "49",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "12",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-08T08:51:00Z",
     "latitude": "22.3659454245263",
     "longitude": "114.134786278780",
