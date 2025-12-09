@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-12-09T00:46:00Z",
+    "latitude": "22.3671635094601",
+    "longitude": "114.119904850761",
+    "tuned_address": "荃灣尚翠苑一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512090846",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "12",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-08T14:59:00Z",
     "latitude": "22.3085836445978",
     "longitude": "114.221798546162",
