@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-09T07:08:00Z",
+    "latitude": "22.3407477725661",
+    "longitude": "114.158012153989",
+    "tuned_address": "長沙灣蘇屋邨茶花樓",
+    "tuned_profile": "70歲朱姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512091508",
+    "gender": "男",
+    "age": "70",
+    "method_1": "窒息",
+    "reason_1": "健康",
+    "districts": "深水埗區",
+    "month": "12",
+    "age_group": "70 – 74",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-09T05:09:00Z",
     "latitude": "22.3420258171365",
     "longitude": "114.110134326677",
