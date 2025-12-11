@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-11T04:00:00Z",
+    "latitude": "22.3764153573406",
+    "longitude": "114.124498270465",
+    "tuned_address": "葵涌石圍角邨石菊樓",
+    "tuned_profile": "69歲莫姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512111200",
+    "gender": "男",
+    "age": "69",
+    "method_1": "出血",
+    "reason_1": "健康",
+    "districts": "荃灣區",
+    "month": "12",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-10T21:14:00Z",
     "latitude": "22.4981084147361",
     "longitude": "114.128752405440",
