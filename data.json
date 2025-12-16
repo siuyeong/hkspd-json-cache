@@ -19,6 +19,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2025-12-15T06:37:00Z",
+    "latitude": "22.4408208659395",
+    "longitude": "114.165792263189",
+    "tuned_address": "大埔德雅苑一大廈高處",
+    "tuned_profile": "35歲林姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512161437",
+    "gender": "女",
+    "age": "35",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "大埔區",
+    "month": "12",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-12-15T01:41:00Z",
     "latitude": "22.3783577098874",
     "longitude": "114.204650994471",
