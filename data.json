@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-12-17T11:40:00Z",
+    "latitude": "22.4874108941338",
+    "longitude": "114.058735141000",
+    "tuned_address": "新田一屋村一單位",
+    "tuned_profile": "34歲冼姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512171940",
+    "gender": "男",
+    "age": "34",
+    "method_1": "燒炭",
+    "reason_1": "感情",
+    "reason_2": "生活",
+    "districts": "元朗區",
+    "month": "12",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-16T16:00:00Z",
     "latitude": "22.3420258171365",
     "longitude": "114.110134326677",
