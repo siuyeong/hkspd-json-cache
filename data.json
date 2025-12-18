@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-18T05:07:00Z",
+    "latitude": "22.2595273178696",
+    "longitude": "113.889042314632",
+    "tuned_address": "大嶼山深屈道一汽車",
+    "tuned_profile": "58歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512181307",
+    "gender": "男",
+    "age": "58",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "12",
+    "age_group": "55 – 59",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-17T14:00:00Z",
     "latitude": "22.4869768825584",
     "longitude": "114.139687816971",
