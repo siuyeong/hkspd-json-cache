@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-19T10:30:00Z",
+    "latitude": "22.3207266669227",
+    "longitude": "114.234346585537",
+    "tuned_address": "秀茂坪安達邨智達樓",
+    "tuned_profile": "15歲少年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512191830",
+    "gender": "男",
+    "age": "15",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "12",
+    "age_group": "15 – 19",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-12-19T08:00:00Z",
     "latitude": "22.3491540874708",
     "longitude": "114.203532599250",
