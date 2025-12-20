@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-20T05:05:00Z",
+    "latitude": "22.3366817217368",
+    "longitude": "114.198022228110",
+    "tuned_address": "新蒲崗善美工業大廈一單位",
+    "tuned_profile": "43歲林姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512201305",
+    "gender": "男",
+    "age": "43",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "黃大仙區",
+    "month": "12",
+    "age_group": "40 – 44",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-19T10:30:00Z",
     "latitude": "22.3207266669227",
     "longitude": "114.234346585537",
