@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-21T02:50:00Z",
+    "latitude": "22.2501752711517",
+    "longitude": "114.136087760281",
+    "tuned_address": "瀑布灣華富(一)邨華康樓",
+    "tuned_profile": "89歲劉姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512211050",
+    "gender": "男",
+    "age": "89",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "12",
+    "age_group": "≧ 85",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-20T05:05:00Z",
     "latitude": "22.3366817217368",
     "longitude": "114.198022228110",
