@@ -1,8 +1,6 @@
 name: Fetch Data Hourly
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # 每 15 分鐘運行一次.
   workflow_dispatch:  # 允許手動觸發
 
 jobs:
