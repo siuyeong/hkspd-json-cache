@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-12-22T05:07:00Z",
+    "latitude": "22.4437262931826",
+    "longitude": "114.032789526139",
+    "tuned_address": "元朗鳳攸北街益發大廈",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512221307",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "12",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-21T02:50:00Z",
     "latitude": "22.2501752711517",
     "longitude": "114.136087760281",
