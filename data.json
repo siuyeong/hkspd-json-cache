@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-22T07:38:00Z",
+    "latitude": "22.5012679092774",
+    "longitude": "114.140947896416",
+    "tuned_address": "粉嶺榮福中心一單位",
+    "tuned_profile": "59歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512221538",
+    "gender": "男",
+    "age": "59",
+    "method_1": "自縊",
+    "reason_1": "家庭",
+    "districts": "北區",
+    "month": "12",
+    "age_group": "55 – 59",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-22T05:07:00Z",
     "latitude": "22.4437262931826",
     "longitude": "114.032789526139",
