@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-12-23T00:00:00Z",
+    "latitude": "22.3355875773657",
+    "longitude": "114.195063716465",
+    "tuned_address": "新蒲崗衍慶街富源樓",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512230800",
+    "gender": "女",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "12",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-22T07:38:00Z",
     "latitude": "22.5012679092774",
     "longitude": "114.140947896416",
