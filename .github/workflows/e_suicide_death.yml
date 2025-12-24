@@ -1,8 +1,6 @@
 name: e_suicide_death.json - Fetch Google Spreadsheet Data
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'  # 每 15 分鐘運行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
