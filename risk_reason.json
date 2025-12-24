@@ -5,7 +5,7 @@
 ,
 {"rank":"3","reason":"不詳","risk_level":"中低","risk_value":"1.20"}
 ,
-{"rank":"4","reason":"財政","risk_level":"低","risk_value":"0.71"}
+{"rank":"4","reason":"財政","risk_level":"低","risk_value":"0.89"}
 ,
 {"rank":"5","reason":"感情","risk_level":"低","risk_value":"0.51"}
 ,
@@ -19,8 +19,8 @@
 ,
 {"rank":"10","reason":"畏罪","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"11","reason":"藥品","risk_level":"低","risk_value":"0.00"}
+{"rank":"11","reason":"要脅","risk_level":"低","risk_value":"0.00"}
 ,
-{"rank":"12","reason":"要脅","risk_level":"低","risk_value":"0.00"}
+{"rank":"12","reason":"藥品","risk_level":"低","risk_value":"0.00"}
 
 ]
