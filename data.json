@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-24T10:14:00Z",
+    "latitude": "22.2875267819238",
+    "longitude": "114.144678935945",
+    "tuned_address": "西營盤威利蔴街星輝大廈",
+    "tuned_profile": "53歲陳姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512241814",
+    "gender": "女",
+    "age": "53",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "中西區",
+    "month": "12",
+    "age_group": "50 – 54",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-23T23:46:00Z",
     "latitude": "22.3393865304764",
     "longitude": "114.161454342464",
