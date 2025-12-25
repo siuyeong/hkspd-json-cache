@@ -1,5 +1,25 @@
 [
   {
+    "date": "2025-12-24T23:37:00Z",
+    "latitude": "22.3736577780802",
+    "longitude": "114.198357249692",
+    "tuned_address": "沙田水泉澳邨林泉樓",
+    "tuned_profile": "49歲男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512250737",
+    "gender": "男",
+    "age": "49",
+    "method_1": "藥品",
+    "reason_1": "工作",
+    "reason_2": "健康",
+    "districts": "沙田區",
+    "month": "12",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-12-24T10:14:00Z",
     "latitude": "22.2875267819238",
     "longitude": "114.144678935945",
