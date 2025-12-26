@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-26T02:00:00Z",
+    "latitude": "22.4418993475207",
+    "longitude": "114.175178444216",
+    "tuned_address": "大埔滘下黃宜凹一屋村一單位",
+    "tuned_profile": "67歲羅姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512261000",
+    "gender": "女",
+    "age": "67",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "大埔區",
+    "month": "12",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2025-12-24T23:37:00Z",
     "latitude": "22.3736577780802",
     "longitude": "114.198357249692",
