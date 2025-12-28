@@ -1,5 +1,23 @@
 [
   {
+    "date": "2025-12-28T05:57:00Z",
+    "latitude": "22.2120805198236",
+    "longitude": "114.217447746972",
+    "tuned_address": "赤柱東頭懲教所現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512281357",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "12",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-27T13:48:00Z",
     "latitude": "22.3326293007263",
     "longitude": "114.164168020377",
