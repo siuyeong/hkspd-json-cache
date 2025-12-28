@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-28T13:41:00Z",
+    "latitude": "22.3488246296735",
+    "longitude": "114.198000053513",
+    "tuned_address": "慈雲山慈樂邨樂天樓附近休憩處",
+    "tuned_profile": "51歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512282141",
+    "gender": "男",
+    "age": "51",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "12",
+    "age_group": "50 – 54",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-28T05:57:00Z",
     "latitude": "22.2120805198236",
     "longitude": "114.217447746972",
