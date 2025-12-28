@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-27T13:48:00Z",
+    "latitude": "22.3326293007263",
+    "longitude": "114.164168020377",
+    "tuned_address": "元洲大埔道澤群樓",
+    "tuned_profile": "55歲許姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202512272148",
+    "gender": "男",
+    "age": "55",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "12",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-27T12:24:00Z",
     "latitude": "22.3416800665374",
     "longitude": "114.202355568482",
