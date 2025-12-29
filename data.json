@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-29T16:50:00Z",
+    "latitude": "22.2553849690520",
+    "longitude": "114.133331036301",
+    "tuned_address": "鋼綫灣貝沙灣六期5座",
+    "tuned_profile": "42歲陳姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512300050",
+    "gender": "女",
+    "age": "42",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "12",
+    "age_group": "40 – 44",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-29T12:42:00Z",
     "latitude": "22.3382998748394",
     "longitude": "114.193959439220",
