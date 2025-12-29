@@ -10,13 +10,14 @@
     "gender": "男",
     "age": "38",
     "method_1": "跳落",
-    "reason_1": "不詳",
+    "reason_1": "工作",
+    "reason_2": "健康",
     "districts": "沙田區",
     "month": "12",
     "age_group": "35 – 39",
     "area": "新界",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有"
+    "emotional_illness": "有"
   },
   {
     "date": "2025-12-29T00:15:00Z",
