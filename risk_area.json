@@ -7,11 +7,11 @@
 ,
 {"rank":"4","area":"中西區","risk_level":"中低","risk_value":"1.14"}
 ,
-{"rank":"5","area":"南區","risk_level":"低","risk_value":"0.71"}
+{"rank":"5","area":"黃大仙區","risk_level":"低","risk_value":"0.90"}
 ,
-{"rank":"6","area":"沙田區","risk_level":"低","risk_value":"0.56"}
+{"rank":"6","area":"南區","risk_level":"低","risk_value":"0.71"}
 ,
-{"rank":"7","area":"黃大仙區","risk_level":"低","risk_value":"0.51"}
+{"rank":"7","area":"沙田區","risk_level":"低","risk_value":"0.56"}
 ,
 {"rank":"8","area":"葵青區","risk_level":"低","risk_value":"0.43"}
 ,
@@ -19,9 +19,9 @@
 ,
 {"rank":"10","area":"屯門區","risk_level":"低","risk_value":"0.25"}
 ,
-{"rank":"11","area":"大埔區","risk_level":"低","risk_value":"0.22"}
+{"rank":"11","area":"東區","risk_level":"低","risk_value":"0.22"}
 ,
-{"rank":"12","area":"東區","risk_level":"低","risk_value":"0.22"}
+{"rank":"12","area":"大埔區","risk_level":"低","risk_value":"0.22"}
 ,
 {"rank":"13","area":"油尖旺區","risk_level":"低","risk_value":"0.21"}
 ,
