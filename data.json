@@ -10,12 +10,12 @@
     "gender": "女",
     "age": "42",
     "method_1": "跳落",
-    "reason_1": "不詳",
+    "reason_1": "健康",
     "districts": "南區",
     "month": "12",
     "age_group": "40 – 44",
     "area": "港島",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有"
   },
   {
@@ -66248,7 +66248,7 @@
     "date": "2022-10-14T00:53:00Z",
     "latitude": "22.2562301166657",
     "longitude": "114.132218387097",
-    "tuned_address": "鋼綫灣貝沙灣二期 - 南岸7座",
+    "tuned_address": "鋼綫灣貝沙灣二期南岸7座",
     "tuned_profile": "64歲許姓男子",
     "tuned_state": "自殺身亡",
     "source": "https://siuyeo.ng/hkspd202210140853",
