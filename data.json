@@ -1,5 +1,24 @@
 [
   {
+    "date": "2025-12-31T00:37:00Z",
+    "latitude": "22.4537206591532",
+    "longitude": "114.009895099663",
+    "tuned_address": "元朗蝦尾新村一單位",
+    "tuned_profile": "41歲姜姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202512310837",
+    "gender": "男",
+    "age": "41",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "元朗區",
+    "month": "12",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-30T19:55:00Z",
     "latitude": "22.3207839685237",
     "longitude": "114.229432937319",
