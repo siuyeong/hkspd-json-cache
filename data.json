@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-02T00:14:00Z",
+    "latitude": "22.3429547877283",
+    "longitude": "114.125068012215",
+    "tuned_address": "葵涌亞洲貨櫃物流中心A座停車場一汽車",
+    "tuned_profile": "44歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601020814",
+    "gender": "男",
+    "age": "44",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "1",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2025-12-31T00:37:00Z",
     "latitude": "22.4537206591532",
     "longitude": "114.009895099663",
