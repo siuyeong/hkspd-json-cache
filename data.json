@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-05T04:22:00Z",
+    "latitude": "22.2966059039379",
+    "longitude": "114.177942202834",
+    "tuned_address": "尖沙咀九龍香格里拉酒店對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601051222",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-04T14:50:00Z",
     "latitude": "22.3217345830730",
     "longitude": "114.188508538008",
