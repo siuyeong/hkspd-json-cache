@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-07T02:59:00Z",
+    "latitude": "22.4459314584921",
+    "longitude": "114.026965778079",
+    "tuned_address": "新界元朗安寧路裕豐洋樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601071059",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-06T08:47:00Z",
     "latitude": "22.4366578742581",
     "longitude": "114.033299219515",
