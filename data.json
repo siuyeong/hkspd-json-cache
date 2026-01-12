@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-12T07:52:00Z",
+    "latitude": "22.3918608785811",
+    "longitude": "113.978028540811",
+    "tuned_address": "屯門華都花園一單位",
+    "tuned_profile": "35歲羅姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601121552",
+    "gender": "女",
+    "age": "35",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "屯門區",
+    "month": "1",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-11T07:45:00Z",
     "latitude": "22.3717156465452",
     "longitude": "114.112195933624",
