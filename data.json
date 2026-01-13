@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-13T05:43:00Z",
+    "latitude": "22.2496442156581",
+    "longitude": "114.149540581006",
+    "tuned_address": "港島田灣街一賓館一房間",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601131343",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-13T04:00:00Z",
     "latitude": "22.3114180993224",
     "longitude": "114.185492475821",
