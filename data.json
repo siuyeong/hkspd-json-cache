@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-14T01:42:00Z",
+    "latitude": "22.4479738612337",
+    "longitude": "114.174717476617",
+    "tuned_address": "大埔廣福邨廣祐樓",
+    "tuned_profile": "74歲胡姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601140942",
+    "gender": "女",
+    "age": "74",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "大埔區",
+    "month": "1",
+    "age_group": "70 – 74",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-01-13T05:43:00Z",
     "latitude": "22.2496442156581",
     "longitude": "114.149540581006",
