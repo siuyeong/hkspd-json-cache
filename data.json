@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-17T04:27:00Z",
+    "latitude": "22.3716373105002",
+    "longitude": "114.139871431633",
+    "tuned_address": "葵涌石蔭邨勇石樓",
+    "tuned_profile": "79歲吳姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601171227",
+    "gender": "女",
+    "age": "79",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "葵青區",
+    "month": "1",
+    "age_group": "75 – 79",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-16T14:38:00Z",
     "latitude": "22.2501752711517",
     "longitude": "114.136087760281",
