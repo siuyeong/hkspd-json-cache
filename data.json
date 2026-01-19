@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-19T17:00:00Z",
+    "latitude": "22.3542288138039",
+    "longitude": "114.130208397606",
+    "tuned_address": "葵涌麗瑤邨富瑤樓",
+    "tuned_profile": "48歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601200100",
+    "gender": "男",
+    "age": "48",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "1",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-19T05:31:00Z",
     "latitude": "22.3162922349698",
     "longitude": "114.178436331056",
