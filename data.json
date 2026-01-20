@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-19T21:38:00Z",
+    "latitude": "22.3396043182363",
+    "longitude": "114.194593528513",
+    "tuned_address": "竹園黃大仙下邨龍豐樓",
+    "tuned_profile": "52歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601200538",
+    "gender": "男",
+    "age": "52",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "1",
+    "age_group": "50 – 54",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-19T17:00:00Z",
     "latitude": "22.3542288138039",
     "longitude": "114.130208397606",
@@ -132407,8 +132426,8 @@
   },
   {
     "date": "2019-05-24T06:00:00Z",
-    "latitude": "22.3396150000000",
-    "longitude": "114.194610000000",
+    "latitude": "22.3396043182363",
+    "longitude": "114.194593528513",
     "tuned_address": "竹園黃大仙下邨龍豐樓",
     "tuned_profile": "40歲男子",
     "tuned_state": "自殺身亡",
