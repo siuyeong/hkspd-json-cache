@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-21T02:00:00Z",
+    "latitude": "22.3526171163991",
+    "longitude": "114.064928835544",
+    "tuned_address": "馬灣珀麗灣碼頭對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601211000",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-20T21:49:00Z",
     "latitude": "22.3414838338459",
     "longitude": "114.207272063651",
