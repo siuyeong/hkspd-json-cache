@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-21T06:44:00Z",
+    "latitude": "22.2620635367883",
+    "longitude": "114.250113057940",
+    "tuned_address": "港島小西灣邨瑞隆樓",
+    "tuned_profile": "52歲鄧姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601211444",
+    "gender": "女",
+    "age": "52",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "東區",
+    "month": "1",
+    "age_group": "50 – 54",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-01-21T02:00:00Z",
     "latitude": "22.3526171163991",
     "longitude": "114.064928835544",
@@ -137825,8 +137844,8 @@
   },
   {
     "date": "2019-02-26T17:00:00Z",
-    "latitude": "22.2620000000000",
-    "longitude": "114.250100000000",
+    "latitude": "22.2620635367883",
+    "longitude": "114.250113057940",
     "tuned_address": "港島小西灣邨瑞隆樓",
     "tuned_profile": "48歲陳姓女子",
     "tuned_state": "企圖自殺",
