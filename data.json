@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-21T07:54:00Z",
+    "latitude": "22.3210433816501",
+    "longitude": "114.236168750784",
+    "tuned_address": "秀茂坪安達邨孝達樓",
+    "tuned_profile": "39歲黃姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601211554",
+    "gender": "男",
+    "age": "39",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "1",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-01-21T06:44:00Z",
     "latitude": "22.2620635367883",
     "longitude": "114.250113057940",
