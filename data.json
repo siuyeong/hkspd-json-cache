@@ -19,6 +19,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2026-01-22T19:39:00Z",
+    "latitude": "22.2902430716104",
+    "longitude": "114.136449553004",
+    "tuned_address": "西環豐物道8號對開海面",
+    "tuned_profile": "25歲女青年",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601230339",
+    "gender": "女",
+    "age": "25",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "中西區",
+    "month": "1",
+    "age_group": "25 – 29",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-01-22T08:00:00Z",
     "latitude": "22.3029882214315",
     "longitude": "114.174678803330",
