@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-23T13:00:00Z",
+    "latitude": "22.3720705808837",
+    "longitude": "114.003045884603",
+    "tuned_address": "掃管笏 OMA OMA 一單位",
+    "tuned_profile": "46歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601232100",
+    "gender": "男",
+    "age": "46",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "屯門區",
+    "month": "1",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-23T10:00:00Z",
     "latitude": "22.3275368033229",
     "longitude": "114.215446660232",
