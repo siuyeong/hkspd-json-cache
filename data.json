@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-26T15:34:00Z",
+    "latitude": "22.3166600526187",
+    "longitude": "114.190951765439",
+    "tuned_address": "土瓜灣美景街安福大廈",
+    "tuned_profile": "12歲男童",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601252334",
+    "gender": "男",
+    "age": "12",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "1",
+    "age_group": "10 – 14",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-25T08:57:00Z",
     "latitude": "22.4129269382690",
     "longitude": "113.984653516767",
