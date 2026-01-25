@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-25T06:50:00Z",
+    "latitude": "22.4420062509323",
+    "longitude": "114.161393535256",
+    "tuned_address": "大埔新峰花園一大廈高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601251450",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-24T23:49:00Z",
     "latitude": "22.3207328128794",
     "longitude": "114.215302486738",
