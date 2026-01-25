@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-24T23:49:00Z",
+    "latitude": "22.3207328128794",
+    "longitude": "114.215302486738",
+    "tuned_address": "九龍牛頭角下邨貴輝樓",
+    "tuned_profile": "93歲司徒姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601250749",
+    "gender": "女",
+    "age": "93",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "1",
+    "age_group": "≧ 85",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-23T13:00:00Z",
     "latitude": "22.3720705808837",
     "longitude": "114.003045884603",
@@ -129144,8 +129163,8 @@
   },
   {
     "date": "2019-07-14T16:41:00Z",
-    "latitude": "22.3206900000000",
-    "longitude": "114.215340000000",
+    "latitude": "22.3207328128794",
+    "longitude": "114.215302486738",
     "tuned_address": "九龍牛頭角下邨貴輝樓",
     "tuned_profile": "23歲劉姓青年",
     "tuned_state": "自殺身亡",
