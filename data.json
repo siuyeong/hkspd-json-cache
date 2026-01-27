@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-27T03:00:00Z",
+    "latitude": "22.3215254864438",
+    "longitude": "114.233391082685",
+    "tuned_address": "秀茂坪安達邨行人天橋",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601271100",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-27T01:47:00Z",
     "latitude": "22.3198998045803",
     "longitude": "114.170753207586",
