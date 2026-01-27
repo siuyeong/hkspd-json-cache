@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-27T01:47:00Z",
+    "latitude": "22.3198998045803",
+    "longitude": "114.170753207586",
+    "tuned_address": "旺角亞皆老街先施大廈",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601270947",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-25T15:34:00Z",
     "latitude": "22.3166600526187",
     "longitude": "114.190951765439",
