@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-01-29T00:40:00Z",
+    "latitude": "22.3425602645277",
+    "longitude": "114.179815378806",
+    "tuned_address": "九龍塘龍翔苑一單位",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202601290840",
+    "gender": "女",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "九龍城區",
+    "month": "1",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-28T17:50:00Z",
     "latitude": "22.3329740733859",
     "longitude": "114.225085635508",
@@ -139407,8 +139425,8 @@
   },
   {
     "date": "2019-02-10T00:57:00Z",
-    "latitude": "22.3423290000000",
-    "longitude": "114.179631000000",
+    "latitude": "22.3423362687315",
+    "longitude": "114.179630975379",
     "tuned_address": "九龍塘龍翔苑8座",
     "tuned_profile": "80歲陳姓老嫗",
     "tuned_state": "企圖自殺",
