@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-01-30T03:30:00Z",
+    "latitude": "22.3385030560160",
+    "longitude": "114.223294544315",
+    "tuned_address": "牛池灣飛鵝山現場",
+    "tuned_profile": "24歲黃姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202601301130",
+    "gender": "男",
+    "age": "24",
+    "method_1": "不詳",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "1",
+    "age_group": "20 – 24",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-01-29T08:00:00Z",
     "latitude": "22.3122314334247",
     "longitude": "114.230941872801",
