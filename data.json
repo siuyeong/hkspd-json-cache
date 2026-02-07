@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-07T11:11:00Z",
+    "latitude": "22.3342882836525",
+    "longitude": "114.156583610659",
+    "tuned_address": "九龍長沙灣邨長泰樓",
+    "tuned_profile": "66歲吳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602071911",
+    "gender": "男",
+    "age": "66",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "深水埗區",
+    "month": "2",
+    "age_group": "65 – 69",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-06T23:21:00Z",
     "latitude": "22.2793956119823",
     "longitude": "114.152120601418",
