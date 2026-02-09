@@ -1,23 +1,5 @@
 [
   {
-    "date": "2026-02-09T00:48:00Z",
-    "latitude": "22.3703263364140",
-    "longitude": "114.175670446332",
-    "tuned_address": "大圍名城一大廈高處",
-    "tuned_profile": "一名女子",
-    "tuned_state": "企圖自殺",
-    "source": "https://siuyeo.ng/hkspd202602090848",
-    "gender": "女",
-    "method_1": "跳落",
-    "reason_1": "不詳",
-    "districts": "沙田區",
-    "month": "2",
-    "age_group": "不詳",
-    "area": "新界",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有"
-  },
-  {
     "date": "2026-02-08T20:30:00Z",
     "latitude": "22.2606396592532",
     "longitude": "114.231034298648",
