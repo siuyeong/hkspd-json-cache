@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-09T09:27:00Z",
+    "latitude": "22.2619183737489",
+    "longitude": "114.248216673053",
+    "tuned_address": "港島小西灣邨瑞富樓",
+    "tuned_profile": "70歲陳姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602091727",
+    "gender": "男",
+    "age": "70",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "東區",
+    "month": "2",
+    "age_group": "70 – 74",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-08T20:30:00Z",
     "latitude": "22.2606396592532",
     "longitude": "114.231034298648",
