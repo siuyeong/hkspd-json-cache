@@ -1,16 +1,16 @@
 [
-{"rank":"1","age_group":"0 – 14 歲","risk_level":"高","risk_value":"6.20"}
+{"rank":"1","age_group":"0 – 14 歲","risk_level":"高","risk_value":"6.78"}
 ,
-{"rank":"","age_group":"年齡不詳","risk_level":"中高","risk_value":"4.45"}
+{"rank":"","age_group":"年齡不詳","risk_level":"中高","risk_value":"4.16"}
 ,
-{"rank":"2","age_group":"45 – 59 歲","risk_level":"中低","risk_value":"1.60"}
+{"rank":"2","age_group":"15 – 29 歲","risk_level":"中低","risk_value":"1.14"}
 ,
-{"rank":"3","age_group":"15 – 29 歲","risk_level":"中低","risk_value":"1.45"}
+{"rank":"3","age_group":"45 – 59 歲","risk_level":"低","risk_value":"0.10"}
 ,
-{"rank":"4","age_group":"30 – 44 歲","risk_level":"中低","risk_value":"1.38"}
+{"rank":"4","age_group":"60 – 74 歲","risk_level":"低","risk_value":"0.07"}
 ,
-{"rank":"5","age_group":"60 – 74 歲","risk_level":"低","risk_value":"0.61"}
+{"rank":"5","age_group":"30 – 44 歲","risk_level":"低","risk_value":"0.05"}
 ,
-{"rank":"6","age_group":"≧ 75 歲","risk_level":"低","risk_value":"0.06"}
+{"rank":"6","age_group":"≧ 75 歲","risk_level":"低","risk_value":"0.01"}
 
 ]
