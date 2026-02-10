@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-10T03:38:00Z",
+    "latitude": "22.4554312460878",
+    "longitude": "113.996305765263",
+    "tuned_address": "天水圍天瑞邨瑞輝樓對開河邊",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202602101138",
+    "gender": "女",
+    "method_1": "淹溺",
+    "reason_1": "畏罪",
+    "districts": "元朗區",
+    "month": "2",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-09T21:57:00Z",
     "latitude": "22.2767731759819",
     "longitude": "114.165328218019",
