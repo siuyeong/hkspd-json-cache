@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-11T01:49:00Z",
+    "latitude": "22.3175119278000",
+    "longitude": "114.194631134508",
+    "tuned_address": "馬頭角九龍城渡輪碼頭對開海面",
+    "tuned_profile": "59歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602110949",
+    "gender": "男",
+    "age": "59",
+    "method_1": "淹溺",
+    "reason_1": "工作",
+    "districts": "九龍城區",
+    "month": "2",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-10T07:36:00Z",
     "latitude": "22.3213607151980",
     "longitude": "114.234906805803",
