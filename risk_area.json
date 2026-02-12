@@ -5,9 +5,9 @@
 ,
 {"rank":"3","area":"西貢區","risk_level":"中","risk_value":"2.43"}
 ,
-{"rank":"4","area":"深水埗區","risk_level":"中低","risk_value":"1.86"}
+{"rank":"4","area":"灣仔區","risk_level":"中低","risk_value":"1.86"}
 ,
-{"rank":"5","area":"灣仔區","risk_level":"中低","risk_value":"1.86"}
+{"rank":"5","area":"深水埗區","risk_level":"中低","risk_value":"1.86"}
 ,
 {"rank":"6","area":"葵青區","risk_level":"中低","risk_value":"1.34"}
 ,
@@ -21,9 +21,9 @@
 ,
 {"rank":"11","area":"南區","risk_level":"低","risk_value":"0.23"}
 ,
-{"rank":"12","area":"九龍城區","risk_level":"低","risk_value":"0.11"}
+{"rank":"12","area":"元朗區","risk_level":"低","risk_value":"0.11"}
 ,
-{"rank":"13","area":"元朗區","risk_level":"低","risk_value":"0.11"}
+{"rank":"13","area":"九龍城區","risk_level":"低","risk_value":"0.11"}
 ,
 {"rank":"14","area":"沙田區","risk_level":"低","risk_value":"0.07"}
 ,
