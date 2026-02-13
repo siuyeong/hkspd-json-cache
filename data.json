@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-13T02:23:00Z",
+    "latitude": "22.3214851866621",
+    "longitude": "114.232436608701",
+    "tuned_address": "觀塘安達秀道行人天橋",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202602131023",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "2",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-12T23:49:00Z",
     "latitude": "22.2608091604690",
     "longitude": "114.248973274767",
