@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-15T03:00:00Z",
+    "latitude": "22.3228834307886",
+    "longitude": "114.164296824204",
+    "tuned_address": "大角咀必發道福和大樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602151100",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "2",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-15T00:26:00Z",
     "latitude": "22.3409800404566",
     "longitude": "114.202091020800",
