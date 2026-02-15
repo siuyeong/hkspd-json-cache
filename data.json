@@ -37,6 +37,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2026-02-14T22:17:00Z",
+    "latitude": "22.3300290430367",
+    "longitude": "114.159855007636",
+    "tuned_address": "深水埗大南街382-384號",
+    "tuned_profile": "39歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602150617",
+    "gender": "男",
+    "age": "39",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "2",
+    "age_group": "35 – 39",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-14T12:00:00Z",
     "latitude": "22.3018288081323",
     "longitude": "114.174897099835",
