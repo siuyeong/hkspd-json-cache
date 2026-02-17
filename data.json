@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-17T02:06:00Z",
+    "latitude": "22.2965423120247",
+    "longitude": "114.178115040843",
+    "tuned_address": "尖東梳士巴利道對開海面",
+    "tuned_profile": "25歲梁姓青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602171006",
+    "gender": "男",
+    "age": "25",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "油尖旺區",
+    "month": "2",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-16T18:59:00Z",
     "latitude": "22.3557816338888",
     "longitude": "114.105689987436",
