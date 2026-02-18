@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-17T18:23:00Z",
+    "latitude": "22.2745540154606",
+    "longitude": "114.178958794915",
+    "tuned_address": "灣仔帝盛酒店高處",
+    "tuned_profile": "48歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602180223",
+    "gender": "男",
+    "age": "48",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "灣仔區",
+    "month": "2",
+    "age_group": "45 – 49",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-17T10:00:00Z",
     "latitude": "22.3689420797017",
     "longitude": "114.091783249825",
