@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-19T03:41:00Z",
+    "latitude": "22.3307618659625",
+    "longitude": "114.165909879420",
+    "tuned_address": "塘尾石硤尾街白花大廈",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602191141",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "2",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-18T16:26:00Z",
     "latitude": "22.3167842884482",
     "longitude": "114.164263689779",
