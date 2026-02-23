@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-02-23T03:00:00Z",
+    "latitude": "22.3033320530887",
+    "longitude": "114.239749483954",
+    "tuned_address": "長龍田廣田邨廣軒樓",
+    "tuned_profile": "57歲梁姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602231100",
+    "gender": "男",
+    "age": "57",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "2",
+    "age_group": "55 – 59",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-22T22:16:00Z",
     "latitude": "22.3233734573479",
     "longitude": "114.165926861604",
