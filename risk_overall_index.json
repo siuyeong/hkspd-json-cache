@@ -1,6 +1,6 @@
 [
-{"date":"2026-02-28","caseCount":"0","7DayAverage":"2.29","60DayAverage":"2.90","risk_index":"0.80"},
-{"date":"2026-02-27","caseCount":"1","7DayAverage":"2.14","60DayAverage":"3.00","risk_index":"2.23"},
+{"date":"2026-02-28","caseCount":"1","7DayAverage":"2.43","60DayAverage":"2.92","risk_index":"2.57"},
+{"date":"2026-02-27","caseCount":"2","7DayAverage":"2.14","60DayAverage":"3.00","risk_index":"3.23"},
 {"date":"2026-02-26","caseCount":"1","7DayAverage":"2.29","60DayAverage":"3.02","risk_index":"2.86"},
 {"date":"2026-02-25","caseCount":"3","7DayAverage":"2.29","60DayAverage":"3.03","risk_index":"5.46"},
 {"date":"2026-02-24","caseCount":"3","7DayAverage":"2.29","60DayAverage":"3.05","risk_index":"4.88"},
