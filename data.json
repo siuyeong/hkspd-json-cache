@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-02-28T00:56:00Z",
+    "latitude": "22.3349706217557",
+    "longitude": "114.207560496595",
+    "tuned_address": "牛池灣彩虹邨丹鳳樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202602280856",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "2",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-02-27T16:00:00Z",
     "latitude": "22.2524892604682",
     "longitude": "114.137471157173",
