@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-02T05:00:00Z",
+    "latitude": "22.3646388514672",
+    "longitude": "114.079594996848",
+    "tuned_address": "青衣汀九橋現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202603021300",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-01T23:30:00Z",
     "latitude": "22.3334016346932",
     "longitude": "114.213144391614",
