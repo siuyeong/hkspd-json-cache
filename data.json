@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-03T09:34:00Z",
+    "latitude": "22.3842261971592",
+    "longitude": "113.976594031085",
+    "tuned_address": "屯門兆麟苑一單位",
+    "tuned_profile": "23歲莫姓女青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603031734",
+    "gender": "女",
+    "age": "23",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "屯門區",
+    "month": "3",
+    "age_group": "20 – 24",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-03T03:37:00Z",
     "latitude": "22.4059361184374",
     "longitude": "113.969250599973",
