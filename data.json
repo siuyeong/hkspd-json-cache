@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-04T05:30:00Z",
+    "latitude": "22.3533632921000",
+    "longitude": "114.103140297007",
+    "tuned_address": "新界青衣邨宜居樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603041330",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-04T02:31:00Z",
     "latitude": "22.2822898418858",
     "longitude": "114.214699501316",
