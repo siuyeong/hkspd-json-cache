@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-05T06:05:00Z",
+    "latitude": "22.2773849519936",
+    "longitude": "114.164997350321",
+    "tuned_address": "金鐘太古廣場一育嬰室",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202603051405",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "中西區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-05T03:54:00Z",
     "latitude": "22.3788459177319",
     "longitude": "114.135875760133",
@@ -133623,8 +133641,8 @@
   },
   {
     "date": "2019-06-15T08:30:00Z",
-    "latitude": "22.2776880000000",
-    "longitude": "114.165553000000",
+    "latitude": "22.2773849519936",
+    "longitude": "114.164997350321",
     "tuned_address": "金鐘太古廣場高處",
     "tuned_profile": "35歲梁姓男子",
     "tuned_state": "自殺身亡",
