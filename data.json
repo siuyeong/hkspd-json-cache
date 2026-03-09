@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-08T16:59:00Z",
+    "latitude": "22.3064780001336",
+    "longitude": "114.251447420185",
+    "tuned_address": "照鏡環健明邨健暉樓",
+    "tuned_profile": "60歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603090059",
+    "gender": "男",
+    "age": "60",
+    "method_1": "自縊",
+    "reason_1": "生活",
+    "districts": "西貢區",
+    "month": "3",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-07T03:59:00Z",
     "latitude": "22.4330631355805",
     "longitude": "114.017359338708",
