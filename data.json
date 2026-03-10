@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-10T03:59:00Z",
+    "latitude": "22.3645637954506",
+    "longitude": "114.136394535929",
+    "tuned_address": "石籬石貝街葵涌大廈",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603101159",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-08T16:59:00Z",
     "latitude": "22.3064780001336",
     "longitude": "114.251447420185",
@@ -106446,8 +106464,8 @@
   },
   {
     "date": "2020-11-10T13:00:00Z",
-    "latitude": "22.3645070000000",
-    "longitude": "114.136238000000",
+    "latitude": "22.3645637954506",
+    "longitude": "114.136394535929",
     "tuned_address": "石籬石貝街葵涌大廈",
     "tuned_profile": "85歲張姓老翁",
     "tuned_state": "自殺身亡",
