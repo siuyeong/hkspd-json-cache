@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-12T07:00:00Z",
+    "latitude": "22.3260257240487",
+    "longitude": "114.214704540837",
+    "tuned_address": "九龍牛頭角道嘉和園嘉仁大廈",
+    "tuned_profile": "48歲陳姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202603121500",
+    "gender": "男",
+    "age": "48",
+    "method_1": "藥品",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "3",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-11T07:05:00Z",
     "latitude": "22.3650008668663",
     "longitude": "114.136477049314",
