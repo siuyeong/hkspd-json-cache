@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-12T12:00:00Z",
+    "latitude": "22.3205909834773",
+    "longitude": "114.216089244027",
+    "tuned_address": "九龍牛頭角上邨常泰樓",
+    "tuned_profile": "62歲黃姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603122000",
+    "gender": "男",
+    "age": "62",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "3",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-12T07:00:00Z",
     "latitude": "22.3260257240487",
     "longitude": "114.214704540837",
