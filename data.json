@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-16T02:13:00Z",
+    "latitude": "22.3307388802909",
+    "longitude": "114.170730114796",
+    "tuned_address": "石硤尾大坑東邨東健樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603161013",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "深水埗區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-15T22:36:00Z",
     "latitude": "22.3751637817516",
     "longitude": "114.172679693609",
