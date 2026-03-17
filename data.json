@@ -94,6 +94,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2026-03-15T16:00:00Z",
+    "latitude": "22.4237968173665",
+    "longitude": "114.179165596653",
+    "tuned_address": "新界大埔滘林徑附近斜坡",
+    "tuned_profile": "68歲劉姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603160000",
+    "gender": "男",
+    "age": "68",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "3",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-15T14:38:00Z",
     "latitude": "22.3480312700199",
     "longitude": "114.200598568552",
