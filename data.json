@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-18T07:27:00Z",
+    "latitude": "22.3783097594096",
+    "longitude": "114.194070404852",
+    "tuned_address": "沙田沙角邨一單位",
+    "tuned_profile": "37歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603181527",
+    "gender": "男",
+    "age": "37",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "沙田區",
+    "month": "3",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-17T14:11:00Z",
     "latitude": "22.4691780266698",
     "longitude": "114.001624944785",
