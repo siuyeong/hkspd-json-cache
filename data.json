@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-03-23T05:23:00Z",
+    "latitude": "22.3207459632418",
+    "longitude": "114.163300213024",
+    "tuned_address": "大角咀櫸樹街奧柏御峯",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202603231015",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "3",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-20T22:07:00Z",
     "latitude": "22.3067716018466",
     "longitude": "114.252436387284",
