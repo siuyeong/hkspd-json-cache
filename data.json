@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-03-27T07:34:00Z",
+    "latitude": "22.3190403299411",
+    "longitude": "114.170797165616",
+    "tuned_address": "旺角通菜街74號",
+    "tuned_profile": "72歲關姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202603271534",
+    "gender": "男",
+    "age": "72",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "3",
+    "age_group": "70 – 74",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-03-27T00:43:00Z",
     "latitude": "22.3852132683568",
     "longitude": "114.203183079194",
