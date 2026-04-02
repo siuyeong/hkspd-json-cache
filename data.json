@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-04-02T00:35:00Z",
+    "latitude": "22.5125818262345",
+    "longitude": "114.105400210229",
+    "tuned_address": "古洞河上鄉路一汽車",
+    "tuned_profile": "42歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202604020835",
+    "gender": "男",
+    "age": "42",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "北區",
+    "month": "4",
+    "age_group": "40 – 44",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-04-02T00:08:00Z",
     "latitude": "22.3182022951525",
     "longitude": "114.187340757903",
