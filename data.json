@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-07-25T01:45:00Z",
+    "latitude": "22.2436322961572",
+    "longitude": "114.153438323874",
+    "tuned_address": "新界鴨脷洲大街樂景大廈",
+    "tuned_profile": "31歲黎姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202607250945",
+    "gender": "男",
+    "age": "31",
+    "method_1": "窒息",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "7",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-07-24T22:50:00Z",
     "latitude": "22.2857408636539",
     "longitude": "114.137892126462",
