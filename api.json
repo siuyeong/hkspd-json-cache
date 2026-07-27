@@ -1,5 +1,33 @@
 [
   {
+    "caseID": "2026072702",
+    "newsDate": "2026-07-27",
+    "newsTime": "14:37",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202607271413",
+    "caseDate": "2026-07-27",
+    "caseTime": "14:13",
+    "Area": "新界",
+    "District": "大埔區",
+    "subDistrict": "大埔",
+    "Unit": "富亨邨",
+    "subUnit": "亨榮樓",
+    "Latitude": "22.4601371763532",
+    "Longitude": "114.172562910124",
+    "House": "公共屋邨",
+    "firstName": "不詳",
+    "Gender": "男",
+    "Age": "39",
+    "Hospitalized": "有",
+    "State": "昏迷",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
+    "type1": "燒炭"
+  },
+  {
     "caseID": "2026072701",
     "newsDate": "2026-07-27",
     "newsTime": "08:16",
@@ -24,7 +52,7 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "財政",
     "type1": "自縊"
   },
   {
