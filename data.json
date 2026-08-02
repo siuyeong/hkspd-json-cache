@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-02T05:21:00Z",
+    "latitude": "22.2882718632504",
+    "longitude": "114.144980197382",
+    "tuned_address": "上環威利蔴街威利大廈",
+    "tuned_profile": "62歲譚姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608021321",
+    "gender": "男",
+    "age": "62",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "reason_2": "健康",
+    "districts": "中西區",
+    "month": "8",
+    "age_group": "60 – 64",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-08-02T03:28:00Z",
     "latitude": "22.4448227010439",
     "longitude": "114.006570514661",
