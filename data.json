@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-02T03:28:00Z",
+    "latitude": "22.4448227010439",
+    "longitude": "114.006570514661",
+    "tuned_address": "屏山坑尾村一單位",
+    "tuned_profile": "17歲少女",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608021128",
+    "gender": "女",
+    "age": "17",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "元朗區",
+    "month": "8",
+    "age_group": "15 – 19",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-01T05:58:00Z",
     "latitude": "22.3346577402594",
     "longitude": "114.214273350054",
