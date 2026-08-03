@@ -10,10 +10,10 @@
     "Area": "新界",
     "District": "荃灣區",
     "subDistrict": "荃灣",
-    "Unit": "青山公路",
-    "subUnit": "一大廈高處",
-    "Latitude": "22.3751466328435",
-    "Longitude": "114.111959475216",
+    "Unit": "荃灣多層停車場",
+    "subUnit": "高處",
+    "Latitude": "22.3725768088552",
+    "Longitude": "114.118772180388",
     "House": "非住宅",
     "firstName": "鄭",
     "Gender": "男",
@@ -24,7 +24,7 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "財政",
     "type1": "跳落"
   },
   {
