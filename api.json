@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026080603",
+    "caseID": "2026080604",
     "newsDate": "2026-08-06",
     "newsTime": "12:10",
     "newsHelp": "有",
@@ -25,6 +25,34 @@
     "missingRecord": "沒有",
     "reason1": "不詳",
     "type1": "不詳"
+  },
+  {
+    "caseID": "2026080603",
+    "newsDate": "2026-08-06",
+    "newsTime": "10:59",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202608061027",
+    "caseDate": "2026-08-06",
+    "caseTime": "10:27",
+    "Area": "新界",
+    "District": "大埔區",
+    "subDistrict": "大埔",
+    "Unit": "大埔海濱公園碼頭",
+    "subUnit": "對開海面",
+    "Latitude": "22.4523641163966",
+    "Longitude": "114.183754589445",
+    "House": "非住宅",
+    "firstName": "李",
+    "Gender": "女",
+    "Age": "31",
+    "Hospitalized": "有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "有",
+    "missingRecord": "沒有",
+    "reason1": "健康",
+    "type1": "淹溺"
   },
   {
     "caseID": "2026080602",
