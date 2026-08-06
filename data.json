@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-05T21:50:00Z",
+    "latitude": "22.3334016346932",
+    "longitude": "114.213144391614",
+    "tuned_address": "牛池灣彩雲(一)邨繡文樓",
+    "tuned_profile": "47歲黃姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608060550",
+    "gender": "男",
+    "age": "47",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "8",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-05T12:53:00Z",
     "latitude": "22.3078256997922",
     "longitude": "114.236281170677",
