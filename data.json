@@ -18,6 +18,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2026-08-06T02:27:00Z",
+    "latitude": "22.4523641163966",
+    "longitude": "114.183754589445",
+    "tuned_address": "新界大埔海濱公園碼頭對開海面",
+    "tuned_profile": "31歲李姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608061027",
+    "gender": "女",
+    "age": "31",
+    "method_1": "淹溺",
+    "reason_1": "健康",
+    "districts": "大埔區",
+    "month": "8",
+    "age_group": "30 – 34",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-08-06T01:53:00Z",
     "latitude": "22.2067941658776",
     "longitude": "114.028279838021",
