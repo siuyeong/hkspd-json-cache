@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-06T06:41:00Z",
+    "latitude": "22.1617807723480",
+    "longitude": "114.264754020566",
+    "tuned_address": "蒲台島一貨船對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202608061441",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-06T03:46:00Z",
     "latitude": "22.2897212223293",
     "longitude": "114.152206545458",
