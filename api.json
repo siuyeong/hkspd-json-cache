@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026080604",
+    "caseID": "2026080605",
     "newsDate": "2026-08-06",
     "newsTime": "12:10",
     "newsHelp": "有",
@@ -11,7 +11,7 @@
     "District": "中西區",
     "subDistrict": "上環",
     "Unit": "干諾道中",
-    "subUnit": "海旁",
+    "subUnit": "對開海旁",
     "Latitude": "22.2897212223293",
     "Longitude": "114.152206545458",
     "House": "非住宅",
@@ -27,7 +27,7 @@
     "type1": "不詳"
   },
   {
-    "caseID": "2026080603",
+    "caseID": "2026080604",
     "newsDate": "2026-08-06",
     "newsTime": "10:59",
     "newsHelp": "有",
@@ -51,11 +51,12 @@
     "mental_illness": "沒有",
     "emotional_illness": "有",
     "missingRecord": "沒有",
-    "reason1": "健康",
+    "reason1": "生活",
+    "reason2": "健康",
     "type1": "淹溺"
   },
   {
-    "caseID": "2026080602",
+    "caseID": "2026080603",
     "newsDate": "2026-08-06",
     "newsTime": "10:02",
     "newsHelp": "有",
@@ -81,6 +82,34 @@
     "missingRecord": "沒有",
     "reason1": "不詳",
     "type1": "自縊"
+  },
+  {
+    "caseID": "2026080602",
+    "newsDate": "2026-08-06",
+    "newsTime": "15:55",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202608060951",
+    "caseDate": "2026-08-06",
+    "caseTime": "09:51",
+    "Area": "新界",
+    "District": "大埔區",
+    "subDistrict": "大埔",
+    "Unit": "汀角路",
+    "subUnit": "省躬大廈",
+    "Latitude": "22.4529326307064",
+    "Longitude": "114.165512600068",
+    "House": "唐樓",
+    "firstName": "黎",
+    "Gender": "男",
+    "Age": "30",
+    "Hospitalized": "有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "生活",
+    "type1": "跳落"
   },
   {
     "caseID": "2026080601",
