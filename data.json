@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-06T07:26:00Z",
+    "latitude": "22.3687972367649",
+    "longitude": "114.109583827884",
+    "tuned_address": "荃灣海之戀一單位",
+    "tuned_profile": "38歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608061526",
+    "gender": "男",
+    "age": "38",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "荃灣區",
+    "month": "8",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-08-06T06:41:00Z",
     "latitude": "22.1617807723480",
     "longitude": "114.264754020566",
