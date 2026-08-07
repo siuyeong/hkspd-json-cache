@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-07T01:06:00Z",
+    "latitude": "22.2902680570256",
+    "longitude": "114.218761844915",
+    "tuned_address": "港島鰂魚涌公園對開海面",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202608070906",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-06T21:48:00Z",
     "latitude": "22.3726029983910",
     "longitude": "114.103029272002",
