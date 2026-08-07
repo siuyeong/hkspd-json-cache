@@ -18,6 +18,25 @@
     "emotional_illness": "沒有"
   },
   {
+    "date": "2026-08-07T07:29:00Z",
+    "latitude": "22.3281814095213",
+    "longitude": "114.210914511930",
+    "tuned_address": "九龍灣啟泰苑一大廈高處",
+    "tuned_profile": "52歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608071529",
+    "gender": "男",
+    "age": "52",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "觀塘區",
+    "month": "8",
+    "age_group": "50 – 54",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-08-07T06:54:00Z",
     "latitude": "22.2849530370144",
     "longitude": "114.192377816645",
