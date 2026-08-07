@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026080704",
+    "caseID": "2026080705",
     "newsDate": "2026-08-07",
     "newsTime": "18:39",
     "newsHelp": "有",
@@ -24,6 +24,34 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "不詳",
+    "type1": "跳落"
+  },
+  {
+    "caseID": "2026080704",
+    "newsDate": "2026-08-07",
+    "newsTime": "21:20",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202608071529",
+    "caseDate": "2026-08-07",
+    "caseTime": "15:29",
+    "Area": "九龍",
+    "District": "觀塘區",
+    "subDistrict": "九龍灣",
+    "Unit": "啟泰苑",
+    "subUnit": "一大廈高處",
+    "Latitude": "22.3281814095213",
+    "Longitude": "114.210914511930",
+    "House": "居屋",
+    "firstName": "林",
+    "Gender": "男",
+    "Age": "52",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "有",
+    "missingRecord": "沒有",
+    "reason1": "健康",
     "type1": "跳落"
   },
   {
