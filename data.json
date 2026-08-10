@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-10T02:46:00Z",
+    "latitude": "22.2861723984237",
+    "longitude": "114.149140509869",
+    "tuned_address": "上環萬利商業大廈一單位",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202608101046",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "中西區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-08T23:39:00Z",
     "latitude": "22.3731097781403",
     "longitude": "114.113813956271",
