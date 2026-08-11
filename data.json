@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-10T14:00:00Z",
+    "latitude": "22.3673089917533",
+    "longitude": "114.130185889305",
+    "tuned_address": "新界葵涌邨秋葵樓",
+    "tuned_profile": "53歲廖姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202608102200",
+    "gender": "男",
+    "age": "53",
+    "method_1": "出血",
+    "reason_1": "財政",
+    "districts": "葵青區",
+    "month": "8",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-10T07:28:00Z",
     "latitude": "22.3267399381839",
     "longitude": "114.157655157100",
@@ -110486,8 +110505,8 @@
   },
   {
     "date": "2021-02-12T04:14:00Z",
-    "latitude": "22.3673140000000",
-    "longitude": "114.130186000000",
+    "latitude": "22.3673089917533",
+    "longitude": "114.130185889305",
     "tuned_address": "新界葵涌邨秋葵樓",
     "tuned_profile": "一名女子",
     "tuned_state": "企圖自殺",
