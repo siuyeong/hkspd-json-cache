@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-11T00:13:00Z",
+    "latitude": "22.3523317529085",
+    "longitude": "114.199722505821",
+    "tuned_address": "慈雲山慈愛苑愛榮閣附近晨運徑",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608110813",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-10T14:00:00Z",
     "latitude": "22.3673089917533",
     "longitude": "114.130185889305",
