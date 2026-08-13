@@ -50,9 +50,10 @@
     "State": "身亡",
     "suicideNote": "有",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有",
+    "emotional_illness": "有",
     "missingRecord": "沒有",
     "reason1": "財政",
+    "reason2": "健康",
     "type1": "跳落"
   },
   {
