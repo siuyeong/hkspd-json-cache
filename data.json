@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-13T03:11:00Z",
+    "latitude": "22.4336862276082",
+    "longitude": "114.202300976246",
+    "tuned_address": "科學園天賦海灣1一單位",
+    "tuned_profile": "15歲少女",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608131111",
+    "gender": "女",
+    "age": "15",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "8",
+    "age_group": "15 – 19",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-13T00:51:00Z",
     "latitude": "22.3184864531993",
     "longitude": "114.236941396625",
