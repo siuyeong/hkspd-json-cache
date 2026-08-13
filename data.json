@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-13T06:47:00Z",
+    "latitude": "22.2870132368899",
+    "longitude": "113.942623064586",
+    "tuned_address": "東涌裕東苑一單位",
+    "tuned_profile": "66歲盧姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608131447",
+    "gender": "女",
+    "age": "66",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "離島區",
+    "month": "8",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-13T03:11:00Z",
     "latitude": "22.4336862276082",
     "longitude": "114.202300976246",
