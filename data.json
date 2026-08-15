@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-15T07:30:00Z",
+    "latitude": "22.2806560751735",
+    "longitude": "114.219061611254",
+    "tuned_address": "西灣河東熹苑一大廈梯間",
+    "tuned_profile": "65歲徐姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608151530",
+    "gender": "男",
+    "age": "65",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "東區",
+    "month": "8",
+    "age_group": "65 – 69",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-14T23:13:00Z",
     "latitude": "22.3788033482308",
     "longitude": "114.193836861464",
