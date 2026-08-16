@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-15T18:00:00Z",
+    "latitude": "22.3065293686098",
+    "longitude": "114.285289718962",
+    "tuned_address": "新界清水灣道一停車場一汽車",
+    "tuned_profile": "61歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608160200",
+    "gender": "男",
+    "age": "61",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "西貢區",
+    "month": "8",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-15T07:30:00Z",
     "latitude": "22.2806560751735",
     "longitude": "114.219061611254",
