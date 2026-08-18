@@ -43,16 +43,16 @@
     "Latitude": "22.4285386009497",
     "Longitude": "114.244068718094",
     "House": "私人屋苑",
-    "firstName": "不詳",
+    "firstName": "周",
     "Gender": "男",
-    "Age": "19",
+    "Age": "18",
     "Hospitalized": "沒有",
     "State": "身亡",
     "suicideNote": "沒有",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "健康",
     "type1": "跳落"
   },
   {
@@ -71,7 +71,7 @@
     "Latitude": "22.2795218964215",
     "Longitude": "114.231010911111",
     "House": "洋樓",
-    "firstName": "不詳",
+    "firstName": "廖",
     "Gender": "男",
     "Age": "57",
     "Hospitalized": "有",
@@ -80,7 +80,7 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "工作",
     "type1": "跳落"
   },
   {
