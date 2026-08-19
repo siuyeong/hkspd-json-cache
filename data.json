@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-18T18:18:00Z",
+    "latitude": "22.3876232278238",
+    "longitude": "113.970882372302",
+    "tuned_address": "屯門友愛橋對開屯門河",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202608190218",
+    "gender": "男",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "屯門區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-18T09:05:00Z",
     "latitude": "22.3424872927273",
     "longitude": "114.191494295224",
@@ -134,7 +152,7 @@
     "emotional_illness": "有"
   },
   {
-    "date": "2026-08-16T23:02:00Z",
+    "date": "2026-08-17T00:30:00Z",
     "latitude": "22.2370946262694",
     "longitude": "114.196267206082",
     "tuned_address": "港島淺水灣泳灘現場",
