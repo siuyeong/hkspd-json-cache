@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-08-23T15:32:00Z",
+    "latitude": "22.3663454160153",
+    "longitude": "114.130617237882",
+    "tuned_address": "新界葵涌邨春葵樓",
+    "tuned_profile": "80歲郭姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608232332",
+    "gender": "男",
+    "age": "80",
+    "method_1": "跳落",
+    "reason_1": "感情",
+    "reason_2": "畏罪",
+    "districts": "葵青區",
+    "month": "8",
+    "age_group": "80 – 84",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-23T15:22:00Z",
     "latitude": "22.2867975929803",
     "longitude": "114.216329346244",
