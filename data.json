@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-24T00:51:00Z",
+    "latitude": "22.3206784104305",
+    "longitude": "114.221658117117",
+    "tuned_address": "牛頭角樂華南邨安華樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608240851",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "8",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-23T15:32:00Z",
     "latitude": "22.3663454160153",
     "longitude": "114.130617237882",
@@ -120664,8 +120682,8 @@
   },
   {
     "date": "2020-08-18T07:00:00Z",
-    "latitude": "22.3206870000000",
-    "longitude": "114.221653000000",
+    "latitude": "22.3206784104305",
+    "longitude": "114.221658117117",
     "tuned_address": "牛頭角樂華南邨安華樓",
     "tuned_profile": "63歲李姓男子",
     "tuned_state": "自殺身亡",
