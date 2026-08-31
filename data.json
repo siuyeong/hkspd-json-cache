@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-08-31T00:08:00Z",
+    "latitude": "22.2931103765483",
+    "longitude": "113.950312041840",
+    "tuned_address": "東涌映灣園一單位",
+    "tuned_profile": "25歲女青年",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202608310808",
+    "gender": "女",
+    "age": "25",
+    "method_1": "自縊",
+    "reason_1": "生活",
+    "districts": "離島區",
+    "month": "8",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-30T21:55:00Z",
     "latitude": "22.3389620165527",
     "longitude": "114.191782066900",
