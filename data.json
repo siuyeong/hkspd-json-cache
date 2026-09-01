@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-31T23:31:00Z",
+    "latitude": "22.4627788114022",
+    "longitude": "113.992247833167",
+    "tuned_address": "流浮山一露天停車場一汽車",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609010731",
+    "gender": "男",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-08-31T23:07:00Z",
     "latitude": "22.3045682429213",
     "longitude": "114.009757521394",
