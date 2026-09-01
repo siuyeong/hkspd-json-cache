@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-01T06:04:00Z",
+    "latitude": "22.2964738250424",
+    "longitude": "114.172510351666",
+    "tuned_address": "尖沙咀重慶大廈一賓館一房間",
+    "tuned_profile": "44歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609011404",
+    "gender": "男",
+    "age": "44",
+    "method_1": "燒炭",
+    "reason_1": "不詳",
+    "districts": "油尖旺區",
+    "month": "9",
+    "age_group": "40 – 44",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-01T03:48:00Z",
     "latitude": "22.3654347588220",
     "longitude": "114.137379859417",
