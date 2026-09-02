@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-01T16:46:00Z",
+    "latitude": "22.2379650111881",
+    "longitude": "114.153436472533",
+    "tuned_address": "鴨脷洲港灣工貿中心高處",
+    "tuned_profile": "44歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609020046",
+    "gender": "男",
+    "age": "44",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "南區",
+    "month": "9",
+    "age_group": "40 – 44",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-09-01T06:04:00Z",
     "latitude": "22.2964738250424",
     "longitude": "114.172510351666",
