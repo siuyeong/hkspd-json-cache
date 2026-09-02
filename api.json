@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026090203",
+    "caseID": "2026090204",
     "newsDate": "2026-09-02",
     "newsTime": "12:08",
     "newsHelp": "有",
@@ -28,6 +28,34 @@
     "type1": "燒炭"
   },
   {
+    "caseID": "2026090203",
+    "newsDate": "2026-09-02",
+    "newsTime": "11:16",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202609020935",
+    "caseDate": "2026-09-02",
+    "caseTime": "09:35",
+    "Area": "新界",
+    "District": "屯門區",
+    "subDistrict": "屯門",
+    "Unit": "良景邨",
+    "subUnit": "良偉樓",
+    "Latitude": "22.4045340840103",
+    "Longitude": "113.961091295960",
+    "House": "公共屋邨",
+    "firstName": "張",
+    "Gender": "女",
+    "Age": "71",
+    "Hospitalized": "有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
+    "type1": "自縊"
+  },
+  {
     "caseID": "2026090202",
     "newsDate": "2026-09-02",
     "newsTime": "09:37",
@@ -52,7 +80,7 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "財政",
     "type1": "跳落"
   },
   {
