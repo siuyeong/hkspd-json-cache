@@ -1,5 +1,32 @@
 [
   {
+    "caseID": "2026090401",
+    "newsDate": "2026-09-04",
+    "newsTime": "07:45",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202609040731",
+    "caseDate": "2026-09-04",
+    "caseTime": "07:31",
+    "Area": "新界",
+    "District": "大埔區",
+    "subDistrict": "大埔",
+    "Unit": "頌雅苑",
+    "subUnit": "一單位",
+    "Latitude": "22.4596850506911",
+    "Longitude": "114.170122544332",
+    "House": "居屋",
+    "firstName": "不詳",
+    "Gender": "男",
+    "Hospitalized": "有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
+    "type1": "自縊"
+  },
+  {
     "caseID": "2026090302",
     "newsDate": "2026-09-04",
     "newsTime": "00:04",
@@ -24,7 +51,7 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "財政",
     "type1": "跳落"
   },
   {
