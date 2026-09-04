@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-03T15:23:00Z",
+    "latitude": "22.3611428123927",
+    "longitude": "114.119700877882",
+    "tuned_address": "葵涌晉昇工廠大廈高處",
+    "tuned_profile": "28歲張姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609032323",
+    "gender": "男",
+    "age": "28",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "9",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-03T03:53:00Z",
     "latitude": "22.2840652899423",
     "longitude": "114.126993605307",
