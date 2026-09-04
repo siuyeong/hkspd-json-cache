@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-04T12:05:00Z",
+    "latitude": "22.3392950455788",
+    "longitude": "114.200323642338",
+    "tuned_address": "鑽石山啟鑽苑一單位",
+    "tuned_profile": "45歲王姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609042005",
+    "gender": "男",
+    "age": "45",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "9",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-09-04T09:53:00Z",
     "latitude": "22.3216367983726",
     "longitude": "114.188433347481",
