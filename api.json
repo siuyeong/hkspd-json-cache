@@ -106,9 +106,9 @@
     "State": "身亡",
     "suicideNote": "沒有",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有",
+    "emotional_illness": "有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "健康",
     "type1": "自縊"
   },
   {
