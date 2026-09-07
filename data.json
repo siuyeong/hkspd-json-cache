@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-07T04:40:00Z",
+    "latitude": "22.2830014729718",
+    "longitude": "113.935873760302",
+    "tuned_address": "新界東涌天主教學校現場",
+    "tuned_profile": "15歲少女",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202609071240",
+    "gender": "女",
+    "age": "15",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "離島區",
+    "month": "9",
+    "age_group": "15 – 19",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-07T02:47:00Z",
     "latitude": "22.3229384194180",
     "longitude": "114.252732708595",
@@ -48,13 +67,13 @@
     "gender": "女",
     "age": "14",
     "method_1": "自縊",
-    "reason_1": "不詳",
+    "reason_1": "健康",
     "districts": "油尖旺區",
     "month": "9",
     "age_group": "10 – 14",
     "area": "九龍",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有"
+    "emotional_illness": "有"
   },
   {
     "date": "2026-09-06T11:00:00Z",
