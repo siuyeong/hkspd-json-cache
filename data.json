@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-07T20:20:00Z",
+    "latitude": "22.3795777598045",
+    "longitude": "114.104226755155",
+    "tuned_address": "荃灣荃威花園R座",
+    "tuned_profile": "54歲鄧姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609080420",
+    "gender": "男",
+    "age": "54",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "荃灣區",
+    "month": "9",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-07T10:10:00Z",
     "latitude": "22.3477301397475",
     "longitude": "114.104509695470",
