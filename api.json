@@ -28,7 +28,7 @@
     "type1": "跳落"
   },
   {
-    "caseID": "2026090705",
+    "caseID": "2026090706",
     "newsDate": "2026-09-07",
     "newsTime": "21:25",
     "newsHelp": "有",
@@ -56,7 +56,7 @@
     "type1": "自縊"
   },
   {
-    "caseID": "2026090704",
+    "caseID": "2026090705",
     "newsDate": "2026-09-07",
     "newsTime": "13:43",
     "newsHelp": "有",
@@ -80,7 +80,35 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "學業",
+    "type1": "出血"
+  },
+  {
+    "caseID": "2026090704",
+    "newsDate": "2026-09-08",
+    "newsTime": "00:00",
+    "newsHelp": "沒有",
+    "newsURL": "https://siuyeo.ng/hkspd202609071200",
+    "caseDate": "2026-09-07",
+    "caseTime": "12:00",
+    "Area": "新界",
+    "District": "沙田區",
+    "subDistrict": "馬鞍山",
+    "Unit": "一建築",
+    "subUnit": "現場",
+    "Latitude": "22.4276478836165",
+    "Longitude": "114.240271135987",
+    "House": "非住宅",
+    "firstName": "不詳",
+    "Gender": "男",
+    "Age": "17",
+    "Hospitalized": "有",
+    "State": "清醒",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "學業",
     "type1": "出血"
   },
   {
@@ -134,9 +162,10 @@
     "State": "清醒",
     "suicideNote": "沒有",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有",
+    "emotional_illness": "有",
     "missingRecord": "沒有",
     "reason1": "家庭",
+    "reason2": "健康",
     "type1": "跳落"
   },
   {
