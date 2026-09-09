@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-08T23:17:00Z",
+    "latitude": "22.2705599843521",
+    "longitude": "114.126238153568",
+    "tuned_address": "沙灣域多利道域多利花園",
+    "tuned_profile": "36歲女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609090717",
+    "gender": "女",
+    "age": "36",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "南區",
+    "month": "9",
+    "age_group": "35 – 39",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-08T22:19:00Z",
     "latitude": "22.3717306458032",
     "longitude": "114.101166146411",
