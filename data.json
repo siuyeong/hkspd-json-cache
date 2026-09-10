@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-09T16:19:00Z",
+    "latitude": "22.4580182325722",
+    "longitude": "114.060723183726",
+    "tuned_address": "錦田逢吉鄉路一屋村一單位",
+    "tuned_profile": "62歲秦姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609100019",
+    "gender": "男",
+    "age": "62",
+    "method_1": "自縊",
+    "reason_1": "生活",
+    "districts": "元朗區",
+    "month": "9",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-09T06:08:00Z",
     "latitude": "22.3717325703079",
     "longitude": "113.989498755591",
