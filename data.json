@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-12T09:33:00Z",
+    "latitude": "22.2738116025303",
+    "longitude": "114.164480754877",
+    "tuned_address": "半山寶雲閣一單位",
+    "tuned_profile": "33歲女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609121733",
+    "gender": "女",
+    "age": "33",
+    "method_1": "自縊",
+    "reason_1": "生活",
+    "districts": "中西區",
+    "month": "9",
+    "age_group": "30 – 34",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-11T20:47:00Z",
     "latitude": "22.3253547107878",
     "longitude": "114.174297132118",
