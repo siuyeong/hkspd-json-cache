@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-13T10:44:00Z",
+    "latitude": "22.3419286981477",
+    "longitude": "114.211649240847",
+    "tuned_address": "斧山海港花園一單位",
+    "tuned_profile": "28歲關姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609131844",
+    "gender": "男",
+    "age": "28",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "黃大仙區",
+    "month": "9",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-13T06:00:00Z",
     "latitude": "22.3332626986524",
     "longitude": "114.156690461937",
