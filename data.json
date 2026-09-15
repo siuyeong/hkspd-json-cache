@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-14T22:24:00Z",
+    "latitude": "22.2964984451975",
+    "longitude": "114.271937323652",
+    "tuned_address": "將軍澳日出康城首都5座",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609150624",
+    "gender": "女",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "西貢區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-13T21:42:00Z",
     "latitude": "22.3009545166068",
     "longitude": "114.235926866200",
@@ -118344,8 +118362,8 @@
   },
   {
     "date": "2020-10-22T08:08:00Z",
-    "latitude": "22.2961340000000",
-    "longitude": "114.271002000000",
+    "latitude": "22.2952380044869",
+    "longitude": "114.271612541602",
     "tuned_address": "將軍澳日出康城首都1座",
     "tuned_profile": "78歲洪姓老翁",
     "tuned_state": "自殺身亡",
@@ -148918,7 +148936,7 @@
     "date": "2019-04-12T00:25:00Z",
     "latitude": "22.4159010000000",
     "longitude": "114.227847000000",
-    "tuned_address": "馬鞍山恒安邨恒海樓",
+    "tuned_address": "馬鞍山恆安邨恒海樓",
     "tuned_profile": "30歲女子",
     "tuned_state": "企圖自殺",
     "source": "https://bit.ly/2ItG9Hp",
