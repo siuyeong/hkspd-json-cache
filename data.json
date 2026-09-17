@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-17T10:07:00Z",
+    "latitude": "22.2827146957446",
+    "longitude": "114.221910213109",
+    "tuned_address": "西灣河筲箕灣道太安樓",
+    "tuned_profile": "53歲梁姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609171807",
+    "gender": "男",
+    "age": "53",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "東區",
+    "month": "9",
+    "age_group": "50 – 54",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-17T01:21:00Z",
     "latitude": "22.3729098433251",
     "longitude": "114.118254655264",
