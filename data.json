@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-16T18:04:00Z",
+    "latitude": "22.4601371763532",
+    "longitude": "114.172562910124",
+    "tuned_address": "大埔富亨邨亨榮樓",
+    "tuned_profile": "46歲蘇姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609170204",
+    "gender": "男",
+    "age": "46",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "大埔區",
+    "month": "9",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-16T07:12:00Z",
     "latitude": "22.2714952055647",
     "longitude": "114.195455567702",
