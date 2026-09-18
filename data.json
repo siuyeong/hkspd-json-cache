@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-17T13:00:00Z",
+    "latitude": "22.3086194294755",
+    "longitude": "114.219728664703",
+    "tuned_address": "九龍觀塘公眾碼頭對開海面",
+    "tuned_profile": "45歲林姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609172100",
+    "gender": "男",
+    "age": "45",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "9",
+    "age_group": "45 – 49",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-17T12:00:00Z",
     "latitude": "22.3381792912835",
     "longitude": "114.158968180272",
