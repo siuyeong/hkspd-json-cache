@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-19T05:40:00Z",
+    "latitude": "22.3301531442574",
+    "longitude": "114.214917888013",
+    "tuned_address": "平山彩德邨彩亮樓",
+    "tuned_profile": "63歲吳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609191340",
+    "gender": "男",
+    "age": "63",
+    "method_1": "燒炭",
+    "reason_1": "財政",
+    "districts": "觀塘區",
+    "month": "9",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-19T04:31:00Z",
     "latitude": "22.2831452006655",
     "longitude": "113.934879409168",
