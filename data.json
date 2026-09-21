@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-20T13:10:00Z",
+    "latitude": "22.3481676949086",
+    "longitude": "114.203827776980",
+    "tuned_address": "慈雲山慈民邨民裕樓",
+    "tuned_profile": "40歲陳姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609202110",
+    "gender": "男",
+    "age": "40",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "9",
+    "age_group": "40 – 44",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-09-20T10:21:00Z",
     "latitude": "22.4216619276269",
     "longitude": "114.226572300444",
