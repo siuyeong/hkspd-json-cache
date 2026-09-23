@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026092306",
+    "caseID": "2026092307",
     "newsDate": "2026-09-23",
     "newsTime": "22:25",
     "newsHelp": "有",
@@ -28,7 +28,7 @@
     "type1": "跳落"
   },
   {
-    "caseID": "2026092305",
+    "caseID": "2026092306",
     "newsDate": "2026-09-23",
     "newsTime": "21:08",
     "newsHelp": "有",
@@ -52,6 +52,34 @@
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
     "missingRecord": "有",
+    "reason1": "健康",
+    "type1": "跳落"
+  },
+  {
+    "caseID": "2026092305",
+    "newsDate": "2026-09-23",
+    "newsTime": "22:46",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202609231446",
+    "caseDate": "2026-09-23",
+    "caseTime": "14:46",
+    "Area": "港島",
+    "District": "南區",
+    "subDistrict": "雞籠灣",
+    "Unit": "華貴邨",
+    "subUnit": "華賢樓",
+    "Latitude": "22.2505873393226",
+    "Longitude": "114.138474362276",
+    "House": "公共屋邨",
+    "firstName": "李",
+    "Gender": "男",
+    "Age": "92",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
     "reason1": "健康",
     "type1": "跳落"
   },
