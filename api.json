@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026092305",
+    "caseID": "2026092306",
     "newsDate": "2026-09-23",
     "newsTime": "20:33",
     "newsHelp": "有",
@@ -25,6 +25,34 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "財政",
+    "type1": "跳落"
+  },
+  {
+    "caseID": "2026092305",
+    "newsDate": "2026-09-23",
+    "newsTime": "21:08",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202609231541",
+    "caseDate": "2026-09-23",
+    "caseTime": "15:41",
+    "Area": "九龍",
+    "District": "觀塘區",
+    "subDistrict": "照鏡環",
+    "Unit": "衛奕信徑3段",
+    "subUnit": "高處",
+    "Latitude": "22.3111607702966",
+    "Longitude": "114.245157136757",
+    "House": "非住宅",
+    "firstName": "陳",
+    "Gender": "男",
+    "Age": "84",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "有",
+    "reason1": "健康",
     "type1": "跳落"
   },
   {
