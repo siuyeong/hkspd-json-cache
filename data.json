@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-25T01:58:00Z",
+    "latitude": "22.3482117416516",
+    "longitude": "114.200596642141",
+    "tuned_address": "九龍慈雲山中心高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202609250958",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "黃大仙區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-24T12:48:00Z",
     "latitude": "22.4260039069267",
     "longitude": "114.241870926910",
