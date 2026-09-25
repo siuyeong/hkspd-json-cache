@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-09-24T12:48:00Z",
+    "latitude": "22.4260039069267",
+    "longitude": "114.241870926910",
+    "tuned_address": "馬鞍山利安邨利興樓",
+    "tuned_profile": "62歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609242048",
+    "gender": "男",
+    "age": "62",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "reason_2": "健康",
+    "districts": "沙田區",
+    "month": "9",
+    "age_group": "60 – 64",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-23T20:39:00Z",
     "latitude": "22.4529914921945",
     "longitude": "114.175455110181",
