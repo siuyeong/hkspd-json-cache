@@ -15,8 +15,9 @@
     "Latitude": "22.3696567175335",
     "Longitude": "114.117768437132",
     "House": "唐樓",
-    "firstName": "不詳",
+    "firstName": "梁",
     "Gender": "男",
+    "Age": "40",
     "Hospitalized": "沒有",
     "State": "身亡",
     "suicideNote": "沒有",
@@ -24,7 +25,8 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "不詳",
-    "type1": "窒息"
+    "type1": "窒息",
+    "type2": "氣體"
   },
   {
     "caseID": "2026093001",
