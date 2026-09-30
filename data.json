@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-09-30T02:00:00Z",
+    "latitude": "22.3696567175335",
+    "longitude": "114.117768437132",
+    "tuned_address": "荃灣鹹田街成安樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202609301000",
+    "gender": "男",
+    "method_1": "窒息",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "9",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-30T00:00:00Z",
     "latitude": "22.3882137278855",
     "longitude": "114.199275289114",
