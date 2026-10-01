@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-09-30T18:43:00Z",
+    "latitude": "22.3682043543635",
+    "longitude": "114.134852621945",
+    "tuned_address": "石籬青山公路一院舍一洗手間",
+    "tuned_profile": "75歲姚姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610010243",
+    "gender": "男",
+    "age": "75",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "10",
+    "age_group": "75 – 79",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-09-30T10:00:00Z",
     "latitude": "22.3236080414252",
     "longitude": "114.213206106543",
