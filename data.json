@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-02T07:00:00Z",
+    "latitude": "22.3116220745543",
+    "longitude": "114.228565861834",
+    "tuned_address": "觀塘福塘道一工地現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610021500",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-01T05:02:00Z",
     "latitude": "22.3210684293102",
     "longitude": "114.218753733650",
