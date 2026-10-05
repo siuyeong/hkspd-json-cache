@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026100506",
+    "caseID": "2026100507",
     "newsDate": "2026-10-05",
     "newsTime": "21:31",
     "newsHelp": "有",
@@ -25,6 +25,34 @@
     "missingRecord": "有",
     "reason1": "不詳",
     "type1": "淹溺"
+  },
+  {
+    "caseID": "2026100506",
+    "newsDate": "2026-10-05",
+    "newsTime": "22:04",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202610051954",
+    "caseDate": "2026-10-05",
+    "caseTime": "19:54",
+    "Area": "九龍",
+    "District": "黃大仙區",
+    "subDistrict": "牛池灣",
+    "Unit": "彩雲(二)邨",
+    "subUnit": "瓊宮樓",
+    "Latitude": "22.3345846784160",
+    "Longitude": "114.216053281641",
+    "House": "公共屋邨",
+    "firstName": "蔡",
+    "Gender": "男",
+    "Age": "56",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "生活",
+    "type1": "燒炭"
   },
   {
     "caseID": "2026100505",
