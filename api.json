@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026100606",
+    "caseID": "2026100607",
     "newsDate": "2026-10-06",
     "newsTime": "13:36",
     "newsHelp": "有",
@@ -27,7 +27,7 @@
     "type1": "自縊"
   },
   {
-    "caseID": "2026100605",
+    "caseID": "2026100606",
     "newsDate": "2026-10-06",
     "newsTime": "13:37",
     "newsHelp": "有",
@@ -52,6 +52,34 @@
     "missingRecord": "沒有",
     "reason1": "不詳",
     "type1": "燒炭"
+  },
+  {
+    "caseID": "2026100605",
+    "newsDate": "2026-10-06",
+    "newsTime": "11:23",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202610061102",
+    "caseDate": "2026-10-06",
+    "caseTime": "11:02",
+    "Area": "新界",
+    "District": "葵青區",
+    "subDistrict": "青衣",
+    "Unit": "青衣邨",
+    "subUnit": "宜居樓",
+    "Latitude": "22.3533632921000",
+    "Longitude": "114.103140297007",
+    "House": "公共屋邨",
+    "firstName": "黎",
+    "Gender": "男",
+    "Age": "88",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
+    "type1": "跳落"
   },
   {
     "caseID": "2026100604",
