@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-08T13:15:00Z",
+    "latitude": "22.3859570783718",
+    "longitude": "114.308083603066",
+    "tuned_address": "西貢大網仔營地一帳篷",
+    "tuned_profile": "38歲劉姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610082115",
+    "gender": "女",
+    "age": "38",
+    "method_1": "燒炭",
+    "reason_1": "工作",
+    "districts": "西貢區",
+    "month": "10",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-07T20:23:00Z",
     "latitude": "22.3765173865284",
     "longitude": "113.965051402107",
