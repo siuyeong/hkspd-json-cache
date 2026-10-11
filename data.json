@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-11T07:52:00Z",
+    "latitude": "22.3918166186824",
+    "longitude": "114.297710685898",
+    "tuned_address": "西貢大網仔路一屋村一單位",
+    "tuned_profile": "39歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610111552",
+    "gender": "男",
+    "age": "39",
+    "method_1": "自縊",
+    "reason_1": "家庭",
+    "reason_2": "感情",
+    "districts": "西貢區",
+    "month": "10",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-11T02:05:00Z",
     "latitude": "22.2869690789551",
     "longitude": "114.133418088673",
