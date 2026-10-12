@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-12T05:12:00Z",
+    "latitude": "22.3669542890471",
+    "longitude": "114.140831669674",
+    "tuned_address": "葵涌石籬(二)邨石廣樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610121312",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "葵青區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-12T04:48:00Z",
     "latitude": "22.3115160653591",
     "longitude": "114.260439839424",
