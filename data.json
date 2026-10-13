@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-12T19:00:00Z",
+    "latitude": "22.3401513831216",
+    "longitude": "114.187949945403",
+    "tuned_address": "九龍橫頭磡邨宏澤樓",
+    "tuned_profile": "33歲劉姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610130300",
+    "gender": "男",
+    "age": "33",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "10",
+    "age_group": "30 – 34",
+    "area": "九龍",
+    "mental_illness": "有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-12T05:12:00Z",
     "latitude": "22.3669542890471",
     "longitude": "114.140831669674",
