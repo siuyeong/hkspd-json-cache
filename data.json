@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-14T00:38:00Z",
+    "latitude": "22.4080863759184",
+    "longitude": "113.983787347639",
+    "tuned_address": "屯門迎進生活一辦公室",
+    "tuned_profile": "48歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610140838",
+    "gender": "男",
+    "age": "48",
+    "method_1": "燒炭",
+    "reason_1": "工作",
+    "districts": "屯門區",
+    "month": "10",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-13T18:17:00Z",
     "latitude": "22.2882226364222",
     "longitude": "114.152828498089",
