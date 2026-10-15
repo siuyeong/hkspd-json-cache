@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026101404",
+    "caseID": "2026101405",
     "newsDate": "2026-10-15",
     "newsTime": "00:01",
     "newsHelp": "有",
@@ -25,6 +25,34 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "不詳",
+    "type1": "燒炭"
+  },
+  {
+    "caseID": "2026101404",
+    "newsDate": "2026-10-15",
+    "newsTime": "02:52",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202610142046",
+    "caseDate": "2026-10-14",
+    "caseTime": "20:46",
+    "Area": "新界",
+    "District": "離島區",
+    "subDistrict": "東涌",
+    "Unit": "健東路一停車場",
+    "subUnit": "一汽車",
+    "Latitude": "22.2931196055171",
+    "Longitude": "113.950175774266",
+    "House": "非住宅",
+    "firstName": "何",
+    "Gender": "男",
+    "Age": "49",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "財政",
     "type1": "燒炭"
   },
   {
