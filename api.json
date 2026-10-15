@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026101503",
+    "caseID": "2026101502",
     "newsDate": "2026-10-15",
     "newsTime": "18:40",
     "newsHelp": "有",
@@ -28,7 +28,7 @@
     "type1": "跳落"
   },
   {
-    "caseID": "2026101502",
+    "caseID": "2026101501",
     "newsDate": "2026-10-15",
     "newsTime": "06:01",
     "newsHelp": "有",
@@ -54,33 +54,6 @@
     "missingRecord": "沒有",
     "reason1": "不詳",
     "type1": "跳落"
-  },
-  {
-    "caseID": "2026101501",
-    "newsDate": "2026-10-15",
-    "newsTime": "05:03",
-    "newsHelp": "有",
-    "newsURL": "https://siuyeo.ng/hkspd202610150242",
-    "caseDate": "2026-10-15",
-    "caseTime": "02:42",
-    "Area": "新界",
-    "District": "西貢區",
-    "subDistrict": "西貢",
-    "Unit": "滘西洲",
-    "subUnit": "對開海面",
-    "Latitude": "22.3706830365176",
-    "Longitude": "114.298760870026",
-    "House": "非住宅",
-    "firstName": "不詳",
-    "Gender": "男",
-    "Hospitalized": "有",
-    "State": "身亡",
-    "suicideNote": "沒有",
-    "mental_illness": "沒有",
-    "emotional_illness": "沒有",
-    "missingRecord": "沒有",
-    "reason1": "不詳",
-    "type1": "淹溺"
   },
   {
     "caseID": "2026101405",
