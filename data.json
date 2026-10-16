@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-16T10:09:00Z",
+    "latitude": "22.2498394933171",
+    "longitude": "114.158042326404",
+    "tuned_address": "香港仔石排灣邨碧山樓",
+    "tuned_profile": "62歲朱姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610161809",
+    "gender": "男",
+    "age": "62",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "10",
+    "age_group": "60 – 64",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-16T05:03:00Z",
     "latitude": "22.3079545646083",
     "longitude": "114.192586268170",
