@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-17T22:10:00Z",
+    "latitude": "22.3281565439964",
+    "longitude": "114.154912089580",
+    "tuned_address": "深水埗富昌邨富盈樓",
+    "tuned_profile": "33歲黃姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610180610",
+    "gender": "男",
+    "age": "33",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "深水埗區",
+    "month": "10",
+    "age_group": "30 – 34",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-16T10:09:00Z",
     "latitude": "22.2498394933171",
     "longitude": "114.158042326404",
