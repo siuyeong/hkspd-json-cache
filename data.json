@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-20T17:16:00Z",
+    "latitude": "22.3619879228275",
+    "longitude": "114.080783715919",
+    "tuned_address": "青衣汀九橋現場",
+    "tuned_profile": "35歲姜姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610210116",
+    "gender": "男",
+    "age": "35",
+    "method_1": "淹溺",
+    "reason_1": "財政",
+    "reason_2": "生活",
+    "districts": "葵青區",
+    "month": "10",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-20T10:09:00Z",
     "latitude": "22.2455965619711",
     "longitude": "114.159738659136",
