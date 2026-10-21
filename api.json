@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026102102",
+    "caseID": "2026102103",
     "newsDate": "2026-10-21",
     "newsTime": "08:57",
     "newsHelp": "有",
@@ -24,6 +24,34 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "不詳",
+    "type1": "跳落"
+  },
+  {
+    "caseID": "2026102102",
+    "newsDate": "2026-10-21",
+    "newsTime": "10:49",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202610210645",
+    "caseDate": "2026-10-21",
+    "caseTime": "06:45",
+    "Area": "新界",
+    "District": "離島區",
+    "subDistrict": "東涌",
+    "Unit": "富東邨",
+    "subUnit": "東埔樓",
+    "Latitude": "22.2872741831200",
+    "Longitude": "113.941868057530",
+    "House": "公共屋邨",
+    "firstName": "何",
+    "Gender": "男",
+    "Age": "53",
+    "Hospitalized": "有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "健康",
     "type1": "跳落"
   },
   {
