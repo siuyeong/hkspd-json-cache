@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-21T00:07:00Z",
+    "latitude": "22.4493786133776",
+    "longitude": "114.000849596480",
+    "tuned_address": "天水圍天盛苑盛珍閣",
+    "tuned_profile": "一名女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610210807",
+    "gender": "女",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "元朗區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-20T17:16:00Z",
     "latitude": "22.3619879228275",
     "longitude": "114.080783715919",
@@ -127223,8 +127241,8 @@
   },
   {
     "date": "2020-06-30T00:54:00Z",
-    "latitude": "22.4493890000000",
-    "longitude": "114.000839000000",
+    "latitude": "22.4493786133776",
+    "longitude": "114.000849596480",
     "tuned_address": "天水圍天盛苑盛珍閣",
     "tuned_profile": "14歲男童",
     "tuned_state": "自殺身亡",
