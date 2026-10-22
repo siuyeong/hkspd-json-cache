@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-22T03:51:00Z",
+    "latitude": "22.3418453910390",
+    "longitude": "114.156466748507",
+    "tuned_address": "長沙灣蘇屋邨壽菊樓",
+    "tuned_profile": "72歲盧姓老嫗",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610221151",
+    "gender": "女",
+    "age": "72",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "深水埗區",
+    "month": "10",
+    "age_group": "70 – 74",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-21T23:52:00Z",
     "latitude": "22.3784623680591",
     "longitude": "114.107335642908",
