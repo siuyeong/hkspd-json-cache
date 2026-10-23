@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-10-23T07:48:00Z",
+    "latitude": "22.3826531610727",
+    "longitude": "114.214372163019",
+    "tuned_address": "小瀝源廣源邨廣柏樓",
+    "tuned_profile": "50歲莫姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610231548",
+    "gender": "男",
+    "age": "50",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "reason_2": "健康",
+    "districts": "沙田區",
+    "month": "10",
+    "age_group": "50 – 54",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-10-23T02:57:00Z",
     "latitude": "22.4495972981743",
     "longitude": "114.160694935561",
