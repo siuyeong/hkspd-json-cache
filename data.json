@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-23T20:39:00Z",
+    "latitude": "22.3878791454265",
+    "longitude": "113.977020710463",
+    "tuned_address": "屯門安定邨定泰樓",
+    "tuned_profile": "9歲女童",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202610240439",
+    "gender": "女",
+    "age": "9",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "屯門區",
+    "month": "10",
+    "age_group": "5 – 9",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-23T10:00:00Z",
     "latitude": "22.3062980431456",
     "longitude": "114.235348861267",
