@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026102404",
+    "caseID": "2026102405",
     "newsDate": "2026-10-24",
     "newsTime": "16:04",
     "newsHelp": "有",
@@ -25,6 +25,35 @@
     "missingRecord": "沒有",
     "reason1": "財政",
     "type1": "燒炭"
+  },
+  {
+    "caseID": "2026102404",
+    "newsDate": "2026-10-24",
+    "newsTime": "16:32",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202610241225",
+    "caseDate": "2026-10-24",
+    "caseTime": "12:25",
+    "Area": "九龍",
+    "District": "深水埗區",
+    "subDistrict": "深水埗",
+    "Unit": "本舍",
+    "subUnit": "一單位",
+    "Latitude": "22.3268279562792",
+    "Longitude": "114.149217462955",
+    "House": "服務式住宅",
+    "firstName": "王",
+    "Gender": "男",
+    "Age": "35",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "財政",
+    "type1": "窒息",
+    "type2": "氣體"
   },
   {
     "caseID": "2026102403",
