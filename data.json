@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-26T08:17:00Z",
+    "latitude": "22.4325133006838",
+    "longitude": "114.031578099096",
+    "tuned_address": "元朗大樹下東路一屋村一單位",
+    "tuned_profile": "37歲郭姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610261617",
+    "gender": "女",
+    "age": "37",
+    "method_1": "燒炭",
+    "reason_1": "生活",
+    "districts": "元朗區",
+    "month": "10",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-26T07:24:00Z",
     "latitude": "22.3461240138622",
     "longitude": "114.187862591614",
