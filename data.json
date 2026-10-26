@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-25T15:08:00Z",
+    "latitude": "22.4874802585868",
+    "longitude": "114.058788786296",
+    "tuned_address": "新田青山公路一屋村一單位",
+    "tuned_profile": "35歲冼姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610252308",
+    "gender": "男",
+    "age": "35",
+    "method_1": "自縊",
+    "reason_1": "財政",
+    "districts": "元朗區",
+    "month": "10",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-25T06:50:00Z",
     "latitude": "22.3075393346386",
     "longitude": "114.266851226894",
