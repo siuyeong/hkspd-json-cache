@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-10-27T07:00:00Z",
+    "latitude": "22.2505661073246",
+    "longitude": "114.135052349724",
+    "tuned_address": "港島瀑布灣道一石灘",
+    "tuned_profile": "80歲梁姓老翁",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202610271500",
+    "gender": "男",
+    "age": "80",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "10",
+    "age_group": "80 – 84",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-27T05:58:00Z",
     "latitude": "22.3773901947827",
     "longitude": "114.193817086346",
