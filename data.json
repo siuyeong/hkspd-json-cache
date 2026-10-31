@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-31T03:52:00Z",
+    "latitude": "22.2829295987978",
+    "longitude": "114.122842858437",
+    "tuned_address": "堅尼地城域多利道對開海面",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202610311152",
+    "gender": "女",
+    "method_1": "淹溺",
+    "reason_1": "不詳",
+    "districts": "中西區",
+    "month": "10",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-30T16:00:00Z",
     "latitude": "22.3859570783718",
     "longitude": "114.308083603066",
