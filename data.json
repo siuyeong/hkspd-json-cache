@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-01T04:46:00Z",
+    "latitude": "22.3454939362200",
+    "longitude": "114.197998189714",
+    "tuned_address": "竹園銀鳳街一單位",
+    "tuned_profile": "61歲張姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611011246",
+    "gender": "男",
+    "age": "61",
+    "method_1": "燒炭",
+    "reason_1": "健康",
+    "districts": "黃大仙區",
+    "month": "11",
+    "age_group": "60 – 64",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-10-31T09:31:00Z",
     "latitude": "22.3385173356249",
     "longitude": "114.192496462647",
