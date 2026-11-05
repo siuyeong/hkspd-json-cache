@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-05T08:16:00Z",
+    "latitude": "22.2447266595109",
+    "longitude": "114.151240079913",
+    "tuned_address": "港島鴨脷洲邨利添樓",
+    "tuned_profile": "56歲梁姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611051616",
+    "gender": "男",
+    "age": "56",
+    "method_1": "跳落",
+    "reason_1": "財政",
+    "districts": "南區",
+    "month": "11",
+    "age_group": "55 – 59",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-05T06:17:00Z",
     "latitude": "22.3751637817516",
     "longitude": "114.172679693609",
