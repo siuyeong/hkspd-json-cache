@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026110504",
+    "caseID": "2026110505",
     "newsDate": "2026-11-05",
     "newsTime": "19:54",
     "newsHelp": "有",
@@ -25,6 +25,34 @@
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
     "reason1": "財政",
+    "type1": "跳落"
+  },
+  {
+    "caseID": "2026110504",
+    "newsDate": "2026-11-05",
+    "newsTime": "20:02",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202611051417_2",
+    "caseDate": "2026-11-05",
+    "caseTime": "14:17",
+    "Area": "新界",
+    "District": "沙田區",
+    "subDistrict": "大圍",
+    "Unit": "美田邨",
+    "subUnit": "美庭樓",
+    "Latitude": "22.3756423973865",
+    "Longitude": "114.172735484645",
+    "House": "公共屋邨",
+    "firstName": "劉",
+    "Gender": "男",
+    "Age": "18",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
     "type1": "跳落"
   },
   {
