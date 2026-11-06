@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-05T23:19:00Z",
+    "latitude": "22.3164595437600",
+    "longitude": "114.269378951393",
+    "tuned_address": "坑口明德邨明道樓",
+    "tuned_profile": "45歲馮姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202611060719",
+    "gender": "男",
+    "age": "45",
+    "method_1": "藥品",
+    "reason_1": "健康",
+    "districts": "西貢區",
+    "month": "11",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-05T08:16:00Z",
     "latitude": "22.2447266595109",
     "longitude": "114.151240079913",
