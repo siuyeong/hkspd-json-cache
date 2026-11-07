@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-07T06:32:00Z",
+    "latitude": "22.4919276400683",
+    "longitude": "114.134007995679",
+    "tuned_address": "粉嶺嘉福邨福安樓",
+    "tuned_profile": "39歲男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611071432",
+    "gender": "男",
+    "age": "39",
+    "method_1": "燒炭",
+    "reason_1": "生活",
+    "districts": "北區",
+    "month": "11",
+    "age_group": "35 – 39",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-07T00:28:00Z",
     "latitude": "22.3627431828642",
     "longitude": "114.104532487668",
