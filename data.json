@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-10T07:06:00Z",
+    "latitude": "22.3725555553663",
+    "longitude": "114.118771365789",
+    "tuned_address": "新界荃灣多層停車場大廈高處",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202611101506",
+    "gender": "男",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "荃灣區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-10T04:15:00Z",
     "latitude": "22.3083350894740",
     "longitude": "114.234150064015",
@@ -130013,8 +130031,8 @@
   },
   {
     "date": "2020-06-05T08:15:00Z",
-    "latitude": "22.3725660000000",
-    "longitude": "114.118813000000",
+    "latitude": "22.3725555553663",
+    "longitude": "114.118771365789",
     "tuned_address": "新界荃灣多層停車場大廈高處",
     "tuned_profile": "一名女子",
     "tuned_state": "企圖自殺",
