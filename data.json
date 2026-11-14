@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-14T05:44:00Z",
+    "latitude": "22.2132318874406",
+    "longitude": "114.029063606893",
+    "tuned_address": "長洲東灣海灘現場",
+    "tuned_profile": "65歲梁姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611141344",
+    "gender": "女",
+    "age": "65",
+    "method_1": "不詳",
+    "reason_1": "健康",
+    "districts": "離島區",
+    "month": "11",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-11-13T23:40:00Z",
     "latitude": "22.3056416978869",
     "longitude": "114.186931288838",
