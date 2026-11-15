@@ -1,5 +1,33 @@
 [
   {
+    "caseID": "2026111403",
+    "newsDate": "2026-11-15",
+    "newsTime": "00:43",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202611142056",
+    "caseDate": "2026-11-14",
+    "caseTime": "20:56",
+    "Area": "九龍",
+    "District": "觀塘區",
+    "subDistrict": "牛頭角",
+    "Unit": "樂華南邨",
+    "subUnit": "安華樓",
+    "Latitude": "22.3206784104305",
+    "Longitude": "114.221658117117",
+    "House": "公共屋邨",
+    "firstName": "李",
+    "Gender": "女",
+    "Age": "73",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有",
+    "missingRecord": "沒有",
+    "reason1": "不詳",
+    "type1": "跳落"
+  },
+  {
     "caseID": "2026111402",
     "newsDate": "2026-11-14",
     "newsTime": "19:29",
@@ -25,7 +53,7 @@
     "emotional_illness": "有",
     "missingRecord": "有",
     "reason1": "健康",
-    "type1": "不詳"
+    "type1": "淹溺"
   },
   {
     "caseID": "2026111401",
