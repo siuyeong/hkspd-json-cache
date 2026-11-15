@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-15T03:08:00Z",
+    "latitude": "22.3044306401482",
+    "longitude": "114.238595560110",
+    "tuned_address": "長龍田廣田邨廣靖樓",
+    "tuned_profile": "32歲李姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611151108",
+    "gender": "男",
+    "age": "32",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "觀塘區",
+    "month": "11",
+    "age_group": "30 – 34",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-15T00:21:00Z",
     "latitude": "22.4349185827934",
     "longitude": "114.000597421143",
