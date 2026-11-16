@@ -44,13 +44,14 @@
     "House": "公共屋邨",
     "firstName": "不詳",
     "Gender": "女",
+    "Age": "29",
     "Hospitalized": "有",
     "State": "清醒",
     "suicideNote": "沒有",
-    "mental_illness": "沒有",
+    "mental_illness": "有",
     "emotional_illness": "沒有",
     "missingRecord": "沒有",
-    "reason1": "不詳",
+    "reason1": "健康",
     "type1": "燒炭"
   },
   {
