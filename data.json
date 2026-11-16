@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-16T00:12:00Z",
+    "latitude": "22.2896906825251",
+    "longitude": "114.197368633582",
+    "tuned_address": "北角堡壘街寶翠洋樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202611160812",
+    "gender": "男",
+    "method_1": "藥品",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-15T23:31:00Z",
     "latitude": "22.3336018027372",
     "longitude": "114.165248599591",
