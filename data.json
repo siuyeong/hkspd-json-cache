@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-19T07:39:00Z",
+    "latitude": "22.3499571472510",
+    "longitude": "114.101279824569",
+    "tuned_address": "青衣長康邨康祥樓",
+    "tuned_profile": "45歲黃姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611191539",
+    "gender": "男",
+    "age": "45",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "葵青區",
+    "month": "11",
+    "age_group": "45 – 49",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-17T08:30:00Z",
     "latitude": "22.4794203470378",
     "longitude": "114.045973377979",
