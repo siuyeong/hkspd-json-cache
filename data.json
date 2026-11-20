@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-20T00:59:00Z",
+    "latitude": "22.2378427656054",
+    "longitude": "114.194673260045",
+    "tuned_address": "港島淺水灣泳灘現場",
+    "tuned_profile": "一名女子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/via202611200859",
+    "gender": "女",
+    "method_1": "藥品",
+    "reason_1": "不詳",
+    "districts": "南區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-19T07:39:00Z",
     "latitude": "22.3499571472510",
     "longitude": "114.101279824569",
