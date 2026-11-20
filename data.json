@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-20T02:27:00Z",
+    "latitude": "22.2617582737363",
+    "longitude": "114.249157879060",
+    "tuned_address": "港島小西灣邨瑞福樓",
+    "tuned_profile": "37歲陳姓女子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611201027",
+    "gender": "女",
+    "age": "37",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "東區",
+    "month": "11",
+    "age_group": "35 – 39",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-20T01:44:00Z",
     "latitude": "22.4365015704325",
     "longitude": "114.023767092028",
