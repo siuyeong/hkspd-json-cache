@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-20T22:40:00Z",
+    "latitude": "22.4081115721487",
+    "longitude": "113.963772615334",
+    "tuned_address": "屯門良景邨良賢樓",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611210640",
+    "gender": "男",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "屯門區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-20T02:27:00Z",
     "latitude": "22.2617582737363",
     "longitude": "114.249157879060",
