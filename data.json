@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-21T06:53:00Z",
+    "latitude": "22.4022783075147",
+    "longitude": "113.972798612733",
+    "tuned_address": "屯門震寰路一院舍現場",
+    "tuned_profile": "66歲周姓男子",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202611211453",
+    "gender": "男",
+    "age": "66",
+    "method_1": "自縊",
+    "reason_1": "健康",
+    "districts": "屯門區",
+    "month": "11",
+    "age_group": "65 – 69",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "有"
+  },
+  {
     "date": "2026-11-20T22:40:00Z",
     "latitude": "22.4081115721487",
     "longitude": "113.963772615334",
