@@ -15,7 +15,7 @@
     "Latitude": "22.4360210214811",
     "Longitude": "114.199949477133",
     "House": "非住宅",
-    "firstName": "不詳",
+    "firstName": "蘇",
     "Gender": "女",
     "Age": "72",
     "Hospitalized": "沒有",
@@ -23,7 +23,7 @@
     "suicideNote": "沒有",
     "mental_illness": "沒有",
     "emotional_illness": "沒有",
-    "missingRecord": "沒有",
+    "missingRecord": "有",
     "reason1": "不詳",
     "type1": "淹溺"
   },
