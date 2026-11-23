@@ -42,18 +42,19 @@
     "latitude": "22.3639635671842",
     "longitude": "114.173195089405",
     "tuned_address": "大圍顯徑邨顯慶樓",
-    "tuned_profile": "一名男子",
+    "tuned_profile": "52歲陳姓男子",
     "tuned_state": "自殺身亡",
     "source": "https://siuyeo.ng/hkspd202611231109",
     "gender": "男",
+    "age": "52",
     "method_1": "跳落",
-    "reason_1": "不詳",
+    "reason_1": "健康",
     "districts": "沙田區",
     "month": "11",
-    "age_group": "不詳",
+    "age_group": "50 – 54",
     "area": "新界",
     "mental_illness": "沒有",
-    "emotional_illness": "沒有"
+    "emotional_illness": "有"
   },
   {
     "date": "2026-11-23T01:59:00Z",
