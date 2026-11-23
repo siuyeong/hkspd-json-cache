@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-23T08:49:00Z",
+    "latitude": "22.3741221788426",
+    "longitude": "113.965040182199",
+    "tuned_address": "屯門湖景邨湖畔樓",
+    "tuned_profile": "28歲馮姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611231649",
+    "gender": "男",
+    "age": "28",
+    "method_1": "自縊",
+    "reason_1": "不詳",
+    "districts": "屯門區",
+    "month": "11",
+    "age_group": "25 – 29",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-23T04:24:00Z",
     "latitude": "22.3065002060263",
     "longitude": "114.262359344147",
