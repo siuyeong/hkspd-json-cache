@@ -1,6 +1,6 @@
 [
   {
-    "caseID": "2026112306",
+    "caseID": "2026112307",
     "newsDate": "2026-11-23",
     "newsTime": "22:16",
     "newsHelp": "有",
@@ -26,6 +26,34 @@
     "missingRecord": "沒有",
     "reason1": "生活",
     "type1": "跳落"
+  },
+  {
+    "caseID": "2026112306",
+    "newsDate": "2026-11-23",
+    "newsTime": "22:22",
+    "newsHelp": "有",
+    "newsURL": "https://siuyeo.ng/hkspd202611231948",
+    "caseDate": "2026-11-23",
+    "caseTime": "19:48",
+    "Area": "港島",
+    "District": "東區",
+    "subDistrict": "小西灣",
+    "Unit": "佳翠苑",
+    "subUnit": "一單位",
+    "Latitude": "22.2617682496186",
+    "Longitude": "114.251053982194",
+    "House": "居屋",
+    "firstName": "莫",
+    "Gender": "女",
+    "Age": "64",
+    "Hospitalized": "沒有",
+    "State": "身亡",
+    "suicideNote": "沒有",
+    "mental_illness": "沒有",
+    "emotional_illness": "有",
+    "missingRecord": "沒有",
+    "reason1": "健康",
+    "type1": "出血"
   },
   {
     "caseID": "2026112305",
