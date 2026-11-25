@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-24T21:23:00Z",
+    "latitude": "22.2892716798020",
+    "longitude": "114.195959697800",
+    "tuned_address": "北角長康街高處",
+    "tuned_profile": "56歲潘姓男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611250523",
+    "gender": "男",
+    "age": "56",
+    "method_1": "跳落",
+    "reason_1": "健康",
+    "districts": "東區",
+    "month": "11",
+    "age_group": "55 – 59",
+    "area": "港島",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-24T10:43:00Z",
     "latitude": "22.3200748983518",
     "longitude": "114.222278511705",
