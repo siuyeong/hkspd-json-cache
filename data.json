@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-25T08:14:00Z",
+    "latitude": "22.3438918455309",
+    "longitude": "114.190684278461",
+    "tuned_address": "九龍竹園南邨貴園樓",
+    "tuned_profile": "26歲陳姓青年",
+    "tuned_state": "企圖自殺",
+    "source": "https://siuyeo.ng/hkspd202611251614",
+    "gender": "男",
+    "age": "26",
+    "method_1": "跳落",
+    "reason_1": "不詳",
+    "districts": "黃大仙區",
+    "month": "11",
+    "age_group": "25 – 29",
+    "area": "九龍",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-24T21:23:00Z",
     "latitude": "22.2892716798020",
     "longitude": "114.195959697800",
