@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-26T03:00:00Z",
+    "latitude": "22.4949786877958",
+    "longitude": "114.141455174891",
+    "tuned_address": "粉嶺上水警署現場",
+    "tuned_profile": "一名男子",
+    "tuned_state": "自殺身亡",
+    "source": "https://siuyeo.ng/hkspd202611261100",
+    "gender": "男",
+    "method_1": "出血",
+    "reason_1": "不詳",
+    "districts": "北區",
+    "month": "11",
+    "age_group": "不詳",
+    "area": "新界",
+    "mental_illness": "沒有",
+    "emotional_illness": "沒有"
+  },
+  {
     "date": "2026-11-25T08:14:00Z",
     "latitude": "22.3438918455309",
     "longitude": "114.190684278461",
